@@ -1,0 +1,13 @@
+# Bahan sumber (gambar murid/guru) — tidak dimuat naik ke GitHub; import semula dengan main.py import
+assets/media/
+assets/portraits/
+assets/audio/voiceover/
+# Hasil render & cache (fail besar)
+chapters/_cache/
+chapters/*/*.mp4
+chapters/*/.build_key
+output/*.mp4
+output/*.wav
+output/unmatched_import.txt
+__pycache__/
+*.part.mp4

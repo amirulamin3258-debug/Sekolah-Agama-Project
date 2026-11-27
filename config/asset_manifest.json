@@ -1,0 +1,3655 @@
+{
+ "generated_by": "scripts/scan_assets.py",
+ "source": "Storyboard Video Recap SRAR Iskandariah 2026 (claude.ai/artifact/Hyr66h7frR3QpAMtRzqjRU) + Google Drive metadata",
+ "summary": {
+  "total": 143,
+  "images": 87,
+  "videos": 56,
+  "local_present": 126,
+  "used_in_video": 118,
+  "storyboard_guna": 126,
+  "storyboard_simpanan": 13,
+  "storyboard_gugur": 4
+ },
+ "drive_folders": {
+  "01": "1lLg8qGMEwEzoFjJU2hgUx57E2ngsaa_v",
+  "02": "1WYTpHNFSz6z2g2BFQPLNUaTZQfnmn5E0",
+  "03": "18YnRxMpSI80jz499bfU8oiLLh3sQwL6l",
+  "04": "1-ILcGyD-98snMihB0Qxu4fYi21uBV2NZ",
+  "05": "11cYdxEsPek7bjF25_gVqvTJnwuYhn70E",
+  "06": "1Y3RBOp06rPWzIkae8q91obQOYEubP4Fi",
+  "07": "1MWYpOEvLCwPp-MEHA7To5FJfD42TuwmX",
+  "08": "1xmEZ8Dc-DMzkqDgNNYOd-VSTO7SLCTNM",
+  "09": "1Aoqu4emGOa_e1Zjn_2-hT8buau_YpndL",
+  "10": "1bUJN6jvQ5Uoi4Sgfx4OJYLyWT6QuBAuE",
+  "11": "1men_Bo2OS2Sq-HI0QLdMGp1iuS6YE26Y"
+ },
+ "portraits": [
+  {
+   "key": "pengerusi",
+   "name": "Tn Hj Jamalludin bin Abd Aziz",
+   "role": "Pengerusi",
+   "file": "assets/portraits/01_jamalludin.png",
+   "present": true,
+   "verified": true,
+   "flag": null
+  },
+  {
+   "key": "timbalan_pengerusi",
+   "name": "En Shahbuddin bin Abdullah",
+   "role": "Timbalan Pengerusi",
+   "file": "assets/portraits/02_shahbuddin.png",
+   "present": true,
+   "verified": true,
+   "flag": null
+  },
+  {
+   "key": "setiausaha",
+   "name": "Ustaz Farikh Ikhsan bin Mohammed",
+   "role": "Setiausaha",
+   "file": "assets/portraits/03_farikh.png",
+   "present": true,
+   "verified": true,
+   "flag": null
+  },
+  {
+   "key": "penolong_setiausaha",
+   "name": "Pn Nor Faizah binti Wahiddin",
+   "role": "Penolong Setiausaha",
+   "file": "assets/portraits/04_nor_faizah.jpg",
+   "present": true,
+   "verified": true,
+   "flag": null
+  },
+  {
+   "key": "bendahari",
+   "name": "Ustazah Noor Sadina binti Salleh",
+   "role": "Bendahari",
+   "file": "assets/portraits/05_noor_sadina.jpg",
+   "present": true,
+   "verified": true,
+   "flag": null
+  },
+  {
+   "key": "ajk_1",
+   "name": "Pn Suzilawati binti Suhaimi",
+   "role": "Ahli Jawatankuasa",
+   "file": "assets/portraits/06_suzilawati.jpg",
+   "present": true,
+   "verified": true,
+   "flag": "Potret mengandungi dua orang; dipaparkan penuh tanpa dipotong."
+  },
+  {
+   "key": "ajk_2",
+   "name": "Pn Ameera binti Yusof",
+   "role": "Ahli Jawatankuasa",
+   "file": "assets/portraits/07_ameera.mp4",
+   "present": true,
+   "verified": true,
+   "flag": "Fail potret ialah video (6.7 s); klip asal dimainkan dalam bingkai potret."
+  },
+  {
+   "key": "ajk_3",
+   "name": "En Abd Ghani bin Abu Bakar",
+   "role": "Ahli Jawatankuasa",
+   "file": "assets/portraits/08_abd_ghani.jpg",
+   "present": true,
+   "verified": true,
+   "flag": "Resolusi rendah (427x585)."
+  },
+  {
+   "key": "ajk_4",
+   "name": "Pn Norafiza binti Mohd Radzi",
+   "role": "Ahli Jawatankuasa",
+   "file": "assets/portraits/09_norafiza.jpg",
+   "present": true,
+   "verified": true,
+   "flag": null
+  },
+  {
+   "key": "audit_1",
+   "name": "Pn Fithra binti M Nor",
+   "role": "Pemeriksa Kira-Kira",
+   "file": "assets/portraits/10_fithra.png",
+   "present": true,
+   "verified": true,
+   "flag": null
+  },
+  {
+   "key": "audit_2",
+   "name": "Pn Norsyaruziana binti Abdull",
+   "role": "Pemeriksa Kira-Kira",
+   "file": "assets/portraits/11_norsyaruziana.jpg",
+   "present": true,
+   "verified": true,
+   "flag": null
+  }
+ ],
+ "assets": [
+  {
+   "code": "I01",
+   "type": "image",
+   "drive_id": "1_il-IBaOzCRi8L3YOBJYjF2FcNm_0-xX",
+   "drive_url": "https://drive.google.com/file/d/1_il-IBaOzCRi8L3YOBJYjF2FcNm_0-xX/view",
+   "drive_folder": "02",
+   "drive_subfolder": null,
+   "original_name": "fa987ca0-908d-45de-8730-4b9d0b1dfce7_F07BD00E-27F0-493F-BE26-99570AC40488.jpg",
+   "local_file": "assets/media/I01.jpg",
+   "width": 810,
+   "height": 1080,
+   "orientation": "portrait",
+   "content": "Meja juadah, 2 guru/AJK susun makanan",
+   "storyboard_chapter": "5 Di sebalik tabir",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "05_di_sebalik_tabir",
+     "segment": "Sebelum tetamu tiba…"
+    }
+   ]
+  },
+  {
+   "code": "I02",
+   "type": "image",
+   "drive_id": "1QtDFKq98bBsFyvY50K0fIfvP5-Hrs3OS",
+   "drive_url": "https://drive.google.com/file/d/1QtDFKq98bBsFyvY50K0fIfvP5-Hrs3OS/view",
+   "drive_folder": "03",
+   "drive_subfolder": null,
+   "original_name": "ab96690b-78f1-45b7-9c6d-f3132449d121_0F20AB4A-CC2A-404C-B0CC-3716DC024CD4.jpg",
+   "local_file": "assets/media/I02.jpg",
+   "width": 814,
+   "height": 1080,
+   "orientation": "portrait",
+   "content": "Ustaz (baju melayu merah bata, kopiah) serah hamper kepada guru (baju biru, cermin mata) — penghargaan",
+   "storyboard_chapter": "5 Di sebalik tabir",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "05_di_sebalik_tabir",
+     "segment": "Terima kasih, Ustazah Shahirah"
+    }
+   ]
+  },
+  {
+   "code": "I03",
+   "type": "image",
+   "drive_id": "1-GSHdOpr4uiYxUQIi57EmeOR5WmfsdNI",
+   "drive_url": "https://drive.google.com/file/d/1-GSHdOpr4uiYxUQIi57EmeOR5WmfsdNI/view",
+   "drive_folder": "03",
+   "drive_subfolder": null,
+   "original_name": "991b0c73-f4c8-4da5-aa42-d1ad1e59eab5_BC124961-1305-4E29-A685-993DD8EA4F0B.jpg",
+   "local_file": "assets/media/I03.jpg",
+   "width": 1080,
+   "height": 833,
+   "orientation": "landscape",
+   "content": "Ustaz + guru pegang hamper + guru ke-3 (tudung krim)",
+   "storyboard_chapter": "5 Di sebalik tabir",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "05_di_sebalik_tabir",
+     "segment": "Terima kasih, Ustazah Shahirah"
+    }
+   ]
+  },
+  {
+   "code": "I04",
+   "type": "image",
+   "drive_id": "1FP6bNqH-o4uNCruXdHj8ytlp5exeRwpk",
+   "drive_url": "https://drive.google.com/file/d/1FP6bNqH-o4uNCruXdHj8ytlp5exeRwpk/view",
+   "drive_folder": "04",
+   "drive_subfolder": null,
+   "original_name": "ca0e82c5-c3ea-4412-9b67-ac9a27a1cd6d.jpg",
+   "local_file": "assets/media/I04.jpg",
+   "width": 590,
+   "height": 1280,
+   "orientation": "portrait",
+   "content": "Kelas siap berlangsir (selepas)",
+   "storyboard_chapter": "3 Infrastruktur",
+   "storyboard_status": "Guna",
+   "note": "kualiti sederhana",
+   "fix": {
+    "rotate": -2.5
+   },
+   "used_in": [
+    {
+     "chapter": "03_infrastruktur",
+     "segment": "…yang memberi keselesaan besar kepada warga sekola"
+    }
+   ]
+  },
+  {
+   "code": "I05",
+   "type": "image",
+   "drive_id": "107-_y3jjstBLtT12YMCh9ZeewvokD3Vq",
+   "drive_url": "https://drive.google.com/file/d/107-_y3jjstBLtT12YMCh9ZeewvokD3Vq/view",
+   "drive_folder": "04",
+   "drive_subfolder": null,
+   "original_name": "45156378-f5da-4066-957f-8701ff71c96e.jpg",
+   "local_file": "assets/media/I05.jpg",
+   "width": 1280,
+   "height": 720,
+   "orientation": "landscape",
+   "content": "Tukang atas tangga pasang rel, guru susun langsir di meja (proses)",
+   "storyboard_chapter": "3 Infrastruktur",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "03_infrastruktur",
+     "segment": "Pemasangan Langsir Baharu"
+    }
+   ]
+  },
+  {
+   "code": "I06",
+   "type": "image",
+   "drive_id": "1B8KvOiNivVvZTpvjuCfo7SipKM03Hh1h",
+   "drive_url": "https://drive.google.com/file/d/1B8KvOiNivVvZTpvjuCfo7SipKM03Hh1h/view",
+   "drive_folder": "04",
+   "drive_subfolder": null,
+   "original_name": "c070d05f-e71f-422d-81be-f7b0bda3f18a.jpg",
+   "local_file": "assets/media/I06.jpg",
+   "width": 1280,
+   "height": 720,
+   "orientation": "landscape",
+   "content": "Kelas siap berlangsir + pemadam api (selepas)",
+   "storyboard_chapter": "3 Infrastruktur",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "03_infrastruktur",
+     "segment": "…yang memberi keselesaan besar kepada warga sekola"
+    },
+    {
+     "chapter": "03_infrastruktur",
+     "segment": "Penambahbaikan turut dilaksanakan bagi keselamatan"
+    }
+   ]
+  },
+  {
+   "code": "I07",
+   "type": "image",
+   "drive_id": "1h0lsMjyfJAz4W6PnJRusCQUhxQdCIYFB",
+   "drive_url": "https://drive.google.com/file/d/1h0lsMjyfJAz4W6PnJRusCQUhxQdCIYFB/view",
+   "drive_folder": "04",
+   "drive_subfolder": null,
+   "original_name": "f3e9b898-3cc0-46d1-8f70-6fb7d9c2f4f9.jpg",
+   "local_file": "assets/media/I07.jpg",
+   "width": 720,
+   "height": 1280,
+   "orientation": "portrait",
+   "content": "Tukang atas tangga + guru pasang cangkuk (proses)",
+   "storyboard_chapter": "3 Infrastruktur",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "03_infrastruktur",
+     "segment": "Pemasangan Langsir Baharu"
+    }
+   ]
+  },
+  {
+   "code": "I08",
+   "type": "image",
+   "drive_id": "1ulz_tzwhDF_8iwe3pdJW91y49mLUC0QY",
+   "drive_url": "https://drive.google.com/file/d/1ulz_tzwhDF_8iwe3pdJW91y49mLUC0QY/view",
+   "drive_folder": "04",
+   "drive_subfolder": null,
+   "original_name": "9f4bc941-3b30-423f-8970-79c72edda117.jpg",
+   "local_file": "assets/media/I08.jpg",
+   "width": 1280,
+   "height": 720,
+   "orientation": "landscape",
+   "content": "Bilik guru — tingkap tanpa langsir (sebelum)",
+   "storyboard_chapter": "3 Infrastruktur",
+   "storyboard_status": "Guna",
+   "note": "sebelum",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "03_infrastruktur",
+     "segment": "Persekitaran yang selesa membantu proses pembelaja"
+    },
+    {
+     "chapter": "03_infrastruktur",
+     "segment": "Perubahan kecil…"
+    }
+   ]
+  },
+  {
+   "code": "I09",
+   "type": "image",
+   "drive_id": "14a24detL6ih4ggQ9ySXWpmS8PEvmFGip",
+   "drive_url": "https://drive.google.com/file/d/14a24detL6ih4ggQ9ySXWpmS8PEvmFGip/view",
+   "drive_folder": "04",
+   "drive_subfolder": null,
+   "original_name": "ab73b4cd-b9de-44c7-8924-3f892d098116.jpg",
+   "local_file": "assets/media/I09.jpg",
+   "width": 1280,
+   "height": 720,
+   "orientation": "landscape",
+   "content": "Bilik fail/stor — tukang pasang langsir (proses)",
+   "storyboard_chapter": "3 Infrastruktur",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "03_infrastruktur",
+     "segment": "Pemasangan Langsir Baharu"
+    }
+   ]
+  },
+  {
+   "code": "I10",
+   "type": "image",
+   "drive_id": "1NM6KZObw8YMJUXnlZv2bIwTaR2I7kxQM",
+   "drive_url": "https://drive.google.com/file/d/1NM6KZObw8YMJUXnlZv2bIwTaR2I7kxQM/view",
+   "drive_folder": "04",
+   "drive_subfolder": null,
+   "original_name": "188d6a85-fa6d-49e6-9cc9-ad2aa294fd70.jpg",
+   "local_file": "assets/media/I10.jpg",
+   "width": 720,
+   "height": 1280,
+   "orientation": "portrait",
+   "content": "Tukang & guru berbincang ukuran (proses)",
+   "storyboard_chapter": "3 Infrastruktur",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "03_infrastruktur",
+     "segment": "Pemasangan Langsir Baharu"
+    }
+   ]
+  },
+  {
+   "code": "I11",
+   "type": "image",
+   "drive_id": "1jEawtK6a3umX9qkxcdgZFkqyPr1qGoNq",
+   "drive_url": "https://drive.google.com/file/d/1jEawtK6a3umX9qkxcdgZFkqyPr1qGoNq/view",
+   "drive_folder": "04",
+   "drive_subfolder": null,
+   "original_name": "4ce45191-03e6-4659-b6e8-1eabfe315581.jpg",
+   "local_file": "assets/media/I11.jpg",
+   "width": 1280,
+   "height": 720,
+   "orientation": "landscape",
+   "content": "Bilik fail — tukang ukur dinding, kepala guru menghalang kiri (proses)",
+   "storyboard_chapter": "3 Infrastruktur",
+   "storyboard_status": "Guna",
+   "note": "crop kepala guru di kiri",
+   "fix": {
+    "crop": [
+     0.18,
+     0,
+     1,
+     1
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "03_infrastruktur",
+     "segment": "Pemasangan Langsir Baharu"
+    }
+   ]
+  },
+  {
+   "code": "I12",
+   "type": "image",
+   "drive_id": "19ITY4aWMmxDNaNLC5cE-68ieO4Py0M_o",
+   "drive_url": "https://drive.google.com/file/d/19ITY4aWMmxDNaNLC5cE-68ieO4Py0M_o/view",
+   "drive_folder": "04",
+   "drive_subfolder": null,
+   "original_name": "5c4e2232-9874-4f20-9e32-56bfca90deab.jpg",
+   "local_file": "assets/media/I12.jpg",
+   "width": 720,
+   "height": 1280,
+   "orientation": "portrait",
+   "content": "Bilik guru — guru betulkan langsir baru dipasang, alatan di lantai (proses)",
+   "storyboard_chapter": "5 Di sebalik tabir",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "05_di_sebalik_tabir",
+     "segment": "Sebelum kelas bersinar…"
+    }
+   ]
+  },
+  {
+   "code": "I13",
+   "type": "image",
+   "drive_id": "1dxUFBXvn8ac-kaZw_TB7ugi4stx59UZy",
+   "drive_url": "https://drive.google.com/file/d/1dxUFBXvn8ac-kaZw_TB7ugi4stx59UZy/view",
+   "drive_folder": "04",
+   "drive_subfolder": null,
+   "original_name": "adb51a74-7485-4aa4-83d6-ecf66f89661a.jpg",
+   "local_file": "assets/media/I13.jpg",
+   "width": 720,
+   "height": 1280,
+   "orientation": "portrait",
+   "content": "Bilik guru — guru tersenyum, langsir siap (selepas)",
+   "storyboard_chapter": "3 Infrastruktur",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "00_pembukaan",
+     "segment": "…setiap langkah diiringi doa, dan setiap kejayaan "
+    },
+    {
+     "chapter": "03_infrastruktur",
+     "segment": "Perubahan kecil…"
+    },
+    {
+     "chapter": "03_infrastruktur",
+     "segment": "…yang memberi keselesaan besar kepada warga sekola"
+    }
+   ]
+  },
+  {
+   "code": "I14",
+   "type": "image",
+   "drive_id": "1Djc04coLDV5159Kx_4IV2jJoMmS-EK5d",
+   "drive_url": "https://drive.google.com/file/d/1Djc04coLDV5159Kx_4IV2jJoMmS-EK5d/view",
+   "drive_folder": "04",
+   "drive_subfolder": null,
+   "original_name": "67365824-0945-4ded-9642-8d70f98ba776.jpg",
+   "local_file": "assets/media/I14.jpg",
+   "width": 720,
+   "height": 1280,
+   "orientation": "portrait",
+   "content": "Bilik guru — tukang pasang rel pada tingkap yang sama seperti I08 (proses)",
+   "storyboard_chapter": "3 Infrastruktur",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "03_infrastruktur",
+     "segment": "Pemasangan Langsir Baharu"
+    }
+   ]
+  },
+  {
+   "code": "I15",
+   "type": "image",
+   "drive_id": "1eirf4DS-RiOIWx04KEJ0zY174FdLbqRr",
+   "drive_url": "https://drive.google.com/file/d/1eirf4DS-RiOIWx04KEJ0zY174FdLbqRr/view",
+   "drive_folder": "04",
+   "drive_subfolder": null,
+   "original_name": "698ebec2-1f91-494f-a4a6-56cc9ea9b634.jpg",
+   "local_file": "assets/media/I15.jpg",
+   "width": 720,
+   "height": 1280,
+   "orientation": "portrait",
+   "content": "Bilik fail siap berlangsir (selepas)",
+   "storyboard_chapter": "3 Infrastruktur",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "03_infrastruktur",
+     "segment": "…yang memberi keselesaan besar kepada warga sekola"
+    }
+   ]
+  },
+  {
+   "code": "I16",
+   "type": "image",
+   "drive_id": "1zwsDKBG14_UV7y6k9inA0AwvAl-fPr4M",
+   "drive_url": "https://drive.google.com/file/d/1zwsDKBG14_UV7y6k9inA0AwvAl-fPr4M/view",
+   "drive_folder": "05",
+   "drive_subfolder": "IHTIFAL DAERAH BATU GAJAH",
+   "original_name": "1a1bc8bb-9468-4bd8-a51c-8db84aa6f341_C77160E9-8CB4-4AFB-B62E-DBA245B036F9.jpg",
+   "local_file": "assets/media/I16.jpg",
+   "width": 929,
+   "height": 1080,
+   "orientation": "portrait",
+   "content": "Murid perempuan dengan trofi & sijil Naib Johan Tilawah Al-Quran (Perempuan), Majlis Ihtifal SRA Peringkat Daerah Batu Gajah 2026",
+   "storyboard_chapter": "4 Pencapaian",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Naib Johan Tilawah Al-Quran (Perempuan)"
+    },
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Setiap kejayaan ini milik murid, guru, dan ibu bap"
+    }
+   ]
+  },
+  {
+   "code": "I17",
+   "type": "image",
+   "drive_id": "1E8zDRlV7f62jvXjjc4gKrEuhjwDGSB7I",
+   "drive_url": "https://drive.google.com/file/d/1E8zDRlV7f62jvXjjc4gKrEuhjwDGSB7I/view",
+   "drive_folder": "05",
+   "drive_subfolder": "ANUGERAH MULTAQA  KELAS KAFA & FARDHU AIN 2026*.  *SEKOLAH TERBAIK UPKK DAERAH BATU GAJAH SESI 2025",
+   "original_name": "5e5ba8e7-b36c-46ba-a202-c6744d6ad830_3135C7E8-A1D9-4AAA-BB98-0574C6DA9147.jpg",
+   "local_file": "assets/media/I17.jpg",
+   "width": 1080,
+   "height": 687,
+   "orientation": "landscape",
+   "content": "Guru (tudung oren) terima sijil/anugerah atas pentas — Multaqa Guru & Kelas Al-Quran dan Fardhu Ain (KAFA) Peringkat Negeri Perak, 18 Nov 2026, Dewan Masjid An-Nur",
+   "storyboard_chapter": "4 Pencapaian",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Sekolah Terbaik UPKK Daerah Batu Gajah"
+    },
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Setiap kejayaan ini milik murid, guru, dan ibu bap"
+    }
+   ]
+  },
+  {
+   "code": "I18",
+   "type": "image",
+   "drive_id": "14FeKEIwH_LyQ_4ihtI2nqO-XEZsS9w44",
+   "drive_url": "https://drive.google.com/file/d/14FeKEIwH_LyQ_4ihtI2nqO-XEZsS9w44/view",
+   "drive_folder": "05",
+   "drive_subfolder": "6A SRAI 2026",
+   "original_name": "7e36e8cf-4f4c-492a-b2d2-07db99cdf995_B877FECA-B56B-4B57-9631-0A1167C77F57.jpg",
+   "local_file": "assets/media/I18.jpg",
+   "width": 810,
+   "height": 1080,
+   "orientation": "portrait",
+   "content": "Murid lelaki (cermin mata, baju sukan) pegang kad \"6A\"",
+   "storyboard_chapter": "4 Pencapaian",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Keputusan Cemerlang 6A"
+    }
+   ]
+  },
+  {
+   "code": "I19",
+   "type": "image",
+   "drive_id": "10xo1L9mjOyluw3y2zzB5fxvSr9pBLGde",
+   "drive_url": "https://drive.google.com/file/d/10xo1L9mjOyluw3y2zzB5fxvSr9pBLGde/view",
+   "drive_folder": "05",
+   "drive_subfolder": "6A SRAI 2026",
+   "original_name": "234bab6c-2e79-4611-85dc-f82ea8d877f0.jpg",
+   "local_file": "assets/media/I19.jpg",
+   "width": 2560,
+   "height": 2560,
+   "orientation": "landscape",
+   "content": "Kolaj 6 murid + 1 guru pegang kad \"6A\" & slip keputusan",
+   "storyboard_chapter": "4 Pencapaian",
+   "storyboard_status": "Guna",
+   "note": "pecah kepada 7 potret",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "00_pembukaan",
+     "segment": "…setiap langkah diiringi doa, dan setiap kejayaan "
+    },
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Keputusan Cemerlang 6A"
+    },
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Setiap kejayaan ini milik murid, guru, dan ibu bap"
+    }
+   ]
+  },
+  {
+   "code": "I20",
+   "type": "image",
+   "drive_id": "1n_Oz_mJUbplkFrGI8CpLkKwm71C1Cke6",
+   "drive_url": "https://drive.google.com/file/d/1n_Oz_mJUbplkFrGI8CpLkKwm71C1Cke6/view",
+   "drive_folder": "06",
+   "drive_subfolder": null,
+   "original_name": "6560db5a-00ca-4d30-a464-6d28b79549d8.jpg",
+   "local_file": "assets/media/I20.jpg",
+   "width": 1280,
+   "height": 960,
+   "orientation": "landscape",
+   "content": "Murid menulis close, wide",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "crop watermark",
+   "fix": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.92
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 1 · Sesi Pagi"
+    }
+   ]
+  },
+  {
+   "code": "I21",
+   "type": "image",
+   "drive_id": "1HhkPXng0f38Pe6I3ilnNbDAsYQalezZ1",
+   "drive_url": "https://drive.google.com/file/d/1HhkPXng0f38Pe6I3ilnNbDAsYQalezZ1/view",
+   "drive_folder": "06",
+   "drive_subfolder": null,
+   "original_name": "5abd1bea-acc1-40e2-84b5-42e157fa9731.jpg",
+   "local_file": "assets/media/I21.jpg",
+   "width": 1280,
+   "height": 960,
+   "orientation": "landscape",
+   "content": "Guru mengawas dari meja (belakang), murid menulis",
+   "storyboard_chapter": "5 Di sebalik tabir",
+   "storyboard_status": "Guna",
+   "note": "crop watermark",
+   "fix": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.92
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "05_di_sebalik_tabir",
+     "segment": "Sebelum peperiksaan…"
+    }
+   ]
+  },
+  {
+   "code": "I22",
+   "type": "image",
+   "drive_id": "1JVXsMRwZsRo9xp3zUicTYrRdLil5nPQS",
+   "drive_url": "https://drive.google.com/file/d/1JVXsMRwZsRo9xp3zUicTYrRdLil5nPQS/view",
+   "drive_folder": "06",
+   "drive_subfolder": null,
+   "original_name": "0da2176a-bc6e-4553-b4a0-93280abaeaab.jpg",
+   "local_file": "assets/media/I22.jpg",
+   "width": 1280,
+   "height": 960,
+   "orientation": "landscape",
+   "content": "Dari belakang kelas, baju \"SRAR ISKANDARIAH BATU GAJAH, PERAK\" jelas",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "crop watermark",
+   "fix": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.92
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 1 · Sesi Pagi"
+    }
+   ]
+  },
+  {
+   "code": "I23",
+   "type": "image",
+   "drive_id": "13ypjkXSlZWE_W0TcbYH9cHN2eu-MhcjJ",
+   "drive_url": "https://drive.google.com/file/d/13ypjkXSlZWE_W0TcbYH9cHN2eu-MhcjJ/view",
+   "drive_folder": "06",
+   "drive_subfolder": null,
+   "original_name": "c30238a2-8d70-48d9-b950-e4174ecf1786.jpg",
+   "local_file": "assets/media/I23.jpg",
+   "width": 1280,
+   "height": 960,
+   "orientation": "landscape",
+   "content": "Wide kelas, guru di meja kiri",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "crop watermark",
+   "fix": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.92
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 1 · Sesi Pagi"
+    }
+   ]
+  },
+  {
+   "code": "I24",
+   "type": "image",
+   "drive_id": "1FKLUwN105u0LDmf-EslqL0If2alrNl6M",
+   "drive_url": "https://drive.google.com/file/d/1FKLUwN105u0LDmf-EslqL0If2alrNl6M/view",
+   "drive_folder": "06",
+   "drive_subfolder": null,
+   "original_name": "6e504037-13a9-47bf-84ce-0748d0594f73.jpg",
+   "local_file": "assets/media/I24.jpg",
+   "width": 1280,
+   "height": 960,
+   "orientation": "landscape",
+   "content": "Wide kelas dari pintu, guru kanan",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "crop watermark",
+   "fix": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.92
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 1 · Sesi Pagi"
+    }
+   ]
+  },
+  {
+   "code": "I25",
+   "type": "image",
+   "drive_id": "1uJKFT_UprJ1trN2Lowbc2mxFUtfUzXSk",
+   "drive_url": "https://drive.google.com/file/d/1uJKFT_UprJ1trN2Lowbc2mxFUtfUzXSk/view",
+   "drive_folder": "06",
+   "drive_subfolder": null,
+   "original_name": "7446a0bc-e643-4be9-9698-b043b8ba5e19.jpg",
+   "local_file": null,
+   "orientation": null,
+   "content": "Sudut hampir sama dengan I22",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Simpanan",
+   "note": "hampir pendua I22",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "I26",
+   "type": "image",
+   "drive_id": "1_kCQ5J4PDtqFffNtRKISXZOhdJobnuRJ",
+   "drive_url": "https://drive.google.com/file/d/1_kCQ5J4PDtqFffNtRKISXZOhdJobnuRJ/view",
+   "drive_folder": "07",
+   "drive_subfolder": null,
+   "original_name": "ea8bfc22-612e-4dc1-9d45-d5cd6220388e.jpg",
+   "local_file": "assets/media/I26.jpg",
+   "width": 1280,
+   "height": 960,
+   "orientation": "landscape",
+   "content": "Sesi ujian, guru (tudung biru muda) di meja depan kamera, murid uniform putih/hijau",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "crop watermark",
+   "fix": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.92
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 1 & 2 · Sesi Petang"
+    }
+   ]
+  },
+  {
+   "code": "I27",
+   "type": "image",
+   "drive_id": "1ER-f2_i4a0qoadv_owRr5FVHGfAetNq8",
+   "drive_url": "https://drive.google.com/file/d/1ER-f2_i4a0qoadv_owRr5FVHGfAetNq8/view",
+   "drive_folder": "07",
+   "drive_subfolder": null,
+   "original_name": "cb3cbfae-0979-4e32-9cb2-ae8f8a9686bc.jpg",
+   "local_file": "assets/media/I27.jpg",
+   "width": 1280,
+   "height": 960,
+   "orientation": "landscape",
+   "content": "Kelas sempit, lukisan dinding, guru di hadapan jauh",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "crop watermark",
+   "fix": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.92
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 1 & 2 · Sesi Petang"
+    }
+   ]
+  },
+  {
+   "code": "I28",
+   "type": "image",
+   "drive_id": "1YQOivrmCdEoFmwNzn0TnOqtjvbqp0TR2",
+   "drive_url": "https://drive.google.com/file/d/1YQOivrmCdEoFmwNzn0TnOqtjvbqp0TR2/view",
+   "drive_folder": "08",
+   "drive_subfolder": null,
+   "original_name": "318fcefd-8c79-4d71-958b-e9ea414db374.jpg",
+   "local_file": "assets/media/I28.jpg",
+   "width": 1280,
+   "height": 960,
+   "orientation": "landscape",
+   "content": "Murid mewarna/menulis, guru (tudung kelabu) meronda",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "crop watermark",
+   "fix": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.92
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 2 & 3 · Sesi Pagi"
+    }
+   ]
+  },
+  {
+   "code": "I29",
+   "type": "image",
+   "drive_id": "1S6uXsJ6P41peUhgIExNZ59sg9bvdLW5z",
+   "drive_url": "https://drive.google.com/file/d/1S6uXsJ6P41peUhgIExNZ59sg9bvdLW5z/view",
+   "drive_folder": "08",
+   "drive_subfolder": null,
+   "original_name": "31c16769-eda3-4222-8e6e-0d3dfb6eccfd.jpg",
+   "local_file": "assets/media/I29.jpg",
+   "width": 1280,
+   "height": 960,
+   "orientation": "landscape",
+   "content": "Guru berdiri di tengah kelas, meja guru di depan",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "crop watermark",
+   "fix": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.92
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 2 & 3 · Sesi Pagi"
+    }
+   ]
+  },
+  {
+   "code": "I30",
+   "type": "image",
+   "drive_id": "1GNgJDsUogREBYBi_k8BZVOETooI6POIW",
+   "drive_url": "https://drive.google.com/file/d/1GNgJDsUogREBYBi_k8BZVOETooI6POIW/view",
+   "drive_folder": "08",
+   "drive_subfolder": null,
+   "original_name": "f12ffe71-d61b-4abf-9229-1791193ec533.jpg",
+   "local_file": null,
+   "orientation": null,
+   "content": "Sudut hampir sama dengan I29",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Simpanan",
+   "note": "hampir pendua I29",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "I31",
+   "type": "image",
+   "drive_id": "1CEenGGcEsKXfa6v9FCHmx7fVtoTZh-3E",
+   "drive_url": "https://drive.google.com/file/d/1CEenGGcEsKXfa6v9FCHmx7fVtoTZh-3E/view",
+   "drive_folder": "08",
+   "drive_subfolder": null,
+   "original_name": "1f8cbbe2-2630-466c-90b8-5858817da96d.jpg",
+   "local_file": "assets/media/I31.jpg",
+   "width": 1280,
+   "height": 960,
+   "orientation": "landscape",
+   "content": "Dari belakang, guru bimbing murid, whiteboard & TV",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "crop watermark",
+   "fix": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.92
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 2 & 3 · Sesi Pagi"
+    }
+   ]
+  },
+  {
+   "code": "I32",
+   "type": "image",
+   "drive_id": "1J3HjCh_DRWIbPz75JPY59CN2TBB8r2gn",
+   "drive_url": "https://drive.google.com/file/d/1J3HjCh_DRWIbPz75JPY59CN2TBB8r2gn/view",
+   "drive_folder": "08",
+   "drive_subfolder": null,
+   "original_name": "23e88374-9e8a-4224-afa3-d77b1676ce3f.jpg",
+   "local_file": "assets/media/I32.jpg",
+   "width": 1280,
+   "height": 960,
+   "orientation": "landscape",
+   "content": "Guru (tudung ungu tua) bimbing murid di depan whiteboard",
+   "storyboard_chapter": "5 Di sebalik tabir",
+   "storyboard_status": "Guna",
+   "note": "crop watermark",
+   "fix": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.92
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "05_di_sebalik_tabir",
+     "segment": "Sebelum peperiksaan…"
+    }
+   ]
+  },
+  {
+   "code": "I33",
+   "type": "image",
+   "drive_id": "1cJPmPOCYx5rIac_9VPq1zTVdkkniTfQA",
+   "drive_url": "https://drive.google.com/file/d/1cJPmPOCYx5rIac_9VPq1zTVdkkniTfQA/view",
+   "drive_folder": "08",
+   "drive_subfolder": null,
+   "original_name": "48fb305a-1736-48c2-8061-0e97e2dcea39.jpg",
+   "local_file": null,
+   "orientation": null,
+   "content": "Versi menegak I32",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Simpanan",
+   "note": "hampir pendua I32",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "I34",
+   "type": "image",
+   "drive_id": "17NhqNLkCRId7Rccb8O4LpLWYOBZWMVm1",
+   "drive_url": "https://drive.google.com/file/d/17NhqNLkCRId7Rccb8O4LpLWYOBZWMVm1/view",
+   "drive_folder": "08",
+   "drive_subfolder": null,
+   "original_name": "2ca64754-a4dc-44e4-88cd-b75fceedd0da.jpg",
+   "local_file": "assets/media/I34.jpg",
+   "width": 720,
+   "height": 1280,
+   "orientation": "portrait",
+   "content": "Close-up murid perempuan baca kertas soalan",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 2 & 3 · Sesi Pagi"
+    }
+   ]
+  },
+  {
+   "code": "I35",
+   "type": "image",
+   "drive_id": "10GWYPyZhr_Pv64m1HuH7Ec-DN9S-ikjv",
+   "drive_url": "https://drive.google.com/file/d/10GWYPyZhr_Pv64m1HuH7Ec-DN9S-ikjv/view",
+   "drive_folder": "09",
+   "drive_subfolder": null,
+   "original_name": "fbd48316-01ba-4d88-88b7-ec85b4193f5d.jpg",
+   "local_file": "assets/media/I35.jpg",
+   "width": 1280,
+   "height": 960,
+   "orientation": "landscape",
+   "content": "Ustaz (baju melayu ungu, kopiah putih) mengawas ujian",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "crop watermark",
+   "fix": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.92
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 3 & 4 · Sesi Petang"
+    }
+   ]
+  },
+  {
+   "code": "I36",
+   "type": "image",
+   "drive_id": "1aJwJfDruHw9xMcSXdg0KgiB3bpnRL92O",
+   "drive_url": "https://drive.google.com/file/d/1aJwJfDruHw9xMcSXdg0KgiB3bpnRL92O/view",
+   "drive_folder": "09",
+   "drive_subfolder": null,
+   "original_name": "0e06c59f-ef0e-41f7-8d29-c03bfa8b6923.jpg",
+   "local_file": "assets/media/I36.jpg",
+   "width": 1280,
+   "height": 960,
+   "orientation": "landscape",
+   "content": "Murid menulis close, ustaz ungu di belakang",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "crop watermark",
+   "fix": {
+    "crop": [
+     0,
+     0,
+     1,
+     0.92
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 3 & 4 · Sesi Petang"
+    }
+   ]
+  },
+  {
+   "code": "I37",
+   "type": "image",
+   "drive_id": "1nJOfLC1Z0uMPtYtURZNFVqZEp1w06dGn",
+   "drive_url": "https://drive.google.com/file/d/1nJOfLC1Z0uMPtYtURZNFVqZEp1w06dGn/view",
+   "drive_folder": "10",
+   "drive_subfolder": null,
+   "original_name": "1ac508b5-1a6b-4b3b-b902-3db1278ad67b_3CC46093-31C6-4144-8808-CEA87418855B.jpg",
+   "local_file": "assets/media/I37.jpg",
+   "width": 1080,
+   "height": 695,
+   "orientation": "landscape",
+   "content": "Gambar kumpulan murid Tahun 5 (baju raya) + guru depan papan tanda sekolah",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 5 · Tahun 6"
+    },
+    {
+     "chapter": "06_penutup",
+     "segment": "Tahun 2026 bukan sekadar catatan aktiviti. Ia kisa"
+    }
+   ]
+  },
+  {
+   "code": "I38",
+   "type": "image",
+   "drive_id": "1HY5uTz1m_EjU9E-YpPqseon_MWZkQnuj",
+   "drive_url": "https://drive.google.com/file/d/1HY5uTz1m_EjU9E-YpPqseon_MWZkQnuj/view",
+   "drive_folder": "11",
+   "drive_subfolder": null,
+   "original_name": "ca977b83-3e55-4834-a422-3c0dc4802bbe_AC13A9DD-179F-4731-A8F7-4A6DCD9CB6B6.jpg",
+   "local_file": "assets/media/I38.jpg",
+   "width": 1080,
+   "height": 716,
+   "orientation": "landscape",
+   "content": "Gambar kumpulan murid Tahun 6 (baju raya) + guru yang sama depan papan tanda",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "juga crop papan tanda untuk Pembukaan & Penutup",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "00_pembukaan",
+     "segment": "Di sebuah sudut Batu Gajah, sebuah madrasah terus "
+    },
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 5 · Tahun 6"
+    },
+    {
+     "chapter": "06_penutup",
+     "segment": "Semoga Allah memberkati setiap langkah kita pada t"
+    }
+   ]
+  },
+  {
+   "code": "I39",
+   "type": "image",
+   "drive_id": "1hhpjYr18iWqtbfY4IuwVmR6WRCrkdIAv",
+   "drive_url": "https://drive.google.com/file/d/1hhpjYr18iWqtbfY4IuwVmR6WRCrkdIAv/view",
+   "drive_folder": "01",
+   "drive_subfolder": "PERTANDINGAN MEWARNA SEMPENA MAULIDUR RASUL (TAHUN 1-4 SESI PETANG)",
+   "original_name": "1b27883c-1e98-4e60-b0eb-8348b4ade1f0.jpg",
+   "local_file": "assets/media/I39.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Pertandingan Mewarna Maulidur Rasul dalam dewan solat masjid; murid meniarap mewarna",
+   "storyboard_chapter": "2D Keagamaan",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "00_pembukaan",
+     "segment": "…setiap langkah diiringi doa, dan setiap kejayaan "
+    },
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Pertandingan Mewarna Sempena Maulidur Rasul"
+    }
+   ]
+  },
+  {
+   "code": "I40",
+   "type": "image",
+   "drive_id": "1E6nUENhHsSBb-Zms5Z9vN9Lqb96yH5Q0",
+   "drive_url": "https://drive.google.com/file/d/1E6nUENhHsSBb-Zms5Z9vN9Lqb96yH5Q0/view",
+   "drive_folder": "01",
+   "drive_subfolder": "PERTANDINGAN MEWARNA SEMPENA MAULIDUR RASUL (TAHUN 1-4 SESI PETANG)",
+   "original_name": "a9ecded2-2f45-4aa4-893a-c4cd5b68d069.jpg",
+   "local_file": "assets/media/I40.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Sudut hampir sama, lebih dekat",
+   "storyboard_chapter": "2D Keagamaan",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Pertandingan Mewarna Sempena Maulidur Rasul"
+    }
+   ]
+  },
+  {
+   "code": "I41",
+   "type": "image",
+   "drive_id": "11226_qCGDlN57FY1up5yCMnlqKynrL2V",
+   "drive_url": "https://drive.google.com/file/d/11226_qCGDlN57FY1up5yCMnlqKynrL2V/view",
+   "drive_folder": "01",
+   "drive_subfolder": "CUCI KELAS",
+   "original_name": "54508e2e-9add-4f6f-9e44-3f743888c072_13FEC8DC-D646-4D64-A00B-1DC9BBEF0F0F.jpg",
+   "local_file": "assets/media/I41.jpg",
+   "width": 1080,
+   "height": 810,
+   "orientation": "landscape",
+   "content": "Murid (baju korporat hijau) bergambar ceria selepas cuci lantai basah, pegang mop",
+   "storyboard_chapter": "2G Cuci kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Gotong-Royong Cuci Kelas"
+    },
+    {
+     "chapter": "06_penutup",
+     "segment": "Tahun 2026 bukan sekadar catatan aktiviti. Ia kisa"
+    }
+   ]
+  },
+  {
+   "code": "I42",
+   "type": "image",
+   "drive_id": "1QUGkCzqvkYRLD1ruuuO_4L_FtbKepgZ1",
+   "drive_url": "https://drive.google.com/file/d/1QUGkCzqvkYRLD1ruuuO_4L_FtbKepgZ1/view",
+   "drive_folder": "01",
+   "drive_subfolder": "CUCI KELAS",
+   "original_name": "21b57dcf-e712-4c58-aea6-6239d8de3d35_EDAF3409-AE3B-40CF-9E08-90641E0F44D3.jpg",
+   "local_file": "assets/media/I42.jpg",
+   "width": 1080,
+   "height": 714,
+   "orientation": "landscape",
+   "content": "Sama seperti I41, dengan guru (tudung krim) di tengah; ada stiker \"OOPS\"",
+   "storyboard_chapter": "5 Di sebalik tabir",
+   "storyboard_status": "Guna",
+   "note": "buang stiker OOPS",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "I43",
+   "type": "image",
+   "drive_id": "18TbsmWVvmCVlOUBhJ41KLIbLeZUOqj4W",
+   "drive_url": "https://drive.google.com/file/d/18TbsmWVvmCVlOUBhJ41KLIbLeZUOqj4W/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "5198a161-761b-411a-be6f-6de78963d7d9.jpg",
+   "local_file": "assets/media/I43.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Gambar rasmi rombongan depan panel ukiran kayu + sepanduk",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Ilmu Jadi Pemimpin, Iman Jadi Perisai"
+    },
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Setiap aktiviti, satu pelajaran."
+    },
+    {
+     "chapter": "05_di_sebalik_tabir",
+     "segment": "Terima kasih kepada semua pihak yang menjayakan pr"
+    },
+    {
+     "chapter": "06_penutup",
+     "segment": "Tahun 2026 bukan sekadar catatan aktiviti. Ia kisa"
+    }
+   ]
+  },
+  {
+   "code": "I44",
+   "type": "image",
+   "drive_id": "1pm3u60S6_ukx1yZEVd9Cb9h32fGSD9_R",
+   "drive_url": "https://drive.google.com/file/d/1pm3u60S6_ukx1yZEVd9Cb9h32fGSD9_R/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "976349d4-6f72-4161-87da-311e6f88f2d8.jpg",
+   "local_file": "assets/media/I44.jpg",
+   "width": 1920,
+   "height": 2560,
+   "orientation": "portrait",
+   "content": "Murid dalam terowong cahaya angkasa (sama lokasi V46)",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "…dari angkasa lepas…"
+    }
+   ]
+  },
+  {
+   "code": "I45",
+   "type": "image",
+   "drive_id": "1Fo8JuCmr4YgStNx-y-B43JaxbM43gyU8",
+   "drive_url": "https://drive.google.com/file/d/1Fo8JuCmr4YgStNx-y-B43JaxbM43gyU8/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "5b5fbbcb-6341-47a4-8446-6808ba331ce5.jpg",
+   "local_file": "assets/media/I45.jpg",
+   "width": 1280,
+   "height": 960,
+   "orientation": "landscape",
+   "content": "Murid di teres bumbung berlatar KL & pokok",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Ilmu Jadi Pemimpin, Iman Jadi Perisai"
+    }
+   ]
+  },
+  {
+   "code": "I46",
+   "type": "image",
+   "drive_id": "1MTtUoGvSErvh0NAgKUYEpAx9Q7M2qjvg",
+   "drive_url": "https://drive.google.com/file/d/1MTtUoGvSErvh0NAgKUYEpAx9Q7M2qjvg/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "e5aaeed8-8030-413b-a6cf-bc1a0c74fcc1.jpg",
+   "local_file": "assets/media/I46.jpg",
+   "width": 1280,
+   "height": 720,
+   "orientation": "landscape",
+   "content": "Kumpulan depan lokomotif 321.01",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Muzium menjadi bilik darjah tanpa dinding…"
+    }
+   ]
+  },
+  {
+   "code": "I47",
+   "type": "image",
+   "drive_id": "1_zjt3hFr33MjJIEU2QTd947JTg-9ZjL3",
+   "drive_url": "https://drive.google.com/file/d/1_zjt3hFr33MjJIEU2QTd947JTg-9ZjL3/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "d9e27657-ffb0-4ecb-97a7-edcfda891d3d.jpg",
+   "local_file": null,
+   "orientation": null,
+   "content": "Kumpulan depan lokomotif, botol air di depan",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Simpanan",
+   "note": "pendua I46",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "I48",
+   "type": "image",
+   "drive_id": "1BjBR9T4Y07Gk_wuW72W6oDJ46L4obWK_",
+   "drive_url": "https://drive.google.com/file/d/1BjBR9T4Y07Gk_wuW72W6oDJ46L4obWK_/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "a338f41e-8e2b-42a2-9057-e9ebe8e32ec8.jpg",
+   "local_file": "assets/media/I48.jpg",
+   "width": 1280,
+   "height": 720,
+   "orientation": "landscape",
+   "content": "Kumpulan atas tangga bulat biru, kubah biru, sepanduk",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Ilmu Jadi Pemimpin, Iman Jadi Perisai"
+    }
+   ]
+  },
+  {
+   "code": "I49",
+   "type": "image",
+   "drive_id": "1PmWAg2YfMR9le1BQ3aibP2sTCxfmjFAc",
+   "drive_url": "https://drive.google.com/file/d/1PmWAg2YfMR9le1BQ3aibP2sTCxfmjFAc/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "1368d8a3-bdb0-468b-9440-09309c9a0023.jpg",
+   "local_file": null,
+   "orientation": null,
+   "content": "Kumpulan depan lokomotif (versi ketiga)",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Simpanan",
+   "note": "pendua I46",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "I50",
+   "type": "image",
+   "drive_id": "1ztfUetR0NB2ElG9E6g0AyCQsWofRsexE",
+   "drive_url": "https://drive.google.com/file/d/1ztfUetR0NB2ElG9E6g0AyCQsWofRsexE/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "2d2ed42e-87e2-48be-a154-8bf4fac2ed8b.jpg",
+   "local_file": "assets/media/I50.jpg",
+   "width": 2312,
+   "height": 1304,
+   "orientation": "landscape",
+   "content": "Murid berkumpul di galeri (panel \"Islam & China\") — muzium seni Islam",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "…ke sejarah bangsa dan tamadun Islam."
+    }
+   ]
+  },
+  {
+   "code": "I51",
+   "type": "image",
+   "drive_id": "1C2BYFfUJjYrPVduPfNhCslIXwtG3k32-",
+   "drive_url": "https://drive.google.com/file/d/1C2BYFfUJjYrPVduPfNhCslIXwtG3k32-/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "863c0e22-8ac1-481a-86c0-71836de16055.jpg",
+   "local_file": "assets/media/I51.jpg",
+   "width": 1280,
+   "height": 720,
+   "orientation": "landscape",
+   "content": "Kumpulan kecil depan ukiran kayu (sama lokasi I43)",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "…ke sejarah bangsa dan tamadun Islam."
+    }
+   ]
+  },
+  {
+   "code": "I52",
+   "type": "image",
+   "drive_id": "1PQr1jRxyvKsbCk-zWfFcqYfPmfQdtZ-p",
+   "drive_url": "https://drive.google.com/file/d/1PQr1jRxyvKsbCk-zWfFcqYfPmfQdtZ-p/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "dd75b8b8-7929-455b-91e7-1a43f5361f91.jpg",
+   "local_file": null,
+   "orientation": null,
+   "content": "Kumpulan depan lokomotif (versi keempat)",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Simpanan",
+   "note": "pendua I46",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "I53",
+   "type": "image",
+   "drive_id": "1kCVwE4ODnjpO0HCiPmAma7jmGvc9oPNu",
+   "drive_url": "https://drive.google.com/file/d/1kCVwE4ODnjpO0HCiPmAma7jmGvc9oPNu/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "c1dc132c-b05a-4567-b0fd-1e4dcc7b0387.jpg",
+   "local_file": "assets/media/I53.jpg",
+   "width": 1020,
+   "height": 765,
+   "orientation": "landscape",
+   "content": "Kumpulan depan bas (bas \"Institut Tadbiran Islam Perak (INTIM)\") — pembuka perjalanan",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Rombongan Ilmiah ke Kuala Lumpur"
+    }
+   ]
+  },
+  {
+   "code": "I54",
+   "type": "image",
+   "drive_id": "1eMdz5_vMW-g-5-sKjcexknyVgtDahzmw",
+   "drive_url": "https://drive.google.com/file/d/1eMdz5_vMW-g-5-sKjcexknyVgtDahzmw/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "d845a1f9-9573-413d-b96d-d23beea38098.jpg",
+   "local_file": "assets/media/I54.jpg",
+   "width": 765,
+   "height": 1020,
+   "orientation": "portrait",
+   "content": "Murid makan bekal di meja batu taman, ceria",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Ilmu Jadi Pemimpin, Iman Jadi Perisai"
+    }
+   ]
+  },
+  {
+   "code": "I55",
+   "type": "image",
+   "drive_id": "1gAHopjs3xw7XXcOE498TD75BQS4nn01l",
+   "drive_url": "https://drive.google.com/file/d/1gAHopjs3xw7XXcOE498TD75BQS4nn01l/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "8cc5fdd5-840c-4c9e-9eed-6efbb7c482b1.jpg",
+   "local_file": "assets/media/I55.jpg",
+   "width": 1020,
+   "height": 765,
+   "orientation": "landscape",
+   "content": "Murid lelaki makan di meja batu bawah pokok",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Ilmu Jadi Pemimpin, Iman Jadi Perisai"
+    }
+   ]
+  },
+  {
+   "code": "I56",
+   "type": "image",
+   "drive_id": "1PExFOQJyGrQLuKF52PSS9xKVn6Xokk3G",
+   "drive_url": "https://drive.google.com/file/d/1PExFOQJyGrQLuKF52PSS9xKVn6Xokk3G/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "0f949e32-f2bd-4ace-8659-52a5359989f8.jpg",
+   "local_file": "assets/media/I56.jpg",
+   "width": 960,
+   "height": 1280,
+   "orientation": "portrait",
+   "content": "Murid guna skrin sentuh interaktif galeri angkasa (sama lokasi terowong)",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "…dari angkasa lepas…"
+    }
+   ]
+  },
+  {
+   "code": "I57",
+   "type": "image",
+   "drive_id": "1zE1bMavL8_LgbTJLsQPjueMKC4V5E1NL",
+   "drive_url": "https://drive.google.com/file/d/1zE1bMavL8_LgbTJLsQPjueMKC4V5E1NL/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "1ab356d9-4a81-49b4-b7bf-345fabd1159c.jpg",
+   "local_file": "assets/media/I57.jpg",
+   "width": 1020,
+   "height": 765,
+   "orientation": "landscape",
+   "content": "Murid lelaki ceria dalam bas (perjalanan)",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Rombongan Ilmiah ke Kuala Lumpur"
+    }
+   ]
+  },
+  {
+   "code": "I58",
+   "type": "image",
+   "drive_id": "1OxPfJxd_xpsrwc2IlwJ1D556zfFxxHXJ",
+   "drive_url": "https://drive.google.com/file/d/1OxPfJxd_xpsrwc2IlwJ1D556zfFxxHXJ/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "1d1f4c8f-78aa-42d0-9c2d-207337778b89.jpg",
+   "local_file": null,
+   "orientation": null,
+   "content": "5 murid bergambar waktu malam bawah pokok",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Simpanan",
+   "note": "gelap, berbintik",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "I59",
+   "type": "image",
+   "drive_id": "1gs0jpqbxTAi5ozguLHGEmtPGI6IXh8lg",
+   "drive_url": "https://drive.google.com/file/d/1gs0jpqbxTAi5ozguLHGEmtPGI6IXh8lg/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "e2f743ee-5086-4d70-9be5-1fa163ae6827.jpg",
+   "local_file": "assets/media/I59.jpg",
+   "width": 1020,
+   "height": 765,
+   "orientation": "landscape",
+   "content": "Murid perempuan ceria dalam bas waktu malam",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Rombongan Ilmiah ke Kuala Lumpur"
+    }
+   ]
+  },
+  {
+   "code": "I60",
+   "type": "image",
+   "drive_id": "1r-IRSyxhd5CZCxDOE5gr7Z6Qf4jraZ-H",
+   "drive_url": "https://drive.google.com/file/d/1r-IRSyxhd5CZCxDOE5gr7Z6Qf4jraZ-H/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "528ac524-e914-4b07-8526-b214aaa95aff.jpg",
+   "local_file": "assets/media/I60.jpg",
+   "width": 765,
+   "height": 1020,
+   "orientation": "portrait",
+   "content": "Murid tunjuk relief \"TA' MELAYU HILANG DI-DUNIA\" (Hang Tuah)",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "…ke sejarah bangsa dan tamadun Islam."
+    }
+   ]
+  },
+  {
+   "code": "I61",
+   "type": "image",
+   "drive_id": "1aJLe5_XVdXsC27Z39_Ncd5hIOIlUizNY",
+   "drive_url": "https://drive.google.com/file/d/1aJLe5_XVdXsC27Z39_Ncd5hIOIlUizNY/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "046dba5c-cdee-47dc-814c-3672190caebc.jpg",
+   "local_file": "assets/media/I61.jpg",
+   "width": 1020,
+   "height": 765,
+   "orientation": "landscape",
+   "content": "Rombongan pulang waktu malam, bergambar bawah khemah",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Ilmu Jadi Pemimpin, Iman Jadi Perisai"
+    }
+   ]
+  },
+  {
+   "code": "I62",
+   "type": "image",
+   "drive_id": "1J0du23ab3Iuw2V3MZZbEbHJ5H9p2qVso",
+   "drive_url": "https://drive.google.com/file/d/1J0du23ab3Iuw2V3MZZbEbHJ5H9p2qVso/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "c590b823-c9b2-4741-ac6f-94f743da1773.jpg",
+   "local_file": "assets/media/I62.jpg",
+   "width": 1020,
+   "height": 765,
+   "orientation": "landscape",
+   "content": "Murid lihat artifak dalam kaca (patung, tembikar)",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "…ke sejarah bangsa dan tamadun Islam."
+    }
+   ]
+  },
+  {
+   "code": "I63",
+   "type": "image",
+   "drive_id": "1DVFPDtz6LMM0ahgpJ-PBvc4f6nxBVk-f",
+   "drive_url": "https://drive.google.com/file/d/1DVFPDtz6LMM0ahgpJ-PBvc4f6nxBVk-f/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "0b753dfb-c906-4b03-ac97-b0c9adfe6416.jpg",
+   "local_file": "assets/media/I63.jpg",
+   "width": 765,
+   "height": 1020,
+   "orientation": "portrait",
+   "content": "Galeri Prasejarah (Palaeolithic) — murid melihat",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "…ke sejarah bangsa dan tamadun Islam."
+    }
+   ]
+  },
+  {
+   "code": "I64",
+   "type": "image",
+   "drive_id": "1Q1fVuR5CscqSRkpvmng_OFkS7KKqgjRD",
+   "drive_url": "https://drive.google.com/file/d/1Q1fVuR5CscqSRkpvmng_OFkS7KKqgjRD/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KELAS TAMBAHAN UPKK",
+   "original_name": "15679ce0-f3a6-4293-a230-43f7e56868c9.jpg",
+   "local_file": "assets/media/I64.jpg",
+   "width": 2560,
+   "height": 1932,
+   "orientation": "landscape",
+   "content": "Gambar kumpulan kelas tambahan UPKK (baju bebas) + guru (tudung putih) di tengah",
+   "storyboard_chapter": "2B Kelas tambahan",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Penat dibalas senyuman, dan kenangan bersama guru."
+    },
+    {
+     "chapter": "06_penutup",
+     "segment": "Tahun 2026 bukan sekadar catatan aktiviti. Ia kisa"
+    }
+   ]
+  },
+  {
+   "code": "I65",
+   "type": "image",
+   "drive_id": "1VcqvqquK4UurEIxFGBCWx1gVs296xzUX",
+   "drive_url": "https://drive.google.com/file/d/1VcqvqquK4UurEIxFGBCWx1gVs296xzUX/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KELAS TAMBAHAN UPKK",
+   "original_name": "d5ba6f98-a12d-49b4-b599-c481e20a82d1.jpg",
+   "local_file": null,
+   "orientation": null,
+   "content": "Kumpulan yang sama seperti I64 dalam gaya ceria",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Simpanan",
+   "note": "stiker \"OOPS\" di tengah; guna jika ada versi tanpa stiker",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "I66",
+   "type": "image",
+   "drive_id": "1gVPushiMYgNE1KNb_QS8XcefK2klKfae",
+   "drive_url": "https://drive.google.com/file/d/1gVPushiMYgNE1KNb_QS8XcefK2klKfae/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KELAS TAMBAHAN UPKK",
+   "original_name": "f76b99f0-b2c7-4de9-ab00-55273a890df9.jpg",
+   "local_file": "assets/media/I66.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Murid angkat beg cenderahati/bekalan sambil senyum",
+   "storyboard_chapter": "2B Kelas tambahan",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Penat dibalas senyuman, dan kenangan bersama guru."
+    }
+   ]
+  },
+  {
+   "code": "I67",
+   "type": "image",
+   "drive_id": "1e5QRRBGLqok0Y45ptCquZDFaaw-26r0V",
+   "drive_url": "https://drive.google.com/file/d/1e5QRRBGLqok0Y45ptCquZDFaaw-26r0V/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KELAS TAMBAHAN UPKK",
+   "original_name": "2069bf28-7032-4da8-a1eb-e90ccaa8ab18.jpg",
+   "local_file": "assets/media/I67.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Murid tekun menjawab latihan",
+   "storyboard_chapter": "2B Kelas tambahan",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Kelas Tambahan SRAI & UPKK"
+    }
+   ]
+  },
+  {
+   "code": "I68",
+   "type": "image",
+   "drive_id": "1GoJJ83Ed3bE5hy35KchTt9J9kakDDkb9",
+   "drive_url": "https://drive.google.com/file/d/1GoJJ83Ed3bE5hy35KchTt9J9kakDDkb9/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KELAS TAMBAHAN SRAI",
+   "original_name": "d15c7eb4-0732-450a-979b-d50f03cd6c62.jpg",
+   "local_file": "assets/media/I68.jpg",
+   "width": 2560,
+   "height": 2173,
+   "orientation": "landscape",
+   "content": "Murid kelas tambahan SRAI angkat beg cenderahati, sangat ceria",
+   "storyboard_chapter": "2B Kelas tambahan",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Penat dibalas senyuman, dan kenangan bersama guru."
+    }
+   ]
+  },
+  {
+   "code": "I69",
+   "type": "image",
+   "drive_id": "1hNvQHT7XzVpAAzxc-EEphFt4sxvwTYEl",
+   "drive_url": "https://drive.google.com/file/d/1hNvQHT7XzVpAAzxc-EEphFt4sxvwTYEl/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KELAS TAMBAHAN SRAI",
+   "original_name": "67fcba00-aec7-4f2f-ad90-698bddfb88e1.jpg",
+   "local_file": "assets/media/I69.jpg",
+   "width": 2560,
+   "height": 1756,
+   "orientation": "landscape",
+   "content": "Gambar kumpulan 9 murid + guru (tudung polka dot)",
+   "storyboard_chapter": "2B Kelas tambahan",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Penat dibalas senyuman, dan kenangan bersama guru."
+    }
+   ]
+  },
+  {
+   "code": "I70",
+   "type": "image",
+   "drive_id": "1kEDwI0PDg9xxrmnsUv5fR4mVe6Q7sHLE",
+   "drive_url": "https://drive.google.com/file/d/1kEDwI0PDg9xxrmnsUv5fR4mVe6Q7sHLE/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KELAS TAMBAHAN SRAI",
+   "original_name": "9b0e23e0-7fd9-4d9d-84d7-87e5c224c0f1.jpg",
+   "local_file": null,
+   "orientation": null,
+   "content": "Gambar kumpulan yang sama seperti I69",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Gugur",
+   "note": "pendua I69 dan lebih kabur",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "I71",
+   "type": "image",
+   "drive_id": "1yhWq0ygebiQ3NrH2MkvNU4ocd_HsW-cR",
+   "drive_url": "https://drive.google.com/file/d/1yhWq0ygebiQ3NrH2MkvNU4ocd_HsW-cR/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KELAS TAMBAHAN SRAI",
+   "original_name": "8549d5c1-2e33-41bc-ab92-933e7aaf8ff5.jpg",
+   "local_file": "assets/media/I71.jpg",
+   "width": 2560,
+   "height": 1455,
+   "orientation": "landscape",
+   "content": "Murid tekun menjawab soalan, close-up",
+   "storyboard_chapter": "2B Kelas tambahan",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Kelas Tambahan SRAI & UPKK"
+    }
+   ]
+  },
+  {
+   "code": "I72",
+   "type": "image",
+   "drive_id": "1bCU5Yz1MCsH4TCYksssr7uYcJpim3sR2",
+   "drive_url": "https://drive.google.com/file/d/1bCU5Yz1MCsH4TCYksssr7uYcJpim3sR2/view",
+   "drive_folder": "01",
+   "drive_subfolder": "PERCUBAAN UPKK",
+   "original_name": "7cc92700-8b17-4a5f-b068-21588256519c.jpg",
+   "local_file": "assets/media/I72.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Murid berpakaian seragam menjawab kertas percubaan; kelas berlangsir biru lama",
+   "storyboard_chapter": "2B Kelas tambahan",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Kelas Tambahan SRAI & UPKK"
+    }
+   ]
+  },
+  {
+   "code": "I73",
+   "type": "image",
+   "drive_id": "1n3Gnq95OYUREcJSdEKn9pcKeevpIrj87",
+   "drive_url": "https://drive.google.com/file/d/1n3Gnq95OYUREcJSdEKn9pcKeevpIrj87/view",
+   "drive_folder": "01",
+   "drive_subfolder": "PERCUBAAN UPKK",
+   "original_name": "e867462e-058c-476a-bbb9-35c75a9ba854.jpg",
+   "local_file": "assets/media/I73.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Sudut lain, langsir biru lama",
+   "storyboard_chapter": "2B Kelas tambahan",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Kelas Tambahan SRAI & UPKK"
+    }
+   ]
+  },
+  {
+   "code": "I74",
+   "type": "image",
+   "drive_id": "15XRGMD9YkaAp8DhR-6_Ggy3uYeewXZQG",
+   "drive_url": "https://drive.google.com/file/d/15XRGMD9YkaAp8DhR-6_Ggy3uYeewXZQG/view",
+   "drive_folder": "01",
+   "drive_subfolder": "BACAAN YASIN SRAI & UPKK",
+   "original_name": "4ce9ad24-e821-41e3-b84f-3f04119d536b.jpg",
+   "local_file": "assets/media/I74.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Ruang solat masjid: ustaz (jubah kelabu) memimpin bacaan Yasin bersama murid bermikrofon; murid lelaki duduk bersaf",
+   "storyboard_chapter": "2D Keagamaan",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Bacaan Yasin SRAI & UPKK"
+    }
+   ]
+  },
+  {
+   "code": "I75",
+   "type": "image",
+   "drive_id": "19-XmBjf0InOP1JE76w5MY6OjTyw81qVO",
+   "drive_url": "https://drive.google.com/file/d/19-XmBjf0InOP1JE76w5MY6OjTyw81qVO/view",
+   "drive_folder": "01",
+   "drive_subfolder": "BACAAN YASIN SRAI & UPKK",
+   "original_name": "e3f33ffa-1620-4a08-9de9-04fbc7b9a012.jpg",
+   "local_file": "assets/media/I75.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Murid perempuan bertelekung baca Yasin, guru (tudung ungu) duduk bersama",
+   "storyboard_chapter": "2D Keagamaan",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Bacaan Yasin SRAI & UPKK"
+    }
+   ]
+  },
+  {
+   "code": "I76",
+   "type": "image",
+   "drive_id": "1jgpuMpmx7TiOUGTcKqrC7cJ-_YKLik-2",
+   "drive_url": "https://drive.google.com/file/d/1jgpuMpmx7TiOUGTcKqrC7cJ-_YKLik-2/view",
+   "drive_folder": "01",
+   "drive_subfolder": "BACAAN YASIN SRAI & UPKK",
+   "original_name": "81ec5876-3903-4498-893a-7010586d57ee.jpg",
+   "local_file": "assets/media/I76.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Wide dari belakang murid perempuan bertelekung menghadap saf lelaki & ustaz",
+   "storyboard_chapter": "2D Keagamaan",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "00_pembukaan",
+     "segment": "…setiap langkah diiringi doa, dan setiap kejayaan "
+    },
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Bacaan Yasin SRAI & UPKK"
+    },
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Setiap aktiviti, satu pelajaran."
+    },
+    {
+     "chapter": "06_penutup",
+     "segment": "Tahun 2026 bukan sekadar catatan aktiviti. Ia kisa"
+    }
+   ]
+  },
+  {
+   "code": "I77",
+   "type": "image",
+   "drive_id": "1CdcU5IOfazi08vXJJMKZG9whT7HtoTqh",
+   "drive_url": "https://drive.google.com/file/d/1CdcU5IOfazi08vXJJMKZG9whT7HtoTqh/view",
+   "drive_folder": "01",
+   "drive_subfolder": "BACAAN YASIN SRAI & UPKK",
+   "original_name": "4c82d8ce-6012-49ad-9395-6380015fc8d6.jpg",
+   "local_file": "assets/media/I77.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Close-up ustaz & murid bermikrofon memimpin bacaan",
+   "storyboard_chapter": "5 Di sebalik tabir",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "05_di_sebalik_tabir",
+     "segment": "Sebelum jiwa disentuh…"
+    }
+   ]
+  },
+  {
+   "code": "I78",
+   "type": "image",
+   "drive_id": "1HQas6McrdrTsNUIe6oYCcQ2gOIwY_yzb",
+   "drive_url": "https://drive.google.com/file/d/1HQas6McrdrTsNUIe6oYCcQ2gOIwY_yzb/view",
+   "drive_folder": "01",
+   "drive_subfolder": "BACAAN YASIN SRAI & UPKK",
+   "original_name": "b12e429e-88a4-4e80-abcd-f076f5ca3e50.jpg",
+   "local_file": "assets/media/I78.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Dari belakang ustaz menghadap semua murid",
+   "storyboard_chapter": "2D Keagamaan",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Bacaan Yasin SRAI & UPKK"
+    }
+   ]
+  },
+  {
+   "code": "I79",
+   "type": "image",
+   "drive_id": "1rLn5rdkaSfNd3zJ5x8FI5PNp0oFioCbW",
+   "drive_url": "https://drive.google.com/file/d/1rLn5rdkaSfNd3zJ5x8FI5PNp0oFioCbW/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROCKET CAMP UPKK",
+   "original_name": "d5ad0bdd-e5d2-4029-b4b9-0db5e0b448f8.jpg",
+   "local_file": "assets/media/I79.jpg",
+   "width": 1024,
+   "height": 793,
+   "orientation": "landscape",
+   "content": "6 murid lelaki + guru depan skrin \"UPKK/SRAI ROCKET CAMP 2026\"",
+   "storyboard_chapter": "2C Rocket Camp",
+   "storyboard_status": "Guna",
+   "note": "resolusi rendah (1024 px)",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "UPKK/SRAI Rocket Camp 2026"
+    }
+   ]
+  },
+  {
+   "code": "I80",
+   "type": "image",
+   "drive_id": "1cLnBve7-NGhk7Got2aVTJ1-pam9lYY8a",
+   "drive_url": "https://drive.google.com/file/d/1cLnBve7-NGhk7Got2aVTJ1-pam9lYY8a/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROCKET CAMP UPKK",
+   "original_name": "64f38381-13f4-4535-8320-4db37b572f6d.jpg",
+   "local_file": "assets/media/I80.jpg",
+   "width": 1024,
+   "height": 777,
+   "orientation": "landscape",
+   "content": "5 murid perempuan + guru yang sama",
+   "storyboard_chapter": "2C Rocket Camp",
+   "storyboard_status": "Guna",
+   "note": "resolusi rendah (1024 px)",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "UPKK/SRAI Rocket Camp 2026"
+    }
+   ]
+  },
+  {
+   "code": "I81",
+   "type": "image",
+   "drive_id": "1Ol3IIVMKfOFNJb0dwlS1jKWNS7sDZQ7o",
+   "drive_url": "https://drive.google.com/file/d/1Ol3IIVMKfOFNJb0dwlS1jKWNS7sDZQ7o/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KEM MAHIR JAWI",
+   "original_name": "a0ffb046-a563-4f15-a693-7baf5825038d.jpg",
+   "local_file": "assets/media/I81.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "6 murid lelaki duduk barisan depan auditorium",
+   "storyboard_chapter": "2C Rocket Camp",
+   "storyboard_status": "Guna",
+   "note": "label folder perlu disahkan",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "UPKK/SRAI Rocket Camp 2026"
+    }
+   ]
+  },
+  {
+   "code": "I82",
+   "type": "image",
+   "drive_id": "1rcw2IR_CZPdGSDHO0XN-30LXUivFnZ3Z",
+   "drive_url": "https://drive.google.com/file/d/1rcw2IR_CZPdGSDHO0XN-30LXUivFnZ3Z/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KEM MAHIR JAWI",
+   "original_name": "bd44fc41-447b-480f-b73e-9356637c8def.jpg",
+   "local_file": "assets/media/I82.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "5 murid perempuan duduk di auditorium, ceria",
+   "storyboard_chapter": "2C Rocket Camp",
+   "storyboard_status": "Guna",
+   "note": "label folder perlu disahkan",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "UPKK/SRAI Rocket Camp 2026"
+    }
+   ]
+  },
+  {
+   "code": "I83",
+   "type": "image",
+   "drive_id": "1TbOAJw8D-TnZ03_STG8xVY68HUxDY0nK",
+   "drive_url": "https://drive.google.com/file/d/1TbOAJw8D-TnZ03_STG8xVY68HUxDY0nK/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KEM MAHIR JAWI",
+   "original_name": "59ba9728-7935-4765-ab79-5c5c76a44fcc.jpg",
+   "local_file": "assets/media/I83.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Murid lelaki menulis/menjawab di kerusi auditorium",
+   "storyboard_chapter": "2C Rocket Camp",
+   "storyboard_status": "Guna",
+   "note": "label folder perlu disahkan",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Minda diasah, semangat dibakar."
+    }
+   ]
+  },
+  {
+   "code": "I84",
+   "type": "image",
+   "drive_id": "1ukOZZMU-aMlop3yWQFoiGWiCJfpxWzJb",
+   "drive_url": "https://drive.google.com/file/d/1ukOZZMU-aMlop3yWQFoiGWiCJfpxWzJb/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KEM MAHIR JAWI",
+   "original_name": "f10eb63b-5e10-4840-af7d-83084c87d48f.jpg",
+   "local_file": "assets/media/I84.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Murid buat regangan tangan atas kepala; tali leher Rocket Camp kelihatan",
+   "storyboard_chapter": "2C Rocket Camp",
+   "storyboard_status": "Guna",
+   "note": "bukti label folder",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Minda diasah, semangat dibakar."
+    }
+   ]
+  },
+  {
+   "code": "I85",
+   "type": "image",
+   "drive_id": "1-PyprLalbthwSOeelqBT_QE7BsDmv-J1",
+   "drive_url": "https://drive.google.com/file/d/1-PyprLalbthwSOeelqBT_QE7BsDmv-J1/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KEM MAHIR JAWI",
+   "original_name": "5b56db93-41fc-4b0b-b706-db37fc60363d.jpg",
+   "local_file": null,
+   "orientation": null,
+   "content": "Murid lelaki buat regangan tangan",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Simpanan",
+   "note": "konsep sama dengan I84",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "I86",
+   "type": "image",
+   "drive_id": "1uoY4-u3rRMcDbJWeth5wQZLlPLwPpauo",
+   "drive_url": "https://drive.google.com/file/d/1uoY4-u3rRMcDbJWeth5wQZLlPLwPpauo/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KEM MAHIR JAWI",
+   "original_name": "57e6413a-37c9-4420-8015-d625fe30d6b4.jpg",
+   "local_file": "assets/media/I86.jpg",
+   "width": 2560,
+   "height": 1920,
+   "orientation": "landscape",
+   "content": "Murid perempuan menulis; seorang kabur di kiri",
+   "storyboard_chapter": "2C Rocket Camp",
+   "storyboard_status": "Guna",
+   "note": "label folder perlu disahkan",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Minda diasah, semangat dibakar."
+    }
+   ]
+  },
+  {
+   "code": "I87",
+   "type": "image",
+   "drive_id": "1kUOBn-4BLFL6oCXI5WPZ_AYcPnXExHdg",
+   "drive_url": "https://drive.google.com/file/d/1kUOBn-4BLFL6oCXI5WPZ_AYcPnXExHdg/view",
+   "drive_folder": "01",
+   "drive_subfolder": "KEM MAHIR JAWI",
+   "original_name": "f0bf98ac-32db-4197-8379-5cfc95861c0d.jpg",
+   "local_file": "assets/media/I87.jpg",
+   "width": 2560,
+   "height": 1187,
+   "orientation": "landscape",
+   "content": "Gambar kumpulan besar, dewan penuh peserta + fasilitator, ceria",
+   "storyboard_chapter": "2C Rocket Camp",
+   "storyboard_status": "Guna",
+   "note": "label folder perlu disahkan",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "00_pembukaan",
+     "segment": "…setiap langkah diiringi doa, dan setiap kejayaan "
+    },
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Minda diasah, semangat dibakar."
+    },
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Setiap aktiviti, satu pelajaran."
+    },
+    {
+     "chapter": "06_penutup",
+     "segment": "Tahun 2026 bukan sekadar catatan aktiviti. Ia kisa"
+    }
+   ]
+  },
+  {
+   "code": "V01",
+   "type": "video",
+   "drive_id": "1KgUtD9s5simXwHpjnKRKBXJ9SL2CQy7-",
+   "drive_url": "https://drive.google.com/file/d/1KgUtD9s5simXwHpjnKRKBXJ9SL2CQy7-/view",
+   "drive_folder": "02",
+   "drive_subfolder": null,
+   "original_name": "b43fb55d-dd63-4fdd-a6eb-afb1e6b9c69b_38F7A62C-DD09-492C-95B5-BBBCA35CE300_remux.mp4",
+   "local_file": "assets/media/V01.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 12.7,
+   "orientation": "portrait",
+   "content": "Meja juadah (kuih, mihun, puding), murid ambil makanan",
+   "storyboard_chapter": "2E Jamuan Raya",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Jamuan Hari Raya"
+    }
+   ]
+  },
+  {
+   "code": "V02",
+   "type": "video",
+   "drive_id": "173RVXi_qpQdHU-FscdA7ScZk7bmx13g4",
+   "drive_url": "https://drive.google.com/file/d/173RVXi_qpQdHU-FscdA7ScZk7bmx13g4/view",
+   "drive_folder": "02",
+   "drive_subfolder": null,
+   "original_name": "a9ed5f38-7617-41a3-8895-0886a3d235a7_B02C9326-BE91-48A5-ABD1-0C0F6BA58A9A_remux.mp4",
+   "local_file": "assets/media/V02.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 11.23,
+   "orientation": "portrait",
+   "content": "Murid beratur ambil makanan",
+   "storyboard_chapter": "2E Jamuan Raya",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Jamuan Hari Raya"
+    }
+   ]
+  },
+  {
+   "code": "V03",
+   "type": "video",
+   "drive_id": "1c2mnjsH0Fe82zjZGGFK5VGEZo0YuPMLP",
+   "drive_url": "https://drive.google.com/file/d/1c2mnjsH0Fe82zjZGGFK5VGEZo0YuPMLP/view",
+   "drive_folder": "05",
+   "drive_subfolder": "MAJLIS ANUGERAH 2025",
+   "original_name": "a9d67f89-0643-44d8-a82a-3093a94d9abc.mp4",
+   "local_file": null,
+   "orientation": null,
+   "content": "Murid perempuan beratur depan latar pentas",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Gugur",
+   "note": "hanya 0.7 s, tiada babak boleh digunakan",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "V04",
+   "type": "video",
+   "drive_id": "1TWP-ejdGuH4v7N_XZyWWaV8VNZtet85Z",
+   "drive_url": "https://drive.google.com/file/d/1TWP-ejdGuH4v7N_XZyWWaV8VNZtet85Z/view",
+   "drive_folder": "05",
+   "drive_subfolder": "MAJLIS ANUGERAH 2025",
+   "original_name": "5b39780f-20e3-4d1c-8c24-7c0f56b6d398.mp4",
+   "local_file": "assets/media/V04.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 80.98,
+   "orientation": "landscape",
+   "content": "Meja trofi & cenderahati, pengacara di rostrum, hadirin ibu bapa",
+   "storyboard_chapter": "4 Pencapaian",
+   "storyboard_status": "Guna",
+   "note": "0–10 s sahaja",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Majlis Anugerah Kecemerlangan 2025"
+    }
+   ]
+  },
+  {
+   "code": "V05",
+   "type": "video",
+   "drive_id": "1Reow2A9F_J1zS-q9HnH9UKeUMtyB38k1",
+   "drive_url": "https://drive.google.com/file/d/1Reow2A9F_J1zS-q9HnH9UKeUMtyB38k1/view",
+   "drive_folder": "05",
+   "drive_subfolder": "MAJLIS ANUGERAH 2025",
+   "original_name": "73d56cae-b8b7-45d0-b177-5e4b088c4378.mp4",
+   "local_file": "assets/media/V05.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 56.38,
+   "orientation": "landscape",
+   "content": "Persembahan koir/nasyid murid di pentas, dari belakang hadirin",
+   "storyboard_chapter": "4 Pencapaian",
+   "storyboard_status": "Guna",
+   "note": "5–8 s sahaja",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Bakat murid terserlah di pentas."
+    }
+   ]
+  },
+  {
+   "code": "V06",
+   "type": "video",
+   "drive_id": "1_FepYtEes5EMwILFocpy98lImT_Sp_FI",
+   "drive_url": "https://drive.google.com/file/d/1_FepYtEes5EMwILFocpy98lImT_Sp_FI/view",
+   "drive_folder": "05",
+   "drive_subfolder": "MAJLIS ANUGERAH 2025",
+   "original_name": "f15dbf06-d5a5-4284-9be1-05054d8fd15c.mp4",
+   "local_file": "assets/media/V06.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 35.22,
+   "orientation": "landscape",
+   "content": "Pan hadirin; tetamu kehormat di sofa (baju batik biru)",
+   "storyboard_chapter": "4 Pencapaian",
+   "storyboard_status": "Guna",
+   "note": "bahagian tetamu di sofa",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Majlis Anugerah Kecemerlangan 2025"
+    }
+   ]
+  },
+  {
+   "code": "V07",
+   "type": "video",
+   "drive_id": "17r7wL-H1QP9uI687-NtKGaZna8tSMlti",
+   "drive_url": "https://drive.google.com/file/d/17r7wL-H1QP9uI687-NtKGaZna8tSMlti/view",
+   "drive_folder": "05",
+   "drive_subfolder": "MAJLIS ANUGERAH 2025",
+   "original_name": "b6c8272c-9151-4ecd-8da5-24cb2c5af4ae.mp4",
+   "local_file": null,
+   "orientation": null,
+   "content": "Hadirin ibu bapa",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Simpanan",
+   "note": "kamera goyang",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "V08",
+   "type": "video",
+   "drive_id": "1Xjs1eOsLdVHpx3WiNgyRiGB6KrvR2sqv",
+   "drive_url": "https://drive.google.com/file/d/1Xjs1eOsLdVHpx3WiNgyRiGB6KrvR2sqv/view",
+   "drive_folder": "05",
+   "drive_subfolder": "MAJLIS ANUGERAH 2025",
+   "original_name": "37bdc837-fefc-4f46-b5aa-11f443cee786.mp4",
+   "local_file": null,
+   "orientation": null,
+   "content": "Persembahan pentas",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Gugur",
+   "note": "tangan penonton menghalang kamera sepanjang klip",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "V09",
+   "type": "video",
+   "drive_id": "1u4zWO8uDbTKQQLWsRRuT9DpC_S7adlLv",
+   "drive_url": "https://drive.google.com/file/d/1u4zWO8uDbTKQQLWsRRuT9DpC_S7adlLv/view",
+   "drive_folder": "05",
+   "drive_subfolder": "MAJLIS ANUGERAH 2025",
+   "original_name": "f2508d1a-6db5-4c11-9eda-ff744b977217.mp4",
+   "local_file": "assets/media/V09.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 13.31,
+   "orientation": "landscape",
+   "content": "Persembahan koir murid di pentas, jelas",
+   "storyboard_chapter": "4 Pencapaian",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Bakat murid terserlah di pentas."
+    }
+   ]
+  },
+  {
+   "code": "V10",
+   "type": "video",
+   "drive_id": "1VbAaW4pBxBgLC5_TeK9EH2iCxrX31KC0",
+   "drive_url": "https://drive.google.com/file/d/1VbAaW4pBxBgLC5_TeK9EH2iCxrX31KC0/view",
+   "drive_folder": "05",
+   "drive_subfolder": "MAJLIS ANUGERAH 2025",
+   "original_name": "ace62e54-1808-4c30-95d5-476bea2d6860.mp4",
+   "local_file": "assets/media/V10.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 9.43,
+   "orientation": "landscape",
+   "content": "Murid berdiri beratur dalam dewan",
+   "storyboard_chapter": "4 Pencapaian",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Majlis Anugerah Kecemerlangan 2025"
+    }
+   ]
+  },
+  {
+   "code": "V11",
+   "type": "video",
+   "drive_id": "1bgspkchNtOMoZM_D_-CjzgQSLrJ1qXBs",
+   "drive_url": "https://drive.google.com/file/d/1bgspkchNtOMoZM_D_-CjzgQSLrJ1qXBs/view",
+   "drive_folder": "05",
+   "drive_subfolder": "MAJLIS ANUGERAH 2025",
+   "original_name": "667189aa-38fa-4d66-a4e1-df197e657c0e.mp4",
+   "local_file": "assets/media/V11.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 9.07,
+   "orientation": "landscape",
+   "content": "Murid duduk menunggu, close-up wajah",
+   "storyboard_chapter": "4 Pencapaian",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Bakat murid terserlah di pentas."
+    }
+   ]
+  },
+  {
+   "code": "V12",
+   "type": "video",
+   "drive_id": "19Z63sRxfBdYPpvoSO7OITdlRi-HPW_mR",
+   "drive_url": "https://drive.google.com/file/d/19Z63sRxfBdYPpvoSO7OITdlRi-HPW_mR/view",
+   "drive_folder": "05",
+   "drive_subfolder": "MAJLIS ANUGERAH 2025",
+   "original_name": "3b90de0c-6d6d-45c6-9a6f-842d447dc7e8.mp4",
+   "local_file": "assets/media/V12.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 8.28,
+   "orientation": "landscape",
+   "content": "Murid duduk dalam barisan kerusi, pan",
+   "storyboard_chapter": "4 Pencapaian",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Bakat murid terserlah di pentas."
+    }
+   ]
+  },
+  {
+   "code": "V13",
+   "type": "video",
+   "drive_id": "1gy4VlGfZ-luxytC03ybYjc3JTpbQvp6b",
+   "drive_url": "https://drive.google.com/file/d/1gy4VlGfZ-luxytC03ybYjc3JTpbQvp6b/view",
+   "drive_folder": "05",
+   "drive_subfolder": "MAJLIS ANUGERAH 2025",
+   "original_name": "7aa42eb8-59df-419a-bb98-6eb97801e61b.mp4",
+   "local_file": "assets/media/V13.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 7.42,
+   "orientation": "landscape",
+   "content": "Persembahan pentas, kepala & telefon penonton di depan",
+   "storyboard_chapter": "4 Pencapaian",
+   "storyboard_status": "Guna",
+   "note": "crop kepala penonton di kiri",
+   "fix": {
+    "crop": [
+     0.18,
+     0,
+     1,
+     1
+    ]
+   },
+   "used_in": [
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Bakat murid terserlah di pentas."
+    }
+   ]
+  },
+  {
+   "code": "V14",
+   "type": "video",
+   "drive_id": "1nRxBzyxdifWqyoKqzNES37rcuCjnUnNB",
+   "drive_url": "https://drive.google.com/file/d/1nRxBzyxdifWqyoKqzNES37rcuCjnUnNB/view",
+   "drive_folder": "05",
+   "drive_subfolder": "MAJLIS ANUGERAH 2025",
+   "original_name": "7c36f7ba-c336-4576-87a4-856070cab230.mp4",
+   "local_file": "assets/media/V14.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 3.71,
+   "orientation": "portrait",
+   "content": "Murid lelaki di meja pentas (tilawah/syarahan)",
+   "storyboard_chapter": "4 Pencapaian",
+   "storyboard_status": "Guna",
+   "note": "menegak, latar kabur",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "04_pencapaian",
+     "segment": "Bakat murid terserlah di pentas."
+    }
+   ]
+  },
+  {
+   "code": "V15",
+   "type": "video",
+   "drive_id": "1Ib46lJqH0vejbAd1njKIGYFIcZLhAIkv",
+   "drive_url": "https://drive.google.com/file/d/1Ib46lJqH0vejbAd1njKIGYFIcZLhAIkv/view",
+   "drive_folder": "05",
+   "drive_subfolder": "MAJLIS ANUGERAH 2025",
+   "original_name": "b98e97bf-f423-4fcd-8128-1a198a1e31d1.mp4",
+   "local_file": null,
+   "orientation": null,
+   "content": "Persembahan pentas dari belakang",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Simpanan",
+   "note": "orang berdiri menghalang",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "V16",
+   "type": "video",
+   "drive_id": "1zN7_7fMZEzeJq48KWwtyiK8LwmjlU7Bb",
+   "drive_url": "https://drive.google.com/file/d/1zN7_7fMZEzeJq48KWwtyiK8LwmjlU7Bb/view",
+   "drive_folder": "06",
+   "drive_subfolder": null,
+   "original_name": "d09bac16-ce86-4fbf-85ee-4b143c7986b0.mp4",
+   "local_file": "assets/media/V16.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 1.68,
+   "orientation": "landscape",
+   "content": "Kelas Tahun 1, murid menulis, guru di depan",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "V17",
+   "type": "video",
+   "drive_id": "16WN8oHZPJK1regSY5Tet8e9O5PzAnkY0",
+   "drive_url": "https://drive.google.com/file/d/16WN8oHZPJK1regSY5Tet8e9O5PzAnkY0/view",
+   "drive_folder": "06",
+   "drive_subfolder": null,
+   "original_name": "5ae0b26b-4108-4847-9756-e8ddfe4e138d.mp4",
+   "local_file": "assets/media/V17.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 7.65,
+   "orientation": "landscape",
+   "content": "Murid lelaki menulis, close-up, pan",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 1 · Sesi Pagi"
+    }
+   ]
+  },
+  {
+   "code": "V18",
+   "type": "video",
+   "drive_id": "1O8GrnCQbGcjpBZZjbURvyNbt-XhRODx7",
+   "drive_url": "https://drive.google.com/file/d/1O8GrnCQbGcjpBZZjbURvyNbt-XhRODx7/view",
+   "drive_folder": "06",
+   "drive_subfolder": null,
+   "original_name": "9c494c76-a399-4fa8-9068-ce084f434db4.mp4",
+   "local_file": "assets/media/V18.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 8.21,
+   "orientation": "landscape",
+   "content": "Murid perempuan menulis; hujung klip kabur",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "0–5 s sahaja",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 1 · Sesi Pagi"
+    }
+   ]
+  },
+  {
+   "code": "V19",
+   "type": "video",
+   "drive_id": "1o2bJwg9WhOMXVUL2FjxtD1sgONfTjsqM",
+   "drive_url": "https://drive.google.com/file/d/1o2bJwg9WhOMXVUL2FjxtD1sgONfTjsqM/view",
+   "drive_folder": "06",
+   "drive_subfolder": null,
+   "original_name": "8728409d-3485-4787-9e17-a59f33199d8e.mp4",
+   "local_file": "assets/media/V19.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 1.67,
+   "orientation": "landscape",
+   "content": "Kelas Tahun 1, sudut lebar",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "V20",
+   "type": "video",
+   "drive_id": "17XYiCRMzevWuLzDEpYX9Aqsj-GRtSkQJ",
+   "drive_url": "https://drive.google.com/file/d/17XYiCRMzevWuLzDEpYX9Aqsj-GRtSkQJ/view",
+   "drive_folder": "06",
+   "drive_subfolder": null,
+   "original_name": "e650b60b-7439-405c-990a-282757fe0826.mp4",
+   "local_file": "assets/media/V20.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 6.61,
+   "orientation": "landscape",
+   "content": "Pan kelas, murid menulis",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 1 · Sesi Pagi"
+    }
+   ]
+  },
+  {
+   "code": "V21",
+   "type": "video",
+   "drive_id": "18f00YoS1ZJM0rR42gQK-qtQmNQ3gfEDR",
+   "drive_url": "https://drive.google.com/file/d/18f00YoS1ZJM0rR42gQK-qtQmNQ3gfEDR/view",
+   "drive_folder": "07",
+   "drive_subfolder": null,
+   "original_name": "90daaaa8-93bb-40e7-af49-182c607eebe4.mp4",
+   "local_file": "assets/media/V21.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 11.39,
+   "orientation": "portrait",
+   "content": "Pan kelas dari sudut, murid menulis",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 1 & 2 · Sesi Petang"
+    }
+   ]
+  },
+  {
+   "code": "V22",
+   "type": "video",
+   "drive_id": "14QiyLuijBjQS-SiGcpWgDmcQiHESiRtL",
+   "drive_url": "https://drive.google.com/file/d/14QiyLuijBjQS-SiGcpWgDmcQiHESiRtL/view",
+   "drive_folder": "07",
+   "drive_subfolder": null,
+   "original_name": "fddeb1c5-ec97-405c-a17e-3376bd6ddce8.mp4",
+   "local_file": "assets/media/V22.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 16.37,
+   "orientation": "landscape",
+   "content": "Close-up murid menulis, guru di belakang",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 1 & 2 · Sesi Petang"
+    }
+   ]
+  },
+  {
+   "code": "V23",
+   "type": "video",
+   "drive_id": "1KHHO1s5dvGJizXHs3mIP2RoQ9m5USJuE",
+   "drive_url": "https://drive.google.com/file/d/1KHHO1s5dvGJizXHs3mIP2RoQ9m5USJuE/view",
+   "drive_folder": "07",
+   "drive_subfolder": null,
+   "original_name": "e56616f7-78da-480a-b9ac-5c2631959e38.mp4",
+   "local_file": "assets/media/V23.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 17.55,
+   "orientation": "portrait",
+   "content": "Pan kelas dan meja guru",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "menegak, sebahagian sahaja",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "V24",
+   "type": "video",
+   "drive_id": "1wLfvl8cxmcuMxM_nXfeZ3P7uhmBAd_dN",
+   "drive_url": "https://drive.google.com/file/d/1wLfvl8cxmcuMxM_nXfeZ3P7uhmBAd_dN/view",
+   "drive_folder": "07",
+   "drive_subfolder": null,
+   "original_name": "339b5d69-80b4-4c66-8dd4-fb07220ee2a7.mp4",
+   "local_file": "assets/media/V24.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 18.0,
+   "orientation": "landscape",
+   "content": "Pan kelas; seorang murid tidur di meja",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "elak bahagian murid tidur",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 1 & 2 · Sesi Petang"
+    }
+   ]
+  },
+  {
+   "code": "V25",
+   "type": "video",
+   "drive_id": "1Udm5T9K99OWjYmEBp-TumFZHrbu5HOj3",
+   "drive_url": "https://drive.google.com/file/d/1Udm5T9K99OWjYmEBp-TumFZHrbu5HOj3/view",
+   "drive_folder": "08",
+   "drive_subfolder": null,
+   "original_name": "dc845458-9aef-4635-a45b-16942c481e7e.mp4",
+   "local_file": "assets/media/V25.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 3.8,
+   "orientation": "landscape",
+   "content": "Dua murid menulis, close-up",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 2 & 3 · Sesi Pagi"
+    }
+   ]
+  },
+  {
+   "code": "V26",
+   "type": "video",
+   "drive_id": "1onvKapZuOgm5ADPDgAXplswAR2xYpcHb",
+   "drive_url": "https://drive.google.com/file/d/1onvKapZuOgm5ADPDgAXplswAR2xYpcHb/view",
+   "drive_folder": "08",
+   "drive_subfolder": null,
+   "original_name": "679a2cac-bd24-4afe-85b0-559182e1e25f.mp4",
+   "local_file": "assets/media/V26.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 4.5,
+   "orientation": "landscape",
+   "content": "Murid perempuan menulis, close-up",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "V27",
+   "type": "video",
+   "drive_id": "1WtgXmv0TJoIvjESWx_O8OQHtq70N-TSP",
+   "drive_url": "https://drive.google.com/file/d/1WtgXmv0TJoIvjESWx_O8OQHtq70N-TSP/view",
+   "drive_folder": "08",
+   "drive_subfolder": null,
+   "original_name": "fadaaf22-e593-40ba-ab14-39ffc50b57e8.mp4",
+   "local_file": null,
+   "orientation": null,
+   "content": "Dua murid menulis (sama seperti V25)",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Gugur",
+   "note": "hanya 0.5 s, pendua V25",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "V28",
+   "type": "video",
+   "drive_id": "1K0nIFtvj3Mmq3eGfo0lGU82pdvVNfgwJ",
+   "drive_url": "https://drive.google.com/file/d/1K0nIFtvj3Mmq3eGfo0lGU82pdvVNfgwJ/view",
+   "drive_folder": "08",
+   "drive_subfolder": null,
+   "original_name": "8cfd95e1-86d9-491c-bce7-e471e08f3858.mp4",
+   "local_file": "assets/media/V28.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 19.28,
+   "orientation": "landscape",
+   "content": "Pan kelas; kamera goyang dan kabur di hujung",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "0–3 s sahaja",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 2 & 3 · Sesi Pagi"
+    }
+   ]
+  },
+  {
+   "code": "V29",
+   "type": "video",
+   "drive_id": "1ig7Lp565JbkX2YE-t50us4lO8gMhCXBc",
+   "drive_url": "https://drive.google.com/file/d/1ig7Lp565JbkX2YE-t50us4lO8gMhCXBc/view",
+   "drive_folder": "08",
+   "drive_subfolder": null,
+   "original_name": "04996d77-7a5b-4a8c-a1ea-cf0362887f2c.mp4",
+   "local_file": "assets/media/V29.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 42.66,
+   "orientation": "landscape",
+   "content": "Pan panjang; guru (tudung ungu) membantu murid di hujung klip",
+   "storyboard_chapter": "5 Di sebalik tabir",
+   "storyboard_status": "Guna",
+   "note": "36–43 s sahaja",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "05_di_sebalik_tabir",
+     "segment": "Sebelum peperiksaan…"
+    }
+   ]
+  },
+  {
+   "code": "V30",
+   "type": "video",
+   "drive_id": "1CY8-lzX7dpLc5e2jd53uMVzMCkysgKFc",
+   "drive_url": "https://drive.google.com/file/d/1CY8-lzX7dpLc5e2jd53uMVzMCkysgKFc/view",
+   "drive_folder": "09",
+   "drive_subfolder": null,
+   "original_name": "d914338d-7992-4d1a-97e6-4bf84b93895d.mp4",
+   "local_file": "assets/media/V30.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 12.82,
+   "orientation": "portrait",
+   "content": "Pan kelas besar",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 3 & 4 · Sesi Petang"
+    }
+   ]
+  },
+  {
+   "code": "V31",
+   "type": "video",
+   "drive_id": "1mHB1n2nr4N1sEJyNpNdobR7bz1tTMO9E",
+   "drive_url": "https://drive.google.com/file/d/1mHB1n2nr4N1sEJyNpNdobR7bz1tTMO9E/view",
+   "drive_folder": "09",
+   "drive_subfolder": null,
+   "original_name": "394cb163-4306-4509-bd76-2237b2b79643.mp4",
+   "local_file": "assets/media/V31.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 11.73,
+   "orientation": "landscape",
+   "content": "Murid lelaki bersongkok menulis",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "V32",
+   "type": "video",
+   "drive_id": "1Gp8eKpgMVc6InVupGhbGt0Vf-jcdCcaR",
+   "drive_url": "https://drive.google.com/file/d/1Gp8eKpgMVc6InVupGhbGt0Vf-jcdCcaR/view",
+   "drive_folder": "09",
+   "drive_subfolder": null,
+   "original_name": "5d216caf-93e3-4820-9cc6-16b96eb6e192.mp4",
+   "local_file": "assets/media/V32.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 13.72,
+   "orientation": "landscape",
+   "content": "Murid perempuan menulis, ada yang mengangkat tangan",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 3 & 4 · Sesi Petang"
+    }
+   ]
+  },
+  {
+   "code": "V33",
+   "type": "video",
+   "drive_id": "1NHPGt0_Nj-sAnvxPXmlTZIRTGh1OIULE",
+   "drive_url": "https://drive.google.com/file/d/1NHPGt0_Nj-sAnvxPXmlTZIRTGh1OIULE/view",
+   "drive_folder": "09",
+   "drive_subfolder": null,
+   "original_name": "ff4664d4-59f1-4129-8b5d-e7884575774e.mp4",
+   "local_file": "assets/media/V33.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 15.39,
+   "orientation": "portrait",
+   "content": "Pan kelas dan meja guru",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 3 & 4 · Sesi Petang"
+    }
+   ]
+  },
+  {
+   "code": "V34",
+   "type": "video",
+   "drive_id": "1MMoan8NnllUllzyXYQsGroKu7gOes19m",
+   "drive_url": "https://drive.google.com/file/d/1MMoan8NnllUllzyXYQsGroKu7gOes19m/view",
+   "drive_folder": "09",
+   "drive_subfolder": null,
+   "original_name": "4161bf40-fa71-4857-a7d2-e6963d9a59db.mp4",
+   "local_file": "assets/media/V34.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 15.93,
+   "orientation": "landscape",
+   "content": "Murid angkat tangan, menulis",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 3 & 4 · Sesi Petang"
+    }
+   ]
+  },
+  {
+   "code": "V35",
+   "type": "video",
+   "drive_id": "1UYP-1aatvkKaBjIsvmNQNxGch0OtoILr",
+   "drive_url": "https://drive.google.com/file/d/1UYP-1aatvkKaBjIsvmNQNxGch0OtoILr/view",
+   "drive_folder": "09",
+   "drive_subfolder": null,
+   "original_name": "11c4e70d-d6d3-4e79-9701-3d22ba01f317.mp4",
+   "local_file": "assets/media/V35.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 10.21,
+   "orientation": "landscape",
+   "content": "Murid menulis, murid lelaki berjalan menghantar kertas",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 3 & 4 · Sesi Petang"
+    }
+   ]
+  },
+  {
+   "code": "V36",
+   "type": "video",
+   "drive_id": "1rZtf8RIOPYjzG6qbj3t2HOS7E0XbbsCP",
+   "drive_url": "https://drive.google.com/file/d/1rZtf8RIOPYjzG6qbj3t2HOS7E0XbbsCP/view",
+   "drive_folder": "09",
+   "drive_subfolder": null,
+   "original_name": "d47a3b7b-53d4-45db-8f50-3041927e1532.mp4",
+   "local_file": "assets/media/V36.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 6.96,
+   "orientation": "landscape",
+   "content": "Kelas besar dari depan, guru di belakang",
+   "storyboard_chapter": "Pembukaan",
+   "storyboard_status": "Guna",
+   "note": "establishing",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "00_pembukaan",
+     "segment": "Tahun 2026 menyaksikan setiap hari diisi dengan us"
+    }
+   ]
+  },
+  {
+   "code": "V37",
+   "type": "video",
+   "drive_id": "1yoXNLjUHsAumeiP1LiF4lQT9Cau3-vJ3",
+   "drive_url": "https://drive.google.com/file/d/1yoXNLjUHsAumeiP1LiF4lQT9Cau3-vJ3/view",
+   "drive_folder": "09",
+   "drive_subfolder": null,
+   "original_name": "b1d79ad4-e44e-41ad-9002-4c32c229641a.mp4",
+   "local_file": "assets/media/V37.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 5.2,
+   "orientation": "landscape",
+   "content": "Murid perempuan menulis, murid lain angkat tangan",
+   "storyboard_chapter": "2A Kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Tahun 3 & 4 · Sesi Petang"
+    }
+   ]
+  },
+  {
+   "code": "V38",
+   "type": "video",
+   "drive_id": "1OLvrtfW_deaPTDMEOKE1ogDQyMf9liBR",
+   "drive_url": "https://drive.google.com/file/d/1OLvrtfW_deaPTDMEOKE1ogDQyMf9liBR/view",
+   "drive_folder": "01",
+   "drive_subfolder": "CUCI KELAS",
+   "original_name": "4ec1b2cf-2e85-4fcb-aa70-5291a05a97e0.mp4",
+   "local_file": "assets/media/V38.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 39.36,
+   "orientation": "portrait",
+   "content": "Koridor, kerusi disusun, murid mengangkat perabot",
+   "storyboard_chapter": "2G Cuci kelas",
+   "storyboard_status": "Guna",
+   "note": "4 s sahaja, goyang",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Gotong-Royong Cuci Kelas"
+    }
+   ]
+  },
+  {
+   "code": "V39",
+   "type": "video",
+   "drive_id": "1ny_ofnWNz8t4Kgb2aykCGSKzKZoW0sQC",
+   "drive_url": "https://drive.google.com/file/d/1ny_ofnWNz8t4Kgb2aykCGSKzKZoW0sQC/view",
+   "drive_folder": "01",
+   "drive_subfolder": "CUCI KELAS",
+   "original_name": "29b950e7-2607-42e2-86ca-01e9184acc2a.mp4",
+   "local_file": null,
+   "orientation": null,
+   "content": "Kawasan luar sekolah, murid jauh",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Simpanan",
+   "note": "murid terlalu jauh",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "V40",
+   "type": "video",
+   "drive_id": "1s0UOAJXwTQXAZNPOTrRo0SIF8YLtjdPc",
+   "drive_url": "https://drive.google.com/file/d/1s0UOAJXwTQXAZNPOTrRo0SIF8YLtjdPc/view",
+   "drive_folder": "01",
+   "drive_subfolder": "CUCI KELAS",
+   "original_name": "f1b4cbd8-9646-4654-a5c9-c42896a423b5.mp4",
+   "local_file": "assets/media/V40.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 16.49,
+   "orientation": "portrait",
+   "content": "Murid perempuan menyapu/mop lantai basah dalam dewan",
+   "storyboard_chapter": "2G Cuci kelas",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Gotong-Royong Cuci Kelas"
+    }
+   ]
+  },
+  {
+   "code": "V41",
+   "type": "video",
+   "drive_id": "1of13BzYhdpvHDVrdk-vuXrlMbfWav1HL",
+   "drive_url": "https://drive.google.com/file/d/1of13BzYhdpvHDVrdk-vuXrlMbfWav1HL/view",
+   "drive_folder": "01",
+   "drive_subfolder": "CUCI KELAS",
+   "original_name": "b3c58be8-2644-4011-be53-bf8136032878.mp4",
+   "local_file": "assets/media/V41.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 12.05,
+   "orientation": "portrait",
+   "content": "Murid mengemas bilik (sofa, meja)",
+   "storyboard_chapter": "2G Cuci kelas",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Gotong-Royong Cuci Kelas"
+    }
+   ]
+  },
+  {
+   "code": "V42",
+   "type": "video",
+   "drive_id": "1Ca7HgnG_1cUoWraKJrktSkDErgk5kywr",
+   "drive_url": "https://drive.google.com/file/d/1Ca7HgnG_1cUoWraKJrktSkDErgk5kywr/view",
+   "drive_folder": "01",
+   "drive_subfolder": "CUCI KELAS",
+   "original_name": "99efb91d-6774-4932-af77-10bb5f065da7.mp4",
+   "local_file": "assets/media/V42.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 9.6,
+   "orientation": "portrait",
+   "content": "Guru & murid menyapu lantai dewan",
+   "storyboard_chapter": "5 Di sebalik tabir",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "05_di_sebalik_tabir",
+     "segment": "Sebelum kelas bersinar…"
+    }
+   ]
+  },
+  {
+   "code": "V43",
+   "type": "video",
+   "drive_id": "1_K2o2uIfW5tA4r-OjtRVlAWmPxdzcajG",
+   "drive_url": "https://drive.google.com/file/d/1_K2o2uIfW5tA4r-OjtRVlAWmPxdzcajG/view",
+   "drive_folder": "01",
+   "drive_subfolder": "CUCI KELAS",
+   "original_name": "51bc4d6b-35a8-4eda-b15e-3590d484e3e8.mp4",
+   "local_file": "assets/media/V43.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 8.69,
+   "orientation": "portrait",
+   "content": "Dewan gelap, lantai basah, murid menyapu",
+   "storyboard_chapter": "2G Cuci kelas",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Gotong-Royong Cuci Kelas"
+    }
+   ]
+  },
+  {
+   "code": "V44",
+   "type": "video",
+   "drive_id": "1QWdGBRRK3rVQApZaAKC_BnWVHlDYJCAC",
+   "drive_url": "https://drive.google.com/file/d/1QWdGBRRK3rVQApZaAKC_BnWVHlDYJCAC/view",
+   "drive_folder": "01",
+   "drive_subfolder": "CUCI KELAS",
+   "original_name": "f372a717-4bcd-4c9c-8476-0c25aebb3522.mp4",
+   "local_file": "assets/media/V44.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 7.82,
+   "orientation": "portrait",
+   "content": "Murid mop lantai bilik",
+   "storyboard_chapter": "2G Cuci kelas",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Gotong-Royong Cuci Kelas"
+    }
+   ]
+  },
+  {
+   "code": "V45",
+   "type": "video",
+   "drive_id": "17vHaFZ56E7xkT79rR5e0GL-OwB1weMW9",
+   "drive_url": "https://drive.google.com/file/d/17vHaFZ56E7xkT79rR5e0GL-OwB1weMW9/view",
+   "drive_folder": "01",
+   "drive_subfolder": "CUCI KELAS",
+   "original_name": "c18bfd31-f5ff-4ba4-a1f7-ca83b8c07daa.mp4",
+   "local_file": "assets/media/V45.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 3.51,
+   "orientation": "landscape",
+   "content": "Murid lelaki & perempuan menggosok lantai",
+   "storyboard_chapter": "2G Cuci kelas",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Gotong-Royong Cuci Kelas"
+    }
+   ]
+  },
+  {
+   "code": "V46",
+   "type": "video",
+   "drive_id": "1sfsIPoMxnOKD2roXq9TFrsYr-J9ETnp0",
+   "drive_url": "https://drive.google.com/file/d/1sfsIPoMxnOKD2roXq9TFrsYr-J9ETnp0/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "578383ab-f2f6-46ea-92f9-a27ae97e4481.mp4",
+   "local_file": "assets/media/V46.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 16.34,
+   "orientation": "portrait",
+   "content": "Terowong cahaya imersif, murid berjalan",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "00_pembukaan",
+     "segment": "…setiap langkah diiringi doa, dan setiap kejayaan "
+    },
+    {
+     "chapter": "02_aktiviti",
+     "segment": "…dari angkasa lepas…"
+    }
+   ]
+  },
+  {
+   "code": "V47",
+   "type": "video",
+   "drive_id": "1mIdi8rHB72RWmjLrSiisyb1HQdwP0Epo",
+   "drive_url": "https://drive.google.com/file/d/1mIdi8rHB72RWmjLrSiisyb1HQdwP0Epo/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "20006049-b70c-4ab7-bff9-4b460a76a055.mp4",
+   "local_file": "assets/media/V47.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 23.35,
+   "orientation": "landscape",
+   "content": "Pan dinding pameran \"Palestin: Sejarah & Budaya Yang Dilupai\"",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "3 s sahaja",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "…ke sejarah bangsa dan tamadun Islam."
+    }
+   ]
+  },
+  {
+   "code": "V48",
+   "type": "video",
+   "drive_id": "1gJXaZsjDZUaslL1ymK61gPBjqrCXYh7-",
+   "drive_url": "https://drive.google.com/file/d/1gJXaZsjDZUaslL1ymK61gPBjqrCXYh7-/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "44703cdb-614f-43eb-b3fe-ccb43d1db5a1.mp4",
+   "local_file": "assets/media/V48.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 15.89,
+   "orientation": "portrait",
+   "content": "Galeri pameran, murid & guru berjalan",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "…dari angkasa lepas…"
+    }
+   ]
+  },
+  {
+   "code": "V49",
+   "type": "video",
+   "drive_id": "1qEA-SKyzqaoS-OgJHsEOZ0bT-ZnGr5v_",
+   "drive_url": "https://drive.google.com/file/d/1qEA-SKyzqaoS-OgJHsEOZ0bT-ZnGr5v_/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "e5e1c58a-75aa-4a15-82f8-0f9a87291b31.mp4",
+   "local_file": "assets/media/V49.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 13.07,
+   "orientation": "portrait",
+   "content": "Bangunan muzium bertangga, murid berkumpul di tangga",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Muzium menjadi bilik darjah tanpa dinding…"
+    }
+   ]
+  },
+  {
+   "code": "V50",
+   "type": "video",
+   "drive_id": "120-8fVZDmtLETPEEvzE1ax2I3QhQ19Fu",
+   "drive_url": "https://drive.google.com/file/d/120-8fVZDmtLETPEEvzE1ax2I3QhQ19Fu/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "033168af-b619-43d4-8a0f-63fc322a05e3.mp4",
+   "local_file": "assets/media/V50.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 14.14,
+   "orientation": "landscape",
+   "content": "Galeri artifak dalam kaca",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "…ke sejarah bangsa dan tamadun Islam."
+    }
+   ]
+  },
+  {
+   "code": "V51",
+   "type": "video",
+   "drive_id": "1kY0c-yG2tt7kLoUCc9ok6-t-XbPIA6ei",
+   "drive_url": "https://drive.google.com/file/d/1kY0c-yG2tt7kLoUCc9ok6-t-XbPIA6ei/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "cf7f535b-c0ac-4198-97e8-93069adf57a7.mp4",
+   "local_file": "assets/media/V51.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 11.46,
+   "orientation": "portrait",
+   "content": "Tilt-up fasad muzium",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "Muzium menjadi bilik darjah tanpa dinding…"
+    }
+   ]
+  },
+  {
+   "code": "V52",
+   "type": "video",
+   "drive_id": "1Fl0wjgabi_rStrGVZQUSM2rbauAvnmXW",
+   "drive_url": "https://drive.google.com/file/d/1Fl0wjgabi_rStrGVZQUSM2rbauAvnmXW/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "559ac133-75f9-480e-a57a-2c7b4c13b50b.mp4",
+   "local_file": "assets/media/V52.mp4",
+   "width": 360,
+   "height": 640,
+   "duration_s": 11.41,
+   "orientation": "portrait",
+   "content": "Diorama gua/prasejarah",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "menegak",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "…ke sejarah bangsa dan tamadun Islam."
+    }
+   ]
+  },
+  {
+   "code": "V53",
+   "type": "video",
+   "drive_id": "15vu2_M_USu86z3T25rTc7yxPwTrHjt4X",
+   "drive_url": "https://drive.google.com/file/d/15vu2_M_USu86z3T25rTc7yxPwTrHjt4X/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "4a77cd7c-3882-4299-a6f2-a8c98d15839d.mp4",
+   "local_file": null,
+   "orientation": null,
+   "content": "Murid berkerumun di galeri",
+   "storyboard_chapter": "—",
+   "storyboard_status": "Simpanan",
+   "note": "gelap & goyang",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "V54",
+   "type": "video",
+   "drive_id": "1nDJeRWyzIS6gW_BG0gNGjbrGVkp4ntNn",
+   "drive_url": "https://drive.google.com/file/d/1nDJeRWyzIS6gW_BG0gNGjbrGVkp4ntNn/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "d00fa2cb-d098-49a9-b442-987f3da1f84a.mp4",
+   "local_file": "assets/media/V54.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 4.73,
+   "orientation": "landscape",
+   "content": "Murid di depan skrin peta interaktif besar",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "",
+   "fix": null,
+   "used_in": [
+    {
+     "chapter": "02_aktiviti",
+     "segment": "…dari angkasa lepas…"
+    }
+   ]
+  },
+  {
+   "code": "V55",
+   "type": "video",
+   "drive_id": "1q6D7gzrwqKEyK3097i_cpvOliOsAM3T1",
+   "drive_url": "https://drive.google.com/file/d/1q6D7gzrwqKEyK3097i_cpvOliOsAM3T1/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "cfe26d67-fc7b-48f8-b933-e1e3fce4bb9a.mp4",
+   "local_file": "assets/media/V55.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 1.46,
+   "orientation": "landscape",
+   "content": "Murid berkumpul depan tangga muzium",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "1 s sahaja",
+   "fix": null,
+   "used_in": []
+  },
+  {
+   "code": "V56",
+   "type": "video",
+   "drive_id": "1nz1kG9IhG26Q13YD2G4rPb6k8IbRI-Md",
+   "drive_url": "https://drive.google.com/file/d/1nz1kG9IhG26Q13YD2G4rPb6k8IbRI-Md/view",
+   "drive_folder": "01",
+   "drive_subfolder": "ROMBONGAN KL",
+   "original_name": "70ff88c9-d0ec-44b6-abd9-68ca4fbdbbd3.mp4",
+   "local_file": "assets/media/V56.mp4",
+   "width": 640,
+   "height": 360,
+   "duration_s": 1.57,
+   "orientation": "landscape",
+   "content": "Panel pameran Masjid al-Aqsa",
+   "storyboard_chapter": "2F Rombongan KL",
+   "storyboard_status": "Guna",
+   "note": "1.5 s sahaja",
+   "fix": null,
+   "used_in": []
+  }
+ ]
+}

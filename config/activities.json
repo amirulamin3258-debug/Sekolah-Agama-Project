@@ -1,0 +1,230 @@
+{
+  "_note": "Senarai suntingan (edit decision list) bagi setiap bab, berdasarkan storyboard rasmi. Kod I## = gambar, V## = video (lihat config/asset_manifest.json). Shot ringkas: \"I24\". Shot terperinci: {\"src\":\"V18\",\"in\":0,\"out\":5}. 'label' memaparkan lower third pada shot pertama segmen; 'narration' menjadi sari kata (dan skrip suara latar).",
+
+  "asset_fixes": {
+    "_watermark": "Crop 8% bawah untuk buang watermark 'HONOR X9e Pro' (storyboard: Pembersihan bahan)",
+    "I20": {"crop": [0, 0, 1, 0.92]}, "I21": {"crop": [0, 0, 1, 0.92]}, "I22": {"crop": [0, 0, 1, 0.92]},
+    "I23": {"crop": [0, 0, 1, 0.92]}, "I24": {"crop": [0, 0, 1, 0.92]}, "I26": {"crop": [0, 0, 1, 0.92]},
+    "I27": {"crop": [0, 0, 1, 0.92]}, "I28": {"crop": [0, 0, 1, 0.92]}, "I29": {"crop": [0, 0, 1, 0.92]},
+    "I31": {"crop": [0, 0, 1, 0.92]}, "I32": {"crop": [0, 0, 1, 0.92]}, "I35": {"crop": [0, 0, 1, 0.92]},
+    "I36": {"crop": [0, 0, 1, 0.92]},
+    "I11": {"crop": [0.18, 0, 1, 1]},
+    "I04": {"rotate": -2.5},
+    "V13": {"crop": [0.18, 0, 1, 1]}
+  },
+
+  "chapters": [
+    {
+      "id": "00_pembukaan",
+      "name": "Pembukaan",
+      "music": "opening",
+      "segments": [
+        {"shots": [{"type": "opening_title", "dur": 5.5}]},
+        {"narration": "Di sebuah sudut Batu Gajah, sebuah madrasah terus menyemai ilmu dan iman.",
+         "shots": [{"src": "I38", "motion": "out", "dur": 5.5,
+                    "overlays": [{"kind": "lower_third", "title": "SRAR Iskandariah", "sub": "Batu Gajah, Perak", "start": 0.6, "dur": 4.2}]}]},
+        {"narration": "Tahun 2026 menyaksikan setiap hari diisi dengan usaha…",
+         "shots": [{"src": "V36", "in": 0, "out": 4}]},
+        {"narration": "…setiap langkah diiringi doa, dan setiap kejayaan milik bersama.",
+         "trans": "cut",
+         "shots": [{"src": "V46", "in": 2, "out": 3.6}, {"src": "I39", "dur": 1.6}, {"src": "I76", "dur": 1.6},
+                   {"src": "I13", "dur": 1.6}, {"src": "I19", "dur": 1.6, "fit": "contain"}, {"src": "I87", "dur": 1.8}]},
+        {"narration": "Inilah perjalanan kami sepanjang tahun 2026.",
+         "shots": [{"type": "main_title", "dur": 7.0}]}
+      ]
+    },
+
+    {
+      "id": "01_carta_organisasi",
+      "name": "Bab 1 · Carta Organisasi",
+      "type": "orgchart",
+      "music": "formal",
+      "card": {"number": "BAB 1", "title": "CARTA ORGANISASI SRAR ISKANDARIAH 2026", "subtitle": "Barisan yang memimpin dan berkhidmat"},
+      "narration_intro": "Di sebalik setiap kejayaan, ada barisan yang memimpin dan berkhidmat.",
+      "narration_chart": "Inilah barisan jawatankuasa SRAR Iskandariah bagi sesi 2026.",
+      "narration_finale": "Bersatu hati, satu matlamat."
+    },
+
+    {
+      "id": "02_aktiviti",
+      "name": "Bab 2 · Aktiviti Sekolah",
+      "music": "bright",
+      "segments": [
+        {"shots": [{"type": "card", "number": "BAB 2", "title": "AKTIVITI DAN PROGRAM SEKOLAH 2026", "subtitle": "Setiap aktiviti, satu pelajaran", "dur": 5.0}]},
+
+        {"label": "Tahun 1 · Sesi Pagi", "sub": "Kelas & Penilaian",
+         "narration": "Di bilik darjah, setiap helaian kertas menjadi saksi usaha anak-anak kami.",
+         "shots": ["I24", {"src": "V20", "in": 0, "out": 3.5}, {"src": "V17", "in": 0, "out": 3.5},
+                   {"src": "V18", "in": 0, "out": 3.5}, {"src": "I20", "dur": 3.0}, {"src": "I22", "dur": 3.0}, {"src": "I23", "dur": 3.0}]},
+
+        {"label": "Tahun 1 & 2 · Sesi Petang", "sub": "Kelas & Penilaian",
+         "narration": "Dari pagi hingga ke petang…",
+         "shots": [{"src": "V21", "in": 0, "out": 4}, {"src": "I26", "dur": 3.0}, {"src": "V22", "in": 2, "out": 6},
+                   {"src": "I27", "dur": 3.0}, {"src": "V24", "in": 0, "out": 3.5}]},
+
+        {"label": "Tahun 2 & 3 · Sesi Pagi",
+         "narration": "…mereka tekun menjawab, sementara guru setia memerhati.",
+         "shots": [{"src": "I28", "dur": 3.0}, {"src": "V25", "in": 0, "out": 3.5}, {"src": "I34", "motion": "in", "dur": 3.0},
+                   {"src": "I29", "dur": 3.0}, {"src": "V28", "in": 0, "out": 3}, {"src": "I31", "dur": 3.0}]},
+
+        {"label": "Tahun 3 & 4 · Sesi Petang",
+         "narration": "Tangan diangkat, soalan ditanya, ilmu dicari.",
+         "shots": [{"type": "split", "srcs": [{"src": "V30", "in": 1}, {"src": "V33", "in": 1}], "dur": 4.0},
+                   {"src": "I35", "dur": 3.0}, {"src": "V32", "in": 3, "out": 7}, {"src": "I36", "dur": 3.0},
+                   {"src": "V34", "in": 2, "out": 6}, {"src": "V35", "in": 2, "out": 5.5}, {"src": "V37", "in": 0, "out": 3.5}]},
+
+        {"label": "Tahun 5 · Tahun 6",
+         "narration": "Dan buat Tahun 5 serta Tahun 6, tahun ini membawa makna tersendiri.",
+         "shots": [{"src": "I37", "motion": "out", "dur": 4.0}, {"src": "I38", "motion": "out", "dur": 4.0}]},
+
+        {"label": "Kelas Tambahan SRAI & UPKK", "sub": "Percubaan UPKK",
+         "narration": "Persediaan peperiksaan tidak berhenti di waktu persekolahan.",
+         "shots": [{"src": "I72", "motion": "right"}, {"src": "I73", "motion": "left"}, "I71", "I67"]},
+        {"narration": "Penat dibalas senyuman, dan kenangan bersama guru.",
+         "shots": [{"src": "I68", "motion": "in"}, "I66", "I69", {"src": "I64", "motion": "out", "dur": 3.8}]},
+
+        {"label": "UPKK/SRAI Rocket Camp 2026",
+         "narration": "Di Rocket Camp, anak-anak kami bersaing dan belajar bersama peserta sekolah lain.",
+         "shots": [{"src": "I79", "motion": "in"}, "I80", "I81", "I82"]},
+        {"narration": "Minda diasah, semangat dibakar.",
+         "shots": ["I83", "I86", "I84", {"src": "I87", "motion": "out", "dur": 4.0}]},
+
+        {"label": "Bacaan Yasin SRAI & UPKK",
+         "narration": "Di rumah Allah, alunan Yasin dibaca bersama, mendidik jiwa sejak kecil.",
+         "shots": [{"src": "I76", "motion": "in", "dur": 3.8}, "I78", "I74", "I75"]},
+        {"label": "Pertandingan Mewarna Sempena Maulidur Rasul", "sub": "Tahun 1–4 · Sesi Petang",
+         "narration": "Kasih kepada Rasulullah dizahirkan dengan warna dan kreativiti.",
+         "shots": [{"src": "I39", "motion": "right", "dur": 4.0}, {"src": "I40", "motion": "in", "dur": 3.6}]},
+
+        {"label": "Jamuan Hari Raya",
+         "narration": "Syawal disambut dengan juadah dan ukhuwah.",
+         "shots": [{"type": "split", "srcs": [{"src": "V01", "in": 0, "speed": 0.8}, {"src": "V02", "in": 0, "speed": 0.8}], "dur": 6.5}]},
+
+        {"label": "Rombongan Ilmiah ke Kuala Lumpur",
+         "narration": "Pagi itu, rombongan berangkat ke ibu kota.",
+         "shots": [{"src": "I53", "motion": "in"}, {"src": "I57", "dur": 2.6}, {"src": "I59", "dur": 2.6}]},
+        {"narration": "Muzium menjadi bilik darjah tanpa dinding…",
+         "shots": [{"src": "V51", "in": 0, "out": 4}, {"src": "V49", "in": 2, "out": 5.5}, {"src": "I46", "motion": "out"}]},
+        {"narration": "…dari angkasa lepas…",
+         "shots": [{"src": "V46", "in": 4, "out": 8.5}, {"src": "I44", "fit": "contain"}, {"src": "I56", "dur": 3.0},
+                   {"src": "V54", "in": 0, "out": 3.5}, {"src": "V48", "in": 3, "out": 6.5}]},
+        {"narration": "…ke sejarah bangsa dan tamadun Islam.",
+         "shots": [{"src": "I60", "motion": "in"}, "I62", "I63", {"src": "V52", "in": 2, "out": 5.5}, {"src": "V50", "in": 3, "out": 6.5},
+                   {"src": "V47", "in": 4, "out": 7}, {"src": "I50", "dur": 3.0}, "I51"]},
+        {"label": "Ilmu Jadi Pemimpin, Iman Jadi Perisai",
+         "narration": "Pulang membawa ilmu, kenangan dan cerita.",
+         "shots": [{"src": "I54", "dur": 3.0}, {"src": "I55", "dur": 3.0}, {"src": "I43", "dur": 3.4}, {"src": "I48", "dur": 3.6},
+                   {"src": "I45", "dur": 3.4}, {"src": "I61", "motion": "out", "dur": 3.8}]},
+
+        {"label": "Gotong-Royong Cuci Kelas",
+         "narration": "Kebersihan sebahagian daripada iman; kelas dibersihkan bersama.",
+         "shots": [{"type": "split", "srcs": [{"src": "V40", "in": 2}, {"src": "V43", "in": 1}, {"src": "V44", "in": 1}], "dur": 5.0},
+                   {"type": "split", "srcs": [{"src": "V41", "in": 2}, {"src": "V38", "in": 6}], "dur": 4.0},
+                   {"src": "V45", "in": 0, "out": 3.4}, {"src": "I41", "motion": "in", "dur": 3.8}]},
+
+        {"narration": "Setiap aktiviti, satu pelajaran.",
+         "shots": [{"type": "collage", "srcs": ["I43", "I87", "I76"], "caption": "Setiap Aktiviti, Satu Pelajaran", "dur": 5.0}]}
+      ]
+    },
+
+    {
+      "id": "03_infrastruktur",
+      "name": "Bab 3 · Pembangunan Infrastruktur",
+      "music": "progressive",
+      "segments": [
+        {"shots": [{"type": "card", "number": "BAB 3", "title": "PEMBANGUNAN DAN PENAMBAHBAIKAN SEKOLAH", "subtitle": "Persekitaran selesa, pembelajaran ceria", "dur": 5.0}]},
+        {"narration": "Persekitaran yang selesa membantu proses pembelajaran.",
+         "shots": [{"src": "I08", "desat": true, "motion": "in", "dur": 4.5,
+                    "overlays": [{"kind": "label", "text": "SEBELUM", "start": 0.3, "dur": 3.8, "pos": "tl"}]}]},
+        {"label": "Pemasangan Langsir Baharu", "sub": "Bilik darjah · Bilik guru · Bilik fail",
+         "narration": "Tahun ini, langsir baharu dipasang di bilik darjah, bilik guru dan bilik fail, hasil kerjasama guru dan tukang.",
+         "shots": ["I14", "I05", "I07", "I10", "I09", "I11"]},
+        {"narration": "Perubahan kecil…",
+         "shots": [{"type": "compare", "before": "I08", "after": "I13", "after_crop": [0, 0.1, 1, 0.75], "dur": 5.0}]},
+        {"narration": "…yang memberi keselesaan besar kepada warga sekolah.",
+         "shots": [{"src": "I06", "motion": "in"}, {"src": "I04", "dur": 2.4}, "I15",
+                   {"src": "I13", "motion": "in", "dur": 4.0,
+                    "overlays": [{"kind": "label", "text": "SELEPAS", "start": 0.3, "dur": 3.4, "pos": "tr"}]}]},
+        {"narration": "Penambahbaikan turut dilaksanakan bagi keselamatan dan keselesaan warga sekolah.",
+         "shots": [{"type": "text_card", "heading": "PENAMBAHBAIKAN 2026", "sub": "Usaha berterusan untuk warga sekolah",
+                    "items": ["Pemasangan CCTV sekolah", "Pemasangan Smart TV dalam kelas", "Penukaran kipas yang rosak",
+                              "Penambahbaikan tingkap sekolah", "Penambahbaikan lantai sekolah"],
+                    "bg": "I06", "dur": 8.0}]}
+      ]
+    },
+
+    {
+      "id": "04_pencapaian",
+      "name": "Bab 4 · Pencapaian Sekolah 2026",
+      "music": "triumph",
+      "segments": [
+        {"shots": [{"type": "card", "number": "BAB 4", "title": "KEJAYAAN DAN PENCAPAIAN 2026", "subtitle": "Syukur atas setiap kejayaan", "dur": 5.0}]},
+        {"label": "Sekolah Terbaik UPKK Daerah Batu Gajah", "sub": "Anugerah Multaqa KAFA & Fardhu Ain · Peringkat Negeri Perak 2026",
+         "narration": "Di peringkat negeri, SRAR Iskandariah diiktiraf sebagai Sekolah Terbaik UPKK Daerah Batu Gajah.",
+         "shots": [{"src": "I17", "motion": "in", "dur": 7.0}]},
+        {"label": "Naib Johan Tilawah Al-Quran (Perempuan)", "sub": "Majlis Ihtifal SRA Peringkat Daerah Batu Gajah 2026",
+         "narration": "Suara merdu anak kami membawa pulang Naib Johan Tilawah Al-Quran peringkat daerah.",
+         "shots": [{"src": "I16", "motion": "in", "dur": 7.0}]},
+        {"label": "Keputusan Cemerlang 6A", "sub": "SRAI 2026",
+         "narration": "Dan di dalam bilik peperiksaan, usaha terbayar dengan keputusan cemerlang.",
+         "shots": [{"src": "I19", "fit": "contain", "motion": "in", "dur": 7.5,
+                    "overlays": [{"kind": "badge", "text": "6A", "sub": "SRAI 2026", "start": 1.0, "dur": 6.3}]},
+                   {"src": "I18", "motion": "in", "dur": 4.5}]},
+        {"label": "Majlis Anugerah Kecemerlangan 2025", "sub": "Kenangan majlis (folder: Majlis Anugerah 2025)",
+         "narration": "Kejayaan diraikan bersama ibu bapa dan tetamu.",
+         "shots": [{"src": "V04", "in": 0, "out": 6, "speed": 0.85}, {"src": "V06", "in": 18, "out": 23}, {"src": "V10", "in": 1, "out": 5}]},
+        {"narration": "Bakat murid terserlah di pentas.",
+         "shots": [{"src": "V11", "in": 1, "out": 5}, {"src": "V12", "in": 1, "out": 5},
+                   {"src": "V09", "in": 2, "out": 10, "audio": true}, {"src": "V05", "in": 5, "out": 8.5},
+                   {"src": "V13", "in": 1, "out": 5}, {"src": "V14", "in": 0, "out": 3.6}]},
+        {"narration": "Setiap kejayaan ini milik murid, guru, dan ibu bapa.",
+         "shots": [{"type": "collage", "srcs": ["I17", "I16", "I19"], "caption": "Syukur Atas Setiap Kejayaan", "dur": 5.5}]}
+      ]
+    },
+
+    {
+      "id": "05_di_sebalik_tabir",
+      "name": "Bab 5 · Di Sebalik Tabir",
+      "music": "warm",
+      "segments": [
+        {"shots": [{"type": "card", "number": "BAB 5", "title": "DI SEBALIK TABIR KEJAYAAN", "subtitle": "Tangan-tangan yang menjayakan", "dur": 5.0}]},
+        {"label": "Sebelum tetamu tiba…",
+         "narration": "Sebelum setiap majlis bermula, ada tangan yang menyiapkannya.",
+         "shots": [{"src": "I01", "motion": "in", "dur": 5.0}]},
+        {"label": "Sebelum peperiksaan…",
+         "narration": "Di bilik darjah, guru bukan sekadar mengajar, tetapi membimbing satu demi satu.",
+         "shots": [{"src": "I21", "dur": 3.6}, {"src": "V29", "in": 36, "out": 42.5}, {"src": "I32", "motion": "in", "dur": 3.6}]},
+        {"label": "Sebelum jiwa disentuh…",
+         "narration": "Di masjid, mereka memimpin dengan teladan.",
+         "shots": [{"src": "I77", "motion": "in", "dur": 5.5}]},
+        {"label": "Sebelum kelas bersinar…",
+         "narration": "Dan apabila kerja perlu dilakukan, mereka turun padang bersama.",
+         "shots": [{"type": "split", "srcs": [{"src": "I12"}, {"src": "V42", "in": 0}], "dur": 6.0}]},
+        {"label": "Terima kasih, Ustazah Shahirah", "sub": "Guru Ganti Tahun 1 & 2 · Sesi Petang",
+         "narration": "Kepada setiap guru yang pernah berkhidmat di sini, walaupun seketika, jasa kalian tetap dikenang.",
+         "shots": [{"src": "I02", "motion": "in", "dur": 5.0}, {"src": "I03", "motion": "out", "dur": 5.0}]},
+        {"narration": "Terima kasih kepada semua pihak yang menjayakan program sekolah sepanjang tahun 2026.",
+         "shots": [{"type": "text_card", "heading": "TERIMA KASIH", "sub": "Penghargaan kepada semua yang menjayakan 2026",
+                    "items": ["Ahli Jawatankuasa Sekolah", "Ustaz, Ustazah & Kakitangan", "Ibu Bapa & Penjaga",
+                              "Komuniti & Masjid Setempat", "Semua Individu yang Membantu Program Sekolah"],
+                    "bg": "I43", "dur": 9.0}]}
+      ]
+    },
+
+    {
+      "id": "06_penutup",
+      "name": "Penutup",
+      "music": "closing",
+      "segments": [
+        {"narration": "Tahun 2026 bukan sekadar catatan aktiviti. Ia kisah tentang ilmu yang dicari, iman yang dipupuk, dan ukhuwah yang terjalin.",
+         "trans": "dissolve_long",
+         "shots": [{"src": "I43", "dur": 2.6}, {"src": "I64", "dur": 2.6}, {"src": "I87", "dur": 2.6}, {"src": "I41", "dur": 2.6},
+                   {"src": "I37", "dur": 2.6}, {"src": "I76", "dur": 2.6}]},
+        {"narration": "Semoga Allah memberkati setiap langkah kita pada tahun-tahun mendatang.",
+         "shots": [{"src": "I38", "motion": "out", "dur": 6.0,
+                    "overlays": [{"kind": "lower_third", "title": "Ilmu Jadi Pemimpin, Iman Jadi Perisai", "sub": "SRAR Iskandariah · Batu Gajah, Perak", "start": 0.8, "dur": 4.8}]}]},
+        {"shots": [{"type": "credits", "dur": 22.0}]}
+      ]
+    }
+  ]
+}

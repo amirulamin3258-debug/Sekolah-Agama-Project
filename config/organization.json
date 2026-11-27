@@ -1,0 +1,60 @@
+{
+  "_note": "Data rasmi daripada pihak sekolah. Ubah nama/jawatan/potret di sini dan jalankan semula `python main.py build --chapter 1`. Hanya entri verified=true dipaparkan dalam video.",
+
+  "committee": {
+    "title": "CARTA ORGANISASI SRAR ISKANDARIAH 2026",
+    "subtitle": "Jawatankuasa Sekolah Sesi 2026",
+    "levels": [
+      ["pengerusi"],
+      ["timbalan_pengerusi"],
+      ["setiausaha", "penolong_setiausaha", "bendahari"],
+      ["ajk_1", "ajk_2", "ajk_3", "ajk_4"],
+      ["audit_1", "audit_2"]
+    ],
+    "members": {
+      "pengerusi":           {"name": "Tn Hj Jamalludin bin Abd Aziz", "role": "Pengerusi", "leader": true,
+                              "portrait": "01_jamalludin.png", "focus": [0.48, 0.27], "view_h": 0.58, "verified": true},
+      "timbalan_pengerusi":  {"name": "En Shahbuddin bin Abdullah", "role": "Timbalan Pengerusi", "leader": true,
+                              "portrait": "02_shahbuddin.png", "focus": [0.50, 0.27], "view_h": 0.58, "verified": true},
+      "setiausaha":          {"name": "Ustaz Farikh Ikhsan bin Mohammed", "role": "Setiausaha", "leader": true,
+                              "portrait": "03_farikh.png", "focus": [0.50, 0.28], "view_h": 0.56, "verified": true},
+      "penolong_setiausaha": {"name": "Pn Nor Faizah binti Wahiddin", "role": "Penolong Setiausaha",
+                              "portrait": "04_nor_faizah.jpg", "focus": [0.50, 0.33], "view_h": 0.42, "verified": true},
+      "bendahari":           {"name": "Ustazah Noor Sadina binti Salleh", "role": "Bendahari",
+                              "portrait": "05_noor_sadina.jpg", "focus": [0.74, 0.47], "view_h": 0.48, "verified": true},
+      "ajk_1":               {"name": "Pn Suzilawati binti Suhaimi", "role": "Ahli Jawatankuasa",
+                              "portrait": "06_suzilawati.jpg", "focus": [0.5, 0.5], "view_h": 1.0, "verified": true,
+                              "flag": "Potret mengandungi dua orang; dipaparkan penuh tanpa dipotong."},
+      "ajk_2":               {"name": "Pn Ameera binti Yusof", "role": "Ahli Jawatankuasa",
+                              "portrait": "07_ameera.mp4", "focus": [0.5, 0.5], "view_h": 1.0, "verified": true,
+                              "flag": "Fail potret ialah video (6.7 s); klip asal dimainkan dalam bingkai potret."},
+      "ajk_3":               {"name": "En Abd Ghani bin Abu Bakar", "role": "Ahli Jawatankuasa",
+                              "portrait": "08_abd_ghani.jpg", "focus": [0.5, 0.45], "view_h": 1.0, "verified": true,
+                              "flag": "Resolusi rendah (427x585)."},
+      "ajk_4":               {"name": "Pn Norafiza binti Mohd Radzi", "role": "Ahli Jawatankuasa",
+                              "portrait": "09_norafiza.jpg", "focus": [0.56, 0.47], "view_h": 0.72, "verified": true},
+      "audit_1":             {"name": "Pn Fithra binti M Nor", "role": "Pemeriksa Kira-Kira", "role_sub": "Juru Audit",
+                              "portrait": "10_fithra.png", "focus": [0.50, 0.30], "view_h": 0.55, "verified": true},
+      "audit_2":             {"name": "Pn Norsyaruziana binti Abdull", "role": "Pemeriksa Kira-Kira", "role_sub": "Juru Audit",
+                              "portrait": "11_norsyaruziana.jpg", "focus": [0.5, 0.5], "view_h": 1.0, "verified": true}
+    }
+  },
+
+  "administration": {
+    "title": "CARTA PENTADBIRAN SEKOLAH",
+    "enabled": false,
+    "_note": "BELUM DISAHKAN. Jangan gabung dengan carta jawatankuasa. Tukar enabled=true selepas nama & jawatan disahkan.",
+    "members": [
+      {"role": "Guru Besar", "name": "Ustaz Farikh Ikhsan / Ustaz Farid Eh Shahzan (perlu disahkan)", "verified": false},
+      {"role": "Penolong Kanan Pentadbiran", "name": "Ustazah Noor Sadina", "verified": false},
+      {"role": "Guru", "name": "Ustazah Ruhayah", "verified": false},
+      {"role": "Guru", "name": "Ustazah Nur Syaf… (ejaan penuh perlu disahkan)", "verified": false},
+      {"role": "Guru", "name": "Ustazah Amni", "verified": false}
+    ]
+  },
+
+  "unmatched_portraits": [
+    {"file": "Tuan Zulhisham bin Ahmad Shukori.png", "drive_id": "1f8SHO4QpK6NJKqDvRtlV31VLz1h2dWL9",
+     "reason": "Nama tiada dalam senarai jawatankuasa yang diberikan. Tidak digunakan sehingga jawatan disahkan."}
+  ]
+}

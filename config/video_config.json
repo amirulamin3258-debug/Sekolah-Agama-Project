@@ -1,0 +1,73 @@
+{
+  "title": "Video Dokumentari Rasmi SRAR Iskandariah 2026",
+  "school_name": "SEKOLAH RENDAH AGAMA RAKYAT ISKANDARIAH",
+  "school_short": "SRAR ISKANDARIAH",
+  "location": "Batu Gajah, Perak",
+  "year": 2026,
+  "slogan": "Ilmu Jadi Pemimpin, Iman Jadi Perisai",
+  "slogan_verified": false,
+
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+
+  "colors": {
+    "emerald": "#006B45",
+    "gold": "#D4AF37",
+    "white": "#FFFFFF",
+    "dark_green": "#003B2B",
+    "black": "#171717",
+    "ivory": "#F7F4EA"
+  },
+
+  "fonts": {
+    "title": "assets/fonts/Cinzel.ttf",
+    "serif": "assets/fonts/PlayfairDisplay.ttf",
+    "sans": "assets/fonts/Montserrat.ttf"
+  },
+
+  "timing": {
+    "photo_default": 3.4,
+    "crossfade": 0.5,
+    "chapter_card": 5.0,
+    "dip_to_green": 0.8,
+    "lower_third": 3.6,
+    "portrait_intro": 7.0,
+    "portrait_intro_leader": 8.0
+  },
+
+  "encode": {
+    "intermediate_crf": 16,
+    "intermediate_preset": "veryfast",
+    "final_crf": 18,
+    "final_preset": "medium",
+    "audio_bitrate": "192k",
+    "threads": 4
+  },
+
+  "audio": {
+    "music": "generate",
+    "music_file_override": null,
+    "music_gain_db": -14,
+    "original_audio_gain_db": -6,
+    "duck_music_db": -10,
+    "fade_in": 2.0,
+    "fade_out": 4.0,
+    "voiceover_dir": "assets/audio/voiceover"
+  },
+
+  "subtitles": {
+    "burn_in": true,
+    "export_srt": true,
+    "font_size": 40
+  },
+
+  "paths": {
+    "media": "assets/media",
+    "portraits": "assets/portraits",
+    "cache": "chapters/_cache",
+    "chapters": "chapters",
+    "output": "output",
+    "final_name": "SRAR_Iskandariah_Dokumentari_2026.mp4"
+  }
+}
