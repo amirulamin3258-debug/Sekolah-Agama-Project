@@ -170,7 +170,7 @@
          "shots": [{"src": "I19", "fit": "contain", "motion": "in", "dur": 7.5,
                     "overlays": [{"kind": "badge", "text": "6A", "sub": "SRAI 2026", "start": 1.0, "dur": 6.3}]},
                    {"src": "I18", "motion": "in", "dur": 4.5}]},
-        {"label": "Majlis Anugerah Kecemerlangan 2025", "sub": "Kenangan majlis (folder: Majlis Anugerah 2025)",
+        {"label": "Majlis Anugerah Kecemerlangan 2025", "sub": "Kecemerlangan diraikan bersama ibu bapa",
          "narration": "Kejayaan diraikan bersama ibu bapa dan tetamu.",
          "shots": [{"src": "V04", "in": 0, "out": 6, "speed": 0.85}, {"src": "V06", "in": 18, "out": 23}, {"src": "V10", "in": 1, "out": 5}]},
         {"narration": "Bakat murid terserlah di pentas.",
