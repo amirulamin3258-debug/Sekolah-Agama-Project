@@ -1,0 +1,57 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Narasi,Inter Medium,40,&H00FFFFFF,&H0037AFD4,&H00202020,&H8C000000,0,0,0,0,100,100,0.5,0,1,2.2,1.5,2,260,260,58,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.35,0:00:10.20,Narasi,,0,0,0,,{\fad(350,350)}Di sebuah sudut Batu Gajah, sebuah madrasah terus menyemai ilmu dan iman.
+Dialogue: 0,0:00:10.35,0:00:13.70,Narasi,,0,0,0,,{\fad(350,350)}Tahun 2026 menyaksikan setiap hari diisi dengan usaha…
+Dialogue: 0,0:00:13.85,0:00:19.85,Narasi,,0,0,0,,{\fad(350,350)}…setiap langkah diiringi doa, dan setiap kejayaan milik bersama.
+Dialogue: 0,0:00:22.98,0:00:27.48,Narasi,,0,0,0,,{\fad(350,350)}Inilah perjalanan kami sepanjang tahun 2026.
+Dialogue: 0,0:00:30.03,0:00:34.33,Narasi,,0,0,0,,{\fad(350,350)}Di sebalik setiap kejayaan, ada barisan yang memimpin dan berkhidmat.
+Dialogue: 0,0:00:34.43,0:00:38.93,Narasi,,0,0,0,,{\fad(350,350)}Inilah barisan jawatankuasa SRAR Iskandariah bagi sesi 2026.
+Dialogue: 0,0:01:59.23,0:02:03.13,Narasi,,0,0,0,,{\fad(350,350)}Bersatu hati, satu matlamat.
+Dialogue: 0,0:02:08.58,0:02:15.33,Narasi,,0,0,0,,{\fad(350,350)}Di bilik darjah, setiap helaian kertas menjadi saksi usaha anak-anak kami.
+Dialogue: 0,0:02:27.98,0:02:31.21,Narasi,,0,0,0,,{\fad(350,350)}Dari pagi hingga ke petang…
+Dialogue: 0,0:02:42.98,0:02:48.31,Narasi,,0,0,0,,{\fad(350,350)}…mereka tekun menjawab, sementara guru setia memerhati.
+Dialogue: 0,0:02:58.48,0:03:03.06,Narasi,,0,0,0,,{\fad(350,350)}Tangan diangkat, soalan ditanya, ilmu dicari.
+Dialogue: 0,0:03:19.98,0:03:26.21,Narasi,,0,0,0,,{\fad(350,350)}Dan buat Tahun 5 serta Tahun 6, tahun ini membawa makna tersendiri.
+Dialogue: 0,0:03:26.98,0:03:32.68,Narasi,,0,0,0,,{\fad(350,350)}Persediaan peperiksaan tidak berhenti di waktu persekolahan.
+Dialogue: 0,0:03:38.58,0:03:43.53,Narasi,,0,0,0,,{\fad(350,350)}Penat dibalas senyuman, dan kenangan bersama guru.
+Dialogue: 0,0:03:50.58,0:03:57.86,Narasi,,0,0,0,,{\fad(350,350)}Di Rocket Camp, anak-anak kami bersaing dan belajar bersama peserta sekolah lain.
+Dialogue: 0,0:04:02.18,0:04:05.71,Narasi,,0,0,0,,{\fad(350,350)}Minda diasah, semangat dibakar.
+Dialogue: 0,0:04:14.38,0:04:20.91,Narasi,,0,0,0,,{\fad(350,350)}Di rumah Allah, alunan Yasin dibaca bersama, mendidik jiwa sejak kecil.
+Dialogue: 0,0:04:26.38,0:04:32.31,Narasi,,0,0,0,,{\fad(350,350)}Kasih kepada Rasulullah dizahirkan dengan warna dan kreativiti.
+Dialogue: 0,0:04:32.98,0:04:37.33,Narasi,,0,0,0,,{\fad(350,350)}Syawal disambut dengan juadah dan ukhuwah.
+Dialogue: 0,0:04:38.98,0:04:43.33,Narasi,,0,0,0,,{\fad(350,350)}Pagi itu, rombongan berangkat ke ibu kota.
+Dialogue: 0,0:04:46.08,0:04:50.43,Narasi,,0,0,0,,{\fad(350,350)}Muzium menjadi bilik darjah tanpa dinding…
+Dialogue: 0,0:04:55.48,0:04:58.68,Narasi,,0,0,0,,{\fad(350,350)}…dari angkasa lepas…
+Dialogue: 0,0:05:10.88,0:05:14.86,Narasi,,0,0,0,,{\fad(350,350)}…ke sejarah bangsa dan tamadun Islam.
+Dialogue: 0,0:05:33.48,0:05:37.76,Narasi,,0,0,0,,{\fad(350,350)}Pulang membawa ilmu, kenangan dan cerita.
+Dialogue: 0,0:05:50.68,0:05:56.61,Narasi,,0,0,0,,{\fad(350,350)}Kebersihan sebahagian daripada iman; kelas dibersihkan bersama.
+Dialogue: 0,0:06:04.88,0:06:08.48,Narasi,,0,0,0,,{\fad(350,350)}Setiap aktiviti, satu pelajaran.
+Dialogue: 0,0:06:14.38,0:06:18.23,Narasi,,0,0,0,,{\fad(350,350)}Persekitaran yang selesa membantu proses pembelajaran.
+Dialogue: 0,0:06:18.38,0:06:25.88,Narasi,,0,0,0,,{\fad(350,350)}Tahun ini, langsir baharu dipasang di bilik darjah, bilik guru dan bilik fail, hasil kerjasama guru dan tukang.
+Dialogue: 0,0:06:35.78,0:06:38.98,Narasi,,0,0,0,,{\fad(350,350)}Perubahan kecil…
+Dialogue: 0,0:06:40.28,0:06:45.38,Narasi,,0,0,0,,{\fad(350,350)}…yang memberi keselesaan besar kepada warga sekolah.
+Dialogue: 0,0:06:51.48,0:06:58.68,Narasi,,0,0,0,,{\fad(350,350)}Penambahbaikan turut dilaksanakan bagi keselamatan dan keselesaan warga sekolah.
+Dialogue: 0,0:07:03.98,0:07:10.33,Narasi,,0,0,0,,{\fad(350,350)}Di peringkat negeri, SRAR Iskandariah diiktiraf sebagai Sekolah Terbaik UPKK Daerah Batu Gajah.
+Dialogue: 0,0:07:10.48,0:07:16.83,Narasi,,0,0,0,,{\fad(350,350)}Suara merdu anak kami membawa pulang Naib Johan Tilawah Al-Quran peringkat daerah.
+Dialogue: 0,0:07:16.98,0:07:23.73,Narasi,,0,0,0,,{\fad(350,350)}Dan di dalam bilik peperiksaan, usaha terbayar dengan keputusan cemerlang.
+Dialogue: 0,0:07:27.98,0:07:32.63,Narasi,,0,0,0,,{\fad(350,350)}Kejayaan diraikan bersama ibu bapa dan tetamu.
+Dialogue: 0,0:07:42.55,0:07:46.15,Narasi,,0,0,0,,{\fad(350,350)}Bakat murid terserlah di pentas.
+Dialogue: 0,0:08:06.65,0:08:11.50,Narasi,,0,0,0,,{\fad(350,350)}Setiap kejayaan ini milik murid, guru, dan ibu bapa.
+Dialogue: 0,0:08:16.65,0:08:21.00,Narasi,,0,0,0,,{\fad(350,350)}Sebelum setiap majlis bermula, ada tangan yang menyiapkannya.
+Dialogue: 0,0:08:21.15,0:08:28.27,Narasi,,0,0,0,,{\fad(350,350)}Di bilik darjah, guru bukan sekadar mengajar, tetapi membimbing satu demi satu.
+Dialogue: 0,0:08:33.35,0:08:37.70,Narasi,,0,0,0,,{\fad(350,350)}Di masjid, mereka memimpin dengan teladan.
+Dialogue: 0,0:08:38.35,0:08:43.70,Narasi,,0,0,0,,{\fad(350,350)}Dan apabila kerja perlu dilakukan, mereka turun padang bersama.
+Dialogue: 0,0:08:43.85,0:08:51.35,Narasi,,0,0,0,,{\fad(350,350)}Kepada setiap guru yang pernah berkhidmat di sini, walaupun seketika, jasa kalian tetap dikenang.
+Dialogue: 0,0:08:52.85,0:09:00.35,Narasi,,0,0,0,,{\fad(350,350)}Terima kasih kepada semua pihak yang menjayakan program sekolah sepanjang tahun 2026.
+Dialogue: 0,0:09:01.85,0:09:09.35,Narasi,,0,0,0,,{\fad(350,350)}Tahun 2026 bukan sekadar catatan aktiviti. Ia kisah tentang ilmu yang dicari, iman yang dipupuk, dan ukhuwah yang terjalin.
+Dialogue: 0,0:09:11.95,0:09:17.30,Narasi,,0,0,0,,{\fad(350,350)}Semoga Allah memberkati setiap langkah kita pada tahun-tahun mendatang.
