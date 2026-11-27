@@ -84,7 +84,8 @@ def draw_center(d, cx, y, txt, f, fill, spacing=0):
         widths = [text_size(d, ch, f)[0] + spacing for ch in txt]
         x = cx - (sum(widths) - spacing) / 2
         for ch, wd in zip(txt, widths):
-            d.text((x, y), ch, font=f, fill=fill)
+            if not ch.isspace():
+                d.text((x, y), ch, font=f, fill=fill)
             x += wd
     else:
         tw, _ = text_size(d, txt, f)

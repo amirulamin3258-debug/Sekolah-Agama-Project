@@ -200,13 +200,13 @@
         {"label": "Sebelum kelas bersinar…",
          "narration": "Dan apabila kerja perlu dilakukan, mereka turun padang bersama.",
          "shots": [{"type": "split", "srcs": [{"src": "I12"}, {"src": "V42", "in": 0}], "dur": 6.0}]},
-        {"label": "Terima kasih, Ustazah Shahirah", "sub": "Guru Ganti Tahun 1 & 2 · Sesi Petang",
+        {"label": "Penghargaan Guru Ganti", "sub": "Tahun 1 & 2 · Sesi Petang",
          "narration": "Kepada setiap guru yang pernah berkhidmat di sini, walaupun seketika, jasa kalian tetap dikenang.",
          "shots": [{"src": "I02", "motion": "in", "dur": 5.0}, {"src": "I03", "motion": "out", "dur": 5.0}]},
         {"narration": "Terima kasih kepada semua pihak yang menjayakan program sekolah sepanjang tahun 2026.",
          "shots": [{"type": "text_card", "heading": "TERIMA KASIH", "sub": "Penghargaan kepada semua yang menjayakan 2026",
                     "items": ["Ahli Jawatankuasa Sekolah", "Ustaz, Ustazah & Kakitangan", "Ibu Bapa & Penjaga",
-                              "Komuniti & Masjid Setempat", "Semua Individu yang Membantu Program Sekolah"],
+                              "Komuniti & Masjid Setempat", "Ustazah Shahirah · Guru Ganti Tahun 1 & 2", "Semua Individu yang Membantu Program Sekolah"],
                     "bg": "I43", "dur": 9.0}]}
       ]
     },
