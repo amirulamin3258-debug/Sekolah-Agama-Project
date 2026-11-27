@@ -11,3 +11,4 @@ output/*.wav
 output/unmatched_import.txt
 __pycache__/
 *.part.mp4
+chapters/*/timeline.json
