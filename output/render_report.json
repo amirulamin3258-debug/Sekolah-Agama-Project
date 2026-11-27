@@ -1,0 +1,42 @@
+{
+ "file": "SRAR_Iskandariah_Dokumentari_2026.mp4",
+ "duration_s": 579.1,
+ "chapters": [
+  {
+   "id": "00_pembukaan",
+   "name": "Pembukaan",
+   "duration_s": 29.63
+  },
+  {
+   "id": "01_carta_organisasi",
+   "name": "Bab 1 · Carta Organisasi",
+   "duration_s": 94.1
+  },
+  {
+   "id": "02_aktiviti",
+   "name": "Bab 2 · Aktiviti Sekolah",
+   "duration_s": 245.8
+  },
+  {
+   "id": "03_infrastruktur",
+   "name": "Bab 3 · Pembangunan Infrastruktur",
+   "duration_s": 49.6
+  },
+  {
+   "id": "04_pencapaian",
+   "name": "Bab 4 · Pencapaian Sekolah 2026",
+   "duration_s": 72.67
+  },
+  {
+   "id": "05_di_sebalik_tabir",
+   "name": "Bab 5 · Di Sebalik Tabir",
+   "duration_s": 49.7
+  },
+  {
+   "id": "06_penutup",
+   "name": "Penutup",
+   "duration_s": 37.6
+  }
+ ],
+ "subtitle_cues": 45
+}

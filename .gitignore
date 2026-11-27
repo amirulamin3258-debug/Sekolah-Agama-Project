@@ -14,3 +14,4 @@ __pycache__/
 chapters/*/timeline.json
 chapters/*/*.filter.txt
 output/chapters.txt
+*_muat-turun.mp4
