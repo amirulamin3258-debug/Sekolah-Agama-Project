@@ -13,3 +13,4 @@ __pycache__/
 *.part.mp4
 chapters/*/timeline.json
 chapters/*/*.filter.txt
+output/chapters.txt
