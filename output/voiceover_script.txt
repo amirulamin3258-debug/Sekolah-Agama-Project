@@ -1,0 +1,47 @@
+Skrip suara latar (rakam setiap baris sebagai assets/audio/voiceover/cue_###.wav, kemudian render semula)
+
+cue_001  [00:00:05,349]  Di sebuah sudut Batu Gajah, sebuah madrasah terus menyemai ilmu dan iman.
+cue_002  [00:00:10,349]  Tahun 2026 menyaksikan setiap hari diisi dengan usaha…
+cue_003  [00:00:13,849]  …setiap langkah diiringi doa, dan setiap kejayaan milik bersama.
+cue_004  [00:00:22,983]  Inilah perjalanan kami sepanjang tahun 2026.
+cue_005  [00:00:30,033]  Di sebalik setiap kejayaan, ada barisan yang memimpin dan berkhidmat.
+cue_006  [00:00:34,432]  Inilah barisan jawatankuasa SRAR Iskandariah bagi sesi 2026.
+cue_007  [00:01:59,233]  Bersatu hati, satu matlamat.
+cue_008  [00:02:08,582]  Di bilik darjah, setiap helaian kertas menjadi saksi usaha anak-anak kami.
+cue_009  [00:02:27,983]  Dari pagi hingga ke petang…
+cue_010  [00:02:42,983]  …mereka tekun menjawab, sementara guru setia memerhati.
+cue_011  [00:02:58,483]  Tangan diangkat, soalan ditanya, ilmu dicari.
+cue_012  [00:03:19,983]  Dan buat Tahun 5 serta Tahun 6, tahun ini membawa makna tersendiri.
+cue_013  [00:03:26,983]  Persediaan peperiksaan tidak berhenti di waktu persekolahan.
+cue_014  [00:03:38,582]  Penat dibalas senyuman, dan kenangan bersama guru.
+cue_015  [00:03:50,582]  Di Rocket Camp, anak-anak kami bersaing dan belajar bersama peserta sekolah lain.
+cue_016  [00:04:02,182]  Minda diasah, semangat dibakar.
+cue_017  [00:04:14,383]  Di rumah Allah, alunan Yasin dibaca bersama, mendidik jiwa sejak kecil.
+cue_018  [00:04:26,382]  Kasih kepada Rasulullah dizahirkan dengan warna dan kreativiti.
+cue_019  [00:04:32,983]  Syawal disambut dengan juadah dan ukhuwah.
+cue_020  [00:04:38,983]  Pagi itu, rombongan berangkat ke ibu kota.
+cue_021  [00:04:46,083]  Muzium menjadi bilik darjah tanpa dinding…
+cue_022  [00:04:55,483]  …dari angkasa lepas…
+cue_023  [00:05:10,882]  …ke sejarah bangsa dan tamadun Islam.
+cue_024  [00:05:33,483]  Pulang membawa ilmu, kenangan dan cerita.
+cue_025  [00:05:50,682]  Kebersihan sebahagian daripada iman; kelas dibersihkan bersama.
+cue_026  [00:06:04,882]  Setiap aktiviti, satu pelajaran.
+cue_027  [00:06:14,382]  Persekitaran yang selesa membantu proses pembelajaran.
+cue_028  [00:06:18,382]  Tahun ini, langsir baharu dipasang di bilik darjah, bilik guru dan bilik fail, hasil kerjasama guru dan tukang.
+cue_029  [00:06:35,783]  Perubahan kecil…
+cue_030  [00:06:40,283]  …yang memberi keselesaan besar kepada warga sekolah.
+cue_031  [00:06:51,483]  Penambahbaikan turut dilaksanakan bagi keselamatan dan keselesaan warga sekolah.
+cue_032  [00:07:03,983]  Di peringkat negeri, SRAR Iskandariah diiktiraf sebagai Sekolah Terbaik UPKK Daerah Batu Gajah.
+cue_033  [00:07:10,483]  Suara merdu anak kami membawa pulang Naib Johan Tilawah Al-Quran peringkat daerah.
+cue_034  [00:07:16,983]  Dan di dalam bilik peperiksaan, usaha terbayar dengan keputusan cemerlang.
+cue_035  [00:07:27,983]  Kejayaan diraikan bersama ibu bapa dan tetamu.
+cue_036  [00:07:42,550]  Bakat murid terserlah di pentas.
+cue_037  [00:08:06,649]  Setiap kejayaan ini milik murid, guru, dan ibu bapa.
+cue_038  [00:08:16,649]  Sebelum setiap majlis bermula, ada tangan yang menyiapkannya.
+cue_039  [00:08:21,149]  Di bilik darjah, guru bukan sekadar mengajar, tetapi membimbing satu demi satu.
+cue_040  [00:08:33,350]  Di masjid, mereka memimpin dengan teladan.
+cue_041  [00:08:38,350]  Dan apabila kerja perlu dilakukan, mereka turun padang bersama.
+cue_042  [00:08:43,850]  Kepada setiap guru yang pernah berkhidmat di sini, walaupun seketika, jasa kalian tetap dikenang.
+cue_043  [00:08:52,850]  Terima kasih kepada semua pihak yang menjayakan program sekolah sepanjang tahun 2026.
+cue_044  [00:09:01,850]  Tahun 2026 bukan sekadar catatan aktiviti. Ia kisah tentang ilmu yang dicari, iman yang dipupuk, dan ukhuwah yang terjalin.
+cue_045  [00:09:11,950]  Semoga Allah memberkati setiap langkah kita pada tahun-tahun mendatang.

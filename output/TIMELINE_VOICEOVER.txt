@@ -1,0 +1,135 @@
+TIMELINE SUARA LATAR — SRAR_Iskandariah_Dokumentari_2026.mp4 (tempoh 09:39.1)
+
+Asas pengiraan:
+- Masa mula setiap klip = saat sebenar sari kata ayat itu muncul dalam MP4 (disahkan dengan perbandingan bingkai: 45/45 sari kata, padanan 100%).
+- Kandungan visual setiap julat = rekod shot render setiap bab (chapters/*/timeline.json).
+- Tempoh bacaan = anggaran suara dokumentari tenang Bahasa Melayu: ~4.8 suku kata/saat + jeda koma (0.3 s) dan noktah (0.45 s). Nombor 2026 dikira sebagai 'dua ribu dua puluh enam'.
+- 'Had akhir' = masa terakhir suara boleh berbunyi sebelum ayat atau visual seterusnya. Jika klip CapCut anda lebih panjang daripada had, naikkan Speed (dinyatakan).
+- Audio asal persembahan koir (V09) berbunyi dalam video pada 07:49.2–07:57.2 — sengaja dibiarkan tanpa narasi.
+- Klip yang menggabungkan beberapa ayat: ayat dibaca berterusan; masa anggaran setiap ayat diberi di bawahnya.
+
+Seg     Mula    Tamat  Durasi  Jenis   Kandungan
+----------------------------------------------------------------------------------------------------------------
+1    00:00.0  00:05.3    5.3s  SENYAP  Kad tajuk sekolah
+2    00:05.3  00:21.0   15.7s  NARASI  Klip [01]  (had akhir 00:22.7, anggaran bacaan 15.7s)
+                                 00:05.3  "Di sebuah sudut Batu Gajah, sebuah madrasah terus menyemai ilmu dan iman."
+                                 00:10.9  "Tahun 2026 menyaksikan setiap hari diisi dengan usaha…"
+                                 00:16.4  "…setiap langkah diiringi doa, dan setiap kejayaan milik bersama."   [sari kata muncul 00:13.8]
+3    00:21.0  00:23.0    2.0s  SENYAP  Terowong cahaya imersif, murid berjalan; Pertandingan Mewarna Maulidur Rasul dalam dewan solat masjid; Wide dari belakang murid perempuan bertelekung menghadap saf; Bilik guru — guru tersenyum, langsir siap (selepas); Kolaj 6 murid + 1 guru pegang kad "6A" & slip keputusan; Gambar kumpulan besar, dewan penuh peserta + fasilitator, ce; Kad tajuk: VIDEO DOKUMENTARI RASMI · SRAR ISKANDARIAH 2026
+4    00:23.0  00:27.9    4.9s  NARASI  Klip [02]  (had akhir 00:29.7, anggaran bacaan 4.9s)
+                                 00:23.0  "Inilah perjalanan kami sepanjang tahun 2026."
+5    00:27.9  00:30.0    2.1s  SENYAP  Kad tajuk: VIDEO DOKUMENTARI RASMI · SRAR ISKANDARIAH 2026; Kad tajuk: CARTA ORGANISASI SRAR ISKANDARIAH 2026
+6    00:30.0  00:40.0   10.0s  NARASI  Klip [03]  (had akhir 00:40.2, anggaran bacaan 11.9s · Speed 1.19x)
+                                 00:30.0  "Di sebalik setiap kejayaan, ada barisan yang memimpin dan berkhidmat."
+                                 00:34.4  "Inilah barisan jawatankuasa SRAR Iskandariah bagi sesi 2026."
+7    00:40.0  01:59.2   79.2s  SENYAP  Kad potret: Pengerusi — Tn Hj Jamalludin bin Abd Aziz; Kad potret: Timbalan Pengerusi — En Shahbuddin bin Abdullah; Kad potret: Setiausaha — Ustaz Farikh Ikhsan bin Mohammed; Kad potret: Penolong Setiausaha — Pn Nor Faizah binti Wahiddin; Kad potret: Bendahari — Ustazah Noor Sadina binti Salleh; Kad potret: Ahli Jawatankuasa — Pn Suzilawati binti Suhaimi; Kad potret: Ahli Jawatankuasa — Pn Ameera binti Yusof; Kad potret: Ahli Jawatankuasa — En Abd Ghani bin Abu Bakar; Kad potret: Ahli Jawatankuasa — Pn Norafiza binti Mohd Radzi; Kad potret: Pemeriksa Kira-Kira — Pn Fithra binti M Nor; Kad potret: Pemeriksa Kira-Kira — Pn Norsyaruziana binti Abdull; Carta lengkap, kilauan emas
+8    01:59.2  02:01.9    2.7s  NARASI  Klip [04]  (had akhir 02:04.1, anggaran bacaan 2.7s)
+                                 01:59.2  "Bersatu hati, satu matlamat."
+9    02:01.9  02:08.6    6.7s  SENYAP  Carta lengkap, kilauan emas; Kad tajuk: BAB 2 · AKTIVITI DAN PROGRAM SEKOLAH 2026; [Tahun 1 · Sesi Pagi] Wide kelas dari pintu, guru kanan; Pan kelas, murid menulis; Murid lelaki menulis, close-up, pan; Murid perempuan menulis; hujung klip kabur; Murid menulis close, wide; Dari belakang kelas, baju "SRAR ISKANDARIAH BATU GAJAH, PERA; Wide kelas, guru di meja kiri
+10   02:08.6  02:14.4    5.8s  NARASI  Klip [05]  (had akhir 02:27.7, anggaran bacaan 5.8s)
+                                 02:08.6  "Di bilik darjah, setiap helaian kertas menjadi saksi usaha anak-anak kami."
+11   02:14.4  02:28.0   13.6s  SENYAP  [Tahun 1 · Sesi Pagi] Wide kelas dari pintu, guru kanan; Pan kelas, murid menulis; Murid lelaki menulis, close-up, pan; Murid perempuan menulis; hujung klip kabur; Murid menulis close, wide; Dari belakang kelas, baju "SRAR ISKANDARIAH BATU GAJAH, PERA; Wide kelas, guru di meja kiri; [Tahun 1 & 2 · Sesi Petang] Pan kelas dari sudut, murid menulis; Sesi ujian, guru (tudung biru muda) di meja depan kamera, mu; Close-up murid menulis, guru di belakang; Kelas sempit, lukisan dinding, guru di hadapan jauh; Pan kelas; seorang murid tidur di meja
+12   02:28.0  02:30.2    2.2s  NARASI  Klip [06]  (had akhir 02:42.7, anggaran bacaan 2.2s)
+                                 02:28.0  "Dari pagi hingga ke petang…"
+13   02:30.2  02:43.0   12.8s  SENYAP  [Tahun 1 & 2 · Sesi Petang] Pan kelas dari sudut, murid menulis; Sesi ujian, guru (tudung biru muda) di meja depan kamera, mu; Close-up murid menulis, guru di belakang; Kelas sempit, lukisan dinding, guru di hadapan jauh; Pan kelas; seorang murid tidur di meja; [Tahun 2 & 3 · Sesi Pagi] Murid mewarna/menulis, guru (tudung kelabu) meronda; Dua murid menulis, close-up; Close-up murid perempuan baca kertas soalan; Guru berdiri di tengah kelas, meja guru di depan; Pan kelas; kamera goyang dan kabur di hujung; Dari belakang, guru bimbing murid, whiteboard & TV
+14   02:43.0  02:47.8    4.8s  NARASI  Klip [07]  (had akhir 02:58.2, anggaran bacaan 4.8s)
+                                 02:43.0  "…mereka tekun menjawab, sementara guru setia memerhati."
+15   02:47.8  02:58.5   10.7s  SENYAP  [Tahun 2 & 3 · Sesi Pagi] Murid mewarna/menulis, guru (tudung kelabu) meronda; Dua murid menulis, close-up; Close-up murid perempuan baca kertas soalan; Guru berdiri di tengah kelas, meja guru di depan; Pan kelas; kamera goyang dan kabur di hujung; Dari belakang, guru bimbing murid, whiteboard & TV; [Tahun 3 & 4 · Sesi Petang] Split-screen: Pan kelas besar, Pan kelas dan meja guru; Ustaz (baju melayu ungu, kopiah putih) mengawas ujian; Murid perempuan menulis, ada yang mengangkat tangan; Murid menulis close, ustaz ungu di belakang; Murid angkat tangan, menulis; Murid menulis, murid lelaki berjalan menghantar kertas; Murid perempuan menulis, murid lain angkat tangan
+16   02:58.5  03:02.3    3.8s  NARASI  Klip [08]  (had akhir 03:19.7, anggaran bacaan 3.8s)
+                                 02:58.5  "Tangan diangkat, soalan ditanya, ilmu dicari."
+17   03:02.3  03:20.0   17.7s  SENYAP  [Tahun 3 & 4 · Sesi Petang] Split-screen: Pan kelas besar, Pan kelas dan meja guru; Ustaz (baju melayu ungu, kopiah putih) mengawas ujian; Murid perempuan menulis, ada yang mengangkat tangan; Murid menulis close, ustaz ungu di belakang; Murid angkat tangan, menulis; Murid menulis, murid lelaki berjalan menghantar kertas; Murid perempuan menulis, murid lain angkat tangan; [Tahun 5 · Tahun 6] Gambar kumpulan murid Tahun 5 (baju raya) + guru depan papan; Gambar kumpulan murid Tahun 6 (baju raya) + guru yang sama d
+18   03:20.0  03:25.0    5.0s  NARASI  Klip [09]  (had akhir 03:26.7, anggaran bacaan 5.0s)
+                                 03:20.0  "Dan buat Tahun 5 serta Tahun 6, tahun ini membawa makna tersendiri."
+19   03:25.0  03:27.0    2.0s  SENYAP  [Tahun 5 · Tahun 6] Gambar kumpulan murid Tahun 5 (baju raya) + guru depan papan; Gambar kumpulan murid Tahun 6 (baju raya) + guru yang sama d; [Kelas Tambahan SRAI & UPKK] Murid berpakaian seragam menjawab kertas percubaan; kelas be; Sudut lain, langsir biru lama; Murid tekun menjawab soalan, close-up; Murid tekun menjawab latihan
+20   03:27.0  03:31.5    4.5s  NARASI  Klip [10]  (had akhir 03:38.3, anggaran bacaan 4.5s)
+                                 03:27.0  "Persediaan peperiksaan tidak berhenti di waktu persekolahan."
+21   03:31.5  03:38.6    7.1s  SENYAP  [Kelas Tambahan SRAI & UPKK] Murid berpakaian seragam menjawab kertas percubaan; kelas be; Sudut lain, langsir biru lama; Murid tekun menjawab soalan, close-up; Murid tekun menjawab latihan; Murid kelas tambahan SRAI angkat beg cenderahati, sangat cer; Murid angkat beg cenderahati/bekalan sambil senyum; Gambar kumpulan 9 murid + guru (tudung polka dot); Gambar kumpulan kelas tambahan UPKK (baju bebas) + guru (tud
+22   03:38.6  03:42.7    4.1s  NARASI  Klip [11]  (had akhir 03:50.3, anggaran bacaan 4.1s)
+                                 03:38.6  "Penat dibalas senyuman, dan kenangan bersama guru."
+23   03:42.7  03:50.6    7.9s  SENYAP  Murid kelas tambahan SRAI angkat beg cenderahati, sangat cer; Murid angkat beg cenderahati/bekalan sambil senyum; Gambar kumpulan 9 murid + guru (tudung polka dot); Gambar kumpulan kelas tambahan UPKK (baju bebas) + guru (tud; [UPKK/SRAI Rocket Camp 2026] 6 murid lelaki + guru depan skrin "UPKK/SRAI ROCKET CAMP 202; 5 murid perempuan + guru yang sama; 6 murid lelaki duduk barisan depan auditorium; 5 murid perempuan duduk di auditorium, ceria
+24   03:50.6  03:56.6    6.0s  NARASI  Klip [12]  (had akhir 04:01.9, anggaran bacaan 6.0s)
+                                 03:50.6  "Di Rocket Camp, anak-anak kami bersaing dan belajar bersama peserta sekolah lain."
+25   03:56.6  04:02.2    5.6s  SENYAP  [UPKK/SRAI Rocket Camp 2026] 6 murid lelaki + guru depan skrin "UPKK/SRAI ROCKET CAMP 202; 5 murid perempuan + guru yang sama; 6 murid lelaki duduk barisan depan auditorium; 5 murid perempuan duduk di auditorium, ceria; Murid lelaki menulis/menjawab di kerusi auditorium; Murid perempuan menulis; seorang kabur di kiri; Murid buat regangan tangan atas kepala; tali leher Rocket Ca; Gambar kumpulan besar, dewan penuh peserta + fasilitator, ce
+26   04:02.2  04:04.9    2.7s  NARASI  Klip [13]  (had akhir 04:14.1, anggaran bacaan 2.7s)
+                                 04:02.2  "Minda diasah, semangat dibakar."
+27   04:04.9  04:14.4    9.5s  SENYAP  Murid lelaki menulis/menjawab di kerusi auditorium; Murid perempuan menulis; seorang kabur di kiri; Murid buat regangan tangan atas kepala; tali leher Rocket Ca; Gambar kumpulan besar, dewan penuh peserta + fasilitator, ce; [Bacaan Yasin SRAI & UPKK] Wide dari belakang murid perempuan bertelekung menghadap saf; Dari belakang ustaz menghadap semua murid; Ruang solat masjid: ustaz (jubah kelabu) memimpin bacaan Yas; Murid perempuan bertelekung baca Yasin, guru (tudung ungu) d
+28   04:14.4  04:20.5    6.1s  NARASI  Klip [14]  (had akhir 04:26.1, anggaran bacaan 6.1s)
+                                 04:14.4  "Di rumah Allah, alunan Yasin dibaca bersama, mendidik jiwa sejak kecil."
+29   04:20.5  04:26.4    5.9s  SENYAP  [Bacaan Yasin SRAI & UPKK] Wide dari belakang murid perempuan bertelekung menghadap saf; Dari belakang ustaz menghadap semua murid; Ruang solat masjid: ustaz (jubah kelabu) memimpin bacaan Yas; Murid perempuan bertelekung baca Yasin, guru (tudung ungu) d; [Pertandingan Mewarna Sempena Maulidur Rasul] Pertandingan Mewarna Maulidur Rasul dalam dewan solat masjid; Sudut hampir sama, lebih dekat
+30   04:26.4  04:31.3    4.9s  NARASI  Klip [15]  (had akhir 04:32.7, anggaran bacaan 4.9s)
+                                 04:26.4  "Kasih kepada Rasulullah dizahirkan dengan warna dan kreativiti."
+31   04:31.3  04:33.0    1.7s  SENYAP  [Pertandingan Mewarna Sempena Maulidur Rasul] Pertandingan Mewarna Maulidur Rasul dalam dewan solat masjid; Sudut hampir sama, lebih dekat; [Jamuan Hari Raya] Split-screen: Meja juadah (kuih, mihun, puding), murid, Murid beratur ambil makanan
+32   04:33.0  04:36.0    3.0s  NARASI  Klip [16]  (had akhir 04:38.7, anggaran bacaan 3.0s)
+                                 04:33.0  "Syawal disambut dengan juadah dan ukhuwah."
+33   04:36.0  04:39.0    3.0s  SENYAP  [Jamuan Hari Raya] Split-screen: Meja juadah (kuih, mihun, puding), murid, Murid beratur ambil makanan; [Rombongan Ilmiah ke Kuala Lumpur] Kumpulan depan bas (bas "Institut Tadbiran Islam Perak (INTI; Murid lelaki ceria dalam bas (perjalanan); Murid perempuan ceria dalam bas waktu malam
+34   04:39.0  04:42.7    3.7s  NARASI  Klip [17]  (had akhir 04:45.8, anggaran bacaan 3.7s)
+                                 04:39.0  "Pagi itu, rombongan berangkat ke ibu kota."
+35   04:42.7  04:46.1    3.4s  SENYAP  [Rombongan Ilmiah ke Kuala Lumpur] Kumpulan depan bas (bas "Institut Tadbiran Islam Perak (INTI; Murid lelaki ceria dalam bas (perjalanan); Murid perempuan ceria dalam bas waktu malam; Tilt-up fasad muzium; Bangunan muzium bertangga, murid berkumpul di tangga; Kumpulan depan lokomotif 321.01
+36   04:46.1  04:49.1    3.0s  NARASI  Klip [18]  (had akhir 04:55.2, anggaran bacaan 3.0s)
+                                 04:46.1  "Muzium menjadi bilik darjah tanpa dinding…"
+37   04:49.1  04:55.5    6.4s  SENYAP  Tilt-up fasad muzium; Bangunan muzium bertangga, murid berkumpul di tangga; Kumpulan depan lokomotif 321.01; Terowong cahaya imersif, murid berjalan; Murid dalam terowong cahaya angkasa (sama lokasi V46); Murid guna skrin sentuh interaktif galeri angkasa (sama loka; Murid di depan skrin peta interaktif besar; Galeri pameran, murid & guru berjalan
+38   04:55.5  04:57.3    1.8s  NARASI  Klip [19]  (had akhir 05:10.6, anggaran bacaan 1.8s)
+                                 04:55.5  "…dari angkasa lepas…"
+39   04:57.3  05:10.9   13.6s  SENYAP  Terowong cahaya imersif, murid berjalan; Murid dalam terowong cahaya angkasa (sama lokasi V46); Murid guna skrin sentuh interaktif galeri angkasa (sama loka; Murid di depan skrin peta interaktif besar; Galeri pameran, murid & guru berjalan; Murid tunjuk relief "TA' MELAYU HILANG DI-DUNIA" (Hang Tuah); Murid lihat artifak dalam kaca (patung, tembikar); Galeri Prasejarah (Palaeolithic) — murid melihat; Diorama gua/prasejarah; Galeri artifak dalam kaca; Pan dinding pameran "Palestin: Sejarah & Budaya Yang Dilupai; Murid berkumpul di galeri (panel "Islam & China") — muzium s; Kumpulan kecil depan ukiran kayu (sama lokasi I43)
+40   05:10.9  05:13.7    2.8s  NARASI  Klip [20]  (had akhir 05:33.2, anggaran bacaan 2.8s)
+                                 05:10.9  "…ke sejarah bangsa dan tamadun Islam."
+41   05:13.7  05:33.5   19.8s  SENYAP  Murid tunjuk relief "TA' MELAYU HILANG DI-DUNIA" (Hang Tuah); Murid lihat artifak dalam kaca (patung, tembikar); Galeri Prasejarah (Palaeolithic) — murid melihat; Diorama gua/prasejarah; Galeri artifak dalam kaca; Pan dinding pameran "Palestin: Sejarah & Budaya Yang Dilupai; Murid berkumpul di galeri (panel "Islam & China") — muzium s; Kumpulan kecil depan ukiran kayu (sama lokasi I43); [Ilmu Jadi Pemimpin, Iman Jadi Perisai] Murid makan bekal di meja batu taman, ceria; Murid lelaki makan di meja batu bawah pokok; Gambar rasmi rombongan depan panel ukiran kayu + sepanduk; Kumpulan atas tangga bulat biru, kubah biru, sepanduk; Murid di teres bumbung berlatar KL & pokok; Rombongan pulang waktu malam, bergambar bawah khemah
+42   05:33.5  05:37.0    3.5s  NARASI  Klip [21]  (had akhir 05:50.4, anggaran bacaan 3.5s)
+                                 05:33.5  "Pulang membawa ilmu, kenangan dan cerita."
+43   05:37.0  05:50.7   13.7s  SENYAP  [Ilmu Jadi Pemimpin, Iman Jadi Perisai] Murid makan bekal di meja batu taman, ceria; Murid lelaki makan di meja batu bawah pokok; Gambar rasmi rombongan depan panel ukiran kayu + sepanduk; Kumpulan atas tangga bulat biru, kubah biru, sepanduk; Murid di teres bumbung berlatar KL & pokok; Rombongan pulang waktu malam, bergambar bawah khemah; [Gotong-Royong Cuci Kelas] Split-screen: Murid perempuan menyapu/mop lantai basah, Dewan gelap, lantai basah, murid menyapu, Murid mop lantai bilik; Split-screen: Murid mengemas bilik (sofa, meja), Koridor, kerusi disusun, murid mengangka; Murid lelaki & perempuan menggosok lantai; Murid (baju korporat hijau) bergambar ceria selepas cuci lan
+44   05:50.7  05:56.1    5.4s  NARASI  Klip [22]  (had akhir 06:04.6, anggaran bacaan 5.4s)
+                                 05:50.7  "Kebersihan sebahagian daripada iman; kelas dibersihkan bersama."
+45   05:56.1  06:04.9    8.8s  SENYAP  [Gotong-Royong Cuci Kelas] Split-screen: Murid perempuan menyapu/mop lantai basah, Dewan gelap, lantai basah, murid menyapu, Murid mop lantai bilik; Split-screen: Murid mengemas bilik (sofa, meja), Koridor, kerusi disusun, murid mengangka; Murid lelaki & perempuan menggosok lantai; Murid (baju korporat hijau) bergambar ceria selepas cuci lan; Kolaj: Setiap Aktiviti, Satu Pelajaran
+46   06:04.9  06:08.0    3.1s  NARASI  Klip [23]  (had akhir 06:09.9, anggaran bacaan 3.1s)
+                                 06:04.9  "Setiap aktiviti, satu pelajaran."
+47   06:08.0  06:14.4    6.4s  SENYAP  Kolaj: Setiap Aktiviti, Satu Pelajaran; Kad tajuk: BAB 3 · PEMBANGUNAN DAN PENAMBAHBAIKAN SEKOLAH; Bilik guru — tingkap tanpa langsir (sebelum)
+48   06:14.4  06:27.4   13.0s  NARASI  Klip [24]  (had akhir 06:35.5, anggaran bacaan 13.0s)
+                                 06:14.4  "Persekitaran yang selesa membantu proses pembelajaran."
+                                 06:18.7  "Tahun ini, langsir baharu dipasang di bilik darjah, bilik guru dan bilik fail, hasil kerjasama guru dan tukang."
+49   06:27.4  06:35.8    8.4s  SENYAP  [Pemasangan Langsir Baharu] Bilik guru — tukang pasang rel pada tingkap yang sama sepert; Tukang atas tangga pasang rel, guru susun langsir di meja (p; Tukang atas tangga + guru pasang cangkuk (proses); Tukang & guru berbincang ukuran (proses); Bilik fail/stor — tukang pasang langsir (proses); Bilik fail — tukang ukur dinding, kepala guru menghalang kir; Wipe SEBELUM/SELEPAS bilik guru
+50   06:35.8  06:37.4    1.6s  NARASI  Klip [25]  (had akhir 06:40.0, anggaran bacaan 1.6s)
+                                 06:35.8  "Perubahan kecil…"
+51   06:37.4  06:40.3    2.9s  SENYAP  Wipe SEBELUM/SELEPAS bilik guru; Kelas siap berlangsir + pemadam api (selepas); Kelas siap berlangsir (selepas); Bilik fail siap berlangsir (selepas); Bilik guru — guru tersenyum, langsir siap (selepas)
+52   06:40.3  06:44.3    4.0s  NARASI  Klip [26]  (had akhir 06:51.2, anggaran bacaan 4.0s)
+                                 06:40.3  "…yang memberi keselesaan besar kepada warga sekolah."
+53   06:44.3  06:51.5    7.2s  SENYAP  Kelas siap berlangsir + pemadam api (selepas); Kelas siap berlangsir (selepas); Bilik fail siap berlangsir (selepas); Bilik guru — guru tersenyum, langsir siap (selepas); Kad teks: PENAMBAHBAIKAN 2026 (Pemasangan CCTV sekolah, Pemasangan Smart TV dalam kelas, Penukaran kipas yang rosak, Penambahbaikan tingkap sekolah, Penambahbaikan lantai sekolah)
+54   06:51.5  06:57.8    6.3s  NARASI  Klip [27]  (had akhir 06:59.5, anggaran bacaan 6.3s)
+                                 06:51.5  "Penambahbaikan turut dilaksanakan bagi keselamatan dan keselesaan warga sekolah."
+55   06:57.8  07:04.0    6.2s  SENYAP  Kad teks: PENAMBAHBAIKAN 2026 (Pemasangan CCTV sekolah, Pemasangan Smart TV dalam kelas, Penukaran kipas yang rosak, Penambahbaikan tingkap sekolah, Penambahbaikan lantai sekolah); Kad tajuk: BAB 4 · KEJAYAAN DAN PENCAPAIAN 2026; [Sekolah Terbaik UPKK Daerah Batu Gajah] Guru (tudung oren) terima sijil/anugerah atas pentas — Multa
+56   07:04.0  07:23.8   19.8s  NARASI  Klip [28]  (had akhir 07:27.7, anggaran bacaan 19.8s)
+                                 07:04.0  "Di peringkat negeri, SRAR Iskandariah diiktiraf sebagai Sekolah Terbaik UPKK Daerah Batu Gajah."
+                                 07:12.1  "Suara merdu anak kami membawa pulang Naib Johan Tilawah Al-Quran peringkat daerah."   [sari kata muncul 07:10.5]
+                                 07:18.0  "Dan di dalam bilik peperiksaan, usaha terbayar dengan keputusan cemerlang."   [sari kata muncul 07:17.0]
+57   07:23.8  07:28.0    4.2s  SENYAP  [Keputusan Cemerlang 6A] Kolaj 6 murid + 1 guru pegang kad "6A" & slip keputusan; Murid lelaki (cermin mata, baju sukan) pegang kad "6A"; [Majlis Anugerah Kecemerlangan 2025] Meja trofi & cenderahati, pengacara di rostrum, hadirin ibu ; Pan hadirin; tetamu kehormat di sofa (baju batik biru); Murid berdiri beratur dalam dewan
+58   07:28.0  07:31.8    3.8s  NARASI  Klip [29]  (had akhir 07:42.2, anggaran bacaan 3.8s)
+                                 07:28.0  "Kejayaan diraikan bersama ibu bapa dan tetamu."
+59   07:31.8  07:42.6   10.8s  SENYAP  [Majlis Anugerah Kecemerlangan 2025] Meja trofi & cenderahati, pengacara di rostrum, hadirin ibu ; Pan hadirin; tetamu kehormat di sofa (baju batik biru); Murid berdiri beratur dalam dewan; Murid duduk menunggu, close-up wajah; Murid duduk dalam barisan kerusi, pan; Persembahan koir murid di pentas, jelas; Persembahan koir/nasyid murid di pentas, dari belakang hadir; Persembahan pentas, kepala & telefon penonton di depan; Murid lelaki di meja pentas (tilawah/syarahan)
+60   07:42.6  07:45.0    2.4s  NARASI  Klip [30]  (had akhir 08:06.3, anggaran bacaan 2.4s)
+                                 07:42.6  "Bakat murid terserlah di pentas."
+61   07:45.0  08:06.6   21.6s  SENYAP  Murid duduk menunggu, close-up wajah; Murid duduk dalam barisan kerusi, pan; Persembahan koir murid di pentas, jelas; Persembahan koir/nasyid murid di pentas, dari belakang hadir; Persembahan pentas, kepala & telefon penonton di depan; Murid lelaki di meja pentas (tilawah/syarahan)
+62   08:06.6  08:11.2    4.6s  NARASI  Klip [31]  (had akhir 08:12.2, anggaran bacaan 4.6s)
+                                 08:06.6  "Setiap kejayaan ini milik murid, guru, dan ibu bapa."
+63   08:11.2  08:16.6    5.4s  SENYAP  Kolaj: Syukur Atas Setiap Kejayaan; Kad tajuk: BAB 5 · DI SEBALIK TABIR KEJAYAAN
+64   08:16.6  08:27.7   11.1s  NARASI  Klip [32]  (had akhir 08:33.1, anggaran bacaan 11.1s)
+                                 08:16.6  "Sebelum setiap majlis bermula, ada tangan yang menyiapkannya."
+                                 08:21.2  "Di bilik darjah, guru bukan sekadar mengajar, tetapi membimbing satu demi satu."
+65   08:27.7  08:33.4    5.7s  SENYAP  [Sebelum peperiksaan…] Guru mengawas dari meja (belakang), murid menulis; Pan panjang; guru (tudung ungu) membantu murid di hujung kli; Guru (tudung ungu tua) bimbing murid di depan whiteboard; [Sebelum jiwa disentuh…] Close-up ustaz & murid bermikrofon memimpin bacaan
+66   08:33.4  08:36.9    3.5s  NARASI  Klip [33]  (had akhir 08:38.1, anggaran bacaan 3.5s)
+                                 08:33.4  "Di masjid, mereka memimpin dengan teladan."
+67   08:36.9  08:38.4    1.5s  SENYAP  [Sebelum jiwa disentuh…] Close-up ustaz & murid bermikrofon memimpin bacaan; [Sebelum kelas bersinar…] Split-screen: Bilik guru — guru betulkan langsir baru , Guru & murid menyapu lantai dewan
+68   08:38.4  08:51.4   13.0s  NARASI  Klip [34]  (had akhir 08:52.6, anggaran bacaan 13.0s)
+                                 08:38.4  "Dan apabila kerja perlu dilakukan, mereka turun padang bersama."
+                                 08:43.8  "Kepada setiap guru yang pernah berkhidmat di sini, walaupun seketika, jasa kalian tetap dikenang."
+69   08:51.4  08:52.9    1.5s  SENYAP  [Penghargaan Guru Ganti] Ustaz (baju melayu merah bata, kopiah) serah hamper kepada g; Ustaz + guru pegang hamper + guru ke-3 (tudung krim); Kad teks: TERIMA KASIH (Ahli Jawatankuasa Sekolah, Ustaz, Ustazah & Kakitangan, Ibu Bapa & Penjaga, Komuniti & Masjid Setempat, Ustazah Shahirah · Guru Ganti Tahun 1 & 2, Semua Individu yang Membantu Program Sekolah)
+70   08:52.9  09:00.5    7.6s  NARASI  Klip [35]  (had akhir 09:01.6, anggaran bacaan 7.6s)
+                                 08:52.9  "Terima kasih kepada semua pihak yang menjayakan program sekolah sepanjang tahun 2026."
+71   09:00.5  09:01.9    1.4s  SENYAP  Kad teks: TERIMA KASIH (Ahli Jawatankuasa Sekolah, Ustaz, Ustazah & Kakitangan, Ibu Bapa & Penjaga, Komuniti & Masjid Setempat, Ustazah Shahirah · Guru Ganti Tahun 1 & 2, Semua Individu yang Membantu Program Sekolah); Gambar rasmi rombongan depan panel ukiran kayu + sepanduk; Gambar kumpulan kelas tambahan UPKK (baju bebas) + guru (tud; Gambar kumpulan besar, dewan penuh peserta + fasilitator, ce; Murid (baju korporat hijau) bergambar ceria selepas cuci lan; Gambar kumpulan murid Tahun 5 (baju raya) + guru depan papan; Wide dari belakang murid perempuan bertelekung menghadap saf
+72   09:01.9  09:11.6    9.7s  NARASI  Klip [36]  (had akhir 09:11.7, anggaran bacaan 11.1s · Speed 1.15x)
+                                 09:01.9  "Tahun 2026 bukan sekadar catatan aktiviti. Ia kisah tentang ilmu yang dicari, iman yang dipupuk, dan ukhuwah yang terjalin."
+73   09:11.6  09:12.0    0.4s  SENYAP  Gambar kumpulan murid Tahun 6 (baju raya) + guru yang sama d
+74   09:12.0  09:17.3    5.3s  NARASI  Klip [37]  (had akhir 09:17.5, anggaran bacaan 5.3s)
+                                 09:12.0  "Semoga Allah memberkati setiap langkah kita pada tahun-tahun mendatang."
+75   09:17.3  09:39.1   21.8s  SENYAP  Kredit menatal (nama jawatankuasa, foto & video, muzik)
+----------------------------------------------------------------------------------------------------------------
+Jumlah: 75 segmen = 37 klip narasi + 38 ruang senyap. Jumlah masa 09:39.1 = tempoh video 09:39.1.
+Masa bersuara (anggaran): 215 s (3.6 min). Senyap/visual sahaja: 364 s.

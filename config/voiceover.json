@@ -1,0 +1,92 @@
+{
+  "_note": "Skrip suara latar. 't' = saat dari permulaan bab (selari dengan visual dalam chapters/<bab>/timeline.json). 'text' = sari kata & skrip; 'say' (pilihan) = ejaan sebutan untuk TTS sahaja (contoh singkatan & nama). Tiada nama/fakta baharu: semuanya daripada organization.json, activities.json dan storyboard.",
+  "voice": {
+    "engine": "google_cloud_tts",
+    "language": "ms-MY",
+    "name": "ms-MY-Wavenet-B",
+    "gender": "MALE",
+    "speaking_rate": 0.93,
+    "pitch": -2.0
+  },
+  "target_lufs": -16,
+  "chapters": {
+    "00_pembukaan": [
+      {"t": 1.5, "text": "Di sebuah sudut Batu Gajah, Perak, berdirinya Sekolah Rendah Agama Rakyat Iskandariah — sebuah madrasah yang terus menyemai ilmu dan iman dalam diri anak-anak kami."},
+      {"t": 14.0, "text": "Tahun 2026 menyaksikan setiap hari diisi dengan usaha, dan setiap langkah diiringi doa.",
+       "say": "Tahun dua ribu dua puluh enam menyaksikan setiap hari diisi dengan usaha, dan setiap langkah diiringi doa."},
+      {"t": 22.8, "text": "Inilah kisah perjalanan kami sepanjang tahun 2026.",
+       "say": "Inilah kisah perjalanan kami sepanjang tahun dua ribu dua puluh enam."}
+    ],
+    "01_carta_organisasi": [
+      {"t": 0.5, "text": "Di sebalik setiap kejayaan, ada barisan yang memimpin."},
+      {"t": 5.0, "text": "Inilah barisan jawatankuasa sekolah bagi sesi 2026.",
+       "say": "Inilah barisan jawatankuasa sekolah bagi sesi dua ribu dua puluh enam."},
+      {"t": 11.2, "text": "Pengerusi, Tn Hj Jamalludin bin Abd Aziz.", "say": "Pengerusi, Tuan Haji Jamalludin bin Abdul Aziz."},
+      {"t": 19.2, "text": "Timbalan Pengerusi, En Shahbuddin bin Abdullah.", "say": "Timbalan Pengerusi, Encik Shahbuddin bin Abdullah."},
+      {"t": 27.2, "text": "Setiausaha, Ustaz Farikh Ikhsan bin Mohammed."},
+      {"t": 35.1, "text": "Penolong Setiausaha, Pn Nor Faizah binti Wahiddin.", "say": "Penolong Setiausaha, Puan Nor Faizah binti Wahiddin."},
+      {"t": 42.1, "text": "Bendahari, Ustazah Noor Sadina binti Salleh."},
+      {"t": 49.0, "text": "Ahli Jawatankuasa, Pn Suzilawati binti Suhaimi.", "say": "Ahli Jawatankuasa, Puan Suzilawati binti Suhaimi."},
+      {"t": 56.0, "text": "Pn Ameera binti Yusof.", "say": "Puan Ameera binti Yusof."},
+      {"t": 63.0, "text": "En Abd Ghani bin Abu Bakar.", "say": "Encik Abdul Ghani bin Abu Bakar."},
+      {"t": 69.9, "text": "Pn Norafiza binti Mohd Radzi.", "say": "Puan Norafiza binti Mohd Radzi."},
+      {"t": 76.9, "text": "Pemeriksa Kira-Kira, Pn Fithra binti M Nor.", "say": "Pemeriksa Kira-Kira, Puan Fithra binti M. Nor."},
+      {"t": 83.9, "text": "Pn Norsyaruziana binti Abdull.", "say": "Puan Norsyaruziana binti Abdull."},
+      {"t": 89.4, "text": "Bersatu hati, satu matlamat — demi anak-anak kami."}
+    ],
+    "02_aktiviti": [
+      {"t": 4.8, "text": "Hari-hari di Iskandariah bermula di bilik darjah. Di sinilah setiap helaian kertas menjadi saksi usaha anak-anak kami, sejak Tahun Satu lagi."},
+      {"t": 24.2, "text": "Dari pagi hingga ke petang, semangat mereka tidak pernah pudar."},
+      {"t": 39.2, "text": "Mereka tekun menjawab, sementara guru setia memerhati dan membimbing."},
+      {"t": 54.8, "text": "Tangan diangkat, soalan ditanya — ilmu dicari dengan penuh rasa ingin tahu."},
+      {"t": 76.2, "text": "Bagi Tahun Lima dan Tahun Enam, tahun ini membawa makna tersendiri."},
+      {"t": 83.2, "text": "Persediaan peperiksaan tidak berhenti di waktu persekolahan. Kelas tambahan SRAI dan UPKK diadakan untuk memantapkan persediaan murid.",
+       "say": "Persediaan peperiksaan tidak berhenti di waktu persekolahan. Kelas tambahan S.R.A.I. dan U.P.K.K. diadakan untuk memantapkan persediaan murid."},
+      {"t": 95.2, "text": "Penat dibalas senyuman, dan kenangan manis bersama guru."},
+      {"t": 106.9, "text": "Di Rocket Camp 2026, anak-anak kami bersaing dan belajar bersama peserta dari sekolah lain.",
+       "say": "Di Rocket Camp dua ribu dua puluh enam, anak-anak kami bersaing dan belajar bersama peserta dari sekolah lain."},
+      {"t": 118.5, "text": "Minda diasah, semangat dibakar, keyakinan dibina."},
+      {"t": 130.7, "text": "Di rumah Allah, alunan Yasin dibaca bersama — mendidik jiwa sejak kecil."},
+      {"t": 142.7, "text": "Sempena Maulidur Rasul, kasih kepada Rasulullah dizahirkan melalui warna."},
+      {"t": 149.4, "text": "Syawal pula disambut dengan juadah dan ukhuwah."},
+      {"t": 155.3, "text": "Pagi itu, rombongan ilmiah berangkat ke ibu kota."},
+      {"t": 162.4, "text": "Muzium menjadi bilik darjah tanpa dinding…"},
+      {"t": 171.8, "text": "…dari keajaiban angkasa lepas dan teknologi interaktif…"},
+      {"t": 187.2, "text": "…hinggalah kepada sejarah bangsa dan warisan tamadun Islam. Setiap galeri membuka mata, setiap pameran mencetuskan soalan baharu."},
+      {"t": 209.8, "text": "Mereka pulang membawa ilmu, kenangan dan cerita yang akan diingati."},
+      {"t": 227.0, "text": "Kebersihan itu sebahagian daripada iman. Secara bergotong-royong, kelas dan dewan dibersihkan bersama."},
+      {"t": 241.2, "text": "Setiap aktiviti, satu pelajaran."}
+    ],
+    "03_infrastruktur": [
+      {"t": 4.8, "text": "Persekitaran yang selesa membantu proses pembelajaran. Tahun ini, langsir baharu dipasang di bilik darjah, bilik guru dan bilik fail — hasil kerjasama guru dan tukang."},
+      {"t": 26.2, "text": "Perubahan kecil, tetapi memberi keselesaan besar kepada seluruh warga sekolah."},
+      {"t": 41.9, "text": "Penambahbaikan turut diteruskan — CCTV, Smart TV, kipas, tingkap dan lantai sekolah.",
+       "say": "Penambahbaikan turut diteruskan — C.C.T.V., Smart TV, kipas, tingkap dan lantai sekolah."}
+    ],
+    "04_pencapaian": [
+      {"t": 4.6, "text": "Di peringkat negeri, sekolah kita diiktiraf sebagai Sekolah Terbaik UPKK Daerah Batu Gajah.",
+       "say": "Di peringkat negeri, sekolah kita diiktiraf sebagai Sekolah Terbaik U.P.K.K. Daerah Batu Gajah."},
+      {"t": 11.6, "text": "Suara merdu anak kami membawa pulang Naib Johan Tilawah Al-Quran peringkat daerah."},
+      {"t": 18.0, "text": "Di dalam dewan peperiksaan pula, usaha terbayar dengan keputusan cemerlang 6A.",
+       "say": "Di dalam dewan peperiksaan pula, usaha terbayar dengan keputusan cemerlang enam A."},
+      {"t": 28.9, "text": "Kejayaan murid diraikan bersama ibu bapa dan tetamu dalam Majlis Anugerah Kecemerlangan."},
+      {"t": 43.4, "text": "Bakat murid terserlah di pentas."},
+      {"t": 67.5, "text": "Setiap kejayaan ini milik murid, guru dan ibu bapa."}
+    ],
+    "05_di_sebalik_tabir": [
+      {"t": 4.8, "text": "Sebelum setiap majlis bermula, ada tangan yang menyiapkannya."},
+      {"t": 9.3, "text": "Di bilik darjah, guru bukan sekadar mengajar, tetapi membimbing — satu demi satu, dengan sabar."},
+      {"t": 21.6, "text": "Di masjid, mereka memimpin dengan teladan."},
+      {"t": 26.6, "text": "Dan apabila kerja perlu dilakukan, mereka turun padang bersama."},
+      {"t": 32.1, "text": "Kepada guru-guru yang pernah berkhidmat di sini, walaupun seketika, jasa kalian tetap dikenang."},
+      {"t": 41.1, "text": "Terima kasih kepada ahli jawatankuasa, guru, ibu bapa dan komuniti yang menjayakan setiap program."}
+    ],
+    "06_penutup": [
+      {"t": 0.5, "text": "Tahun 2026 bukan sekadar catatan aktiviti. Ia kisah tentang ilmu yang dicari, iman yang dipupuk, dan ukhuwah yang terjalin.",
+       "say": "Tahun dua ribu dua puluh enam bukan sekadar catatan aktiviti. Ia kisah tentang ilmu yang dicari, iman yang dipupuk, dan ukhuwah yang terjalin."},
+      {"t": 10.6, "text": "Semoga Allah memberkati setiap langkah kita pada tahun-tahun mendatang."},
+      {"t": 17.5, "text": "Sekolah Rendah Agama Rakyat Iskandariah. Ilmu jadi pemimpin, iman jadi perisai."},
+      {"t": 27.0, "text": "Terima kasih."}
+    ]
+  }
+}
